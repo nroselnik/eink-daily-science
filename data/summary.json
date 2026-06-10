@@ -1,13 +1,14 @@
 {
-  "title": "Non-modal Scutes Patterns in the Green Turtle Hatchlings: a Possible Effect of Clutch Mass on the Frequency.",
-  "authors": "Bekta\u015f S\u00f6nmez, Cemil Aymak, A\u015fk\u0131n H U\u00e7ar, Remziye S Ergene \u00dczdiyen",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42231935/",
+  "title": "Whole-Genome Sequencing and Comparative Genomic Analysis of Citrobacter farmeri and Enterobacter cloacae from Unhatched Green Turtle Eggs.",
+  "authors": "Nurcan \u00d6nen, Bahad\u0131r T\u00f6r\u00fcn, Can Y\u0131lmaz",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42188932/",
   "date": "2026-06-10",
-  "summary": "Researchers studied green sea turtle hatchlings to understand why some develop unusual shell patterns (non-modal scute patterns) instead of the typical pattern. They found that the total weight of eggs in a nest appears to influence how often these unusual patterns occur, accounting for about 26% of the variation, though other environmental factors likely play a role too.",
+  "summary": "Scientists studied bacteria found in dead sea turtle eggs on a Mediterranean beach and decoded the complete genetic instructions of two harmful bacterial species. They discovered these bacteria have genes that make them resistant to antibiotics and tools to infect and damage the turtle embryos.",
   "key_points": [
-    "About 25% of the 1,064 hatchlings studied had non-standard shell scute patterns instead of the typical arrangement",
-    "Clutch mass (total egg weight) was the strongest factor linked to unusual pattern frequency, more so than nest depth or sand coverage",
-    "Multiple factors\u2014both genetic and environmental\u2014likely work together to cause these pattern variations, but clutch mass alone doesn't fully explain them"
+    "Two types of bacteria (Citrobacter farmeri and Enterobacter cloacae) were found in unhatched green turtle eggs at a nesting beach",
+    "The bacteria carry multiple antibiotic-resistance genes, making them harder to treat with common medicines",
+    "The bacteria possess virulence factors that help them stick to cells and steal iron, enabling them to cause infections",
+    "The research suggests monitoring bacterial threats could help protect endangered sea turtle populations"
   ],
-  "why_it_matters": "Understanding what causes variation in sea turtle development helps scientists monitor population health and may reveal how environmental conditions affect embryonic development in these endangered animals."
+  "why_it_matters": "Understanding what bacteria are killing sea turtle eggs and how resistant they are to treatment is crucial for conserving endangered sea turtles and managing nesting beaches effectively."
 }
