@@ -1,13 +1,13 @@
 {
-  "title": "Autonomous Sea Turtle Robot for Marine Fieldwork",
-  "authors": "Zach J. Patterson, Emily Sologuren, Levi Cai, Daniel Kim, Alaa Maalouf, Pascal Spino, Daniela Rus",
-  "url": "http://arxiv.org/abs/2602.21389v1",
+  "title": "Seasonal and sexual variations in plasma concentrations of testosterone, 17\u03b2-estradiol, and progesterone in the endangered Beale's Eyed Turtle, Sacalia bealei, in captivity.",
+  "authors": "Hui Li, Han Yang, Ying-Nan Lu, Hai-Tao Shi, Liu Lin",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42267087/",
   "date": "2026-06-10",
-  "summary": "Researchers built a robot shaped like a sea turtle that can swim autonomously underwater and track moving animals in coral reefs. The robot combines soft, flexible materials inspired by real sea turtles with smart computer vision systems that help it avoid obstacles and follow targets while navigating complex reef environments.",
+  "summary": "Scientists studied how hormone levels change throughout the year in a critically endangered Chinese turtle species kept in captivity. They found that male and female turtles have different seasonal patterns of three key reproductive hormones\u2014testosterone, estradiol, and progesterone\u2014that control when they breed and reproduce.",
   "key_points": [
-    "The robot uses a sea turtle-inspired design for swimming, which is gentler and less disruptive to marine life than traditional submarine robots",
-    "It has advanced onboard vision systems and control software that let it navigate obstacles and track fast-moving animals without constant remote control",
-    "The robot was successfully tested in both controlled pools and a real coral reef exhibit, achieving 91% success in safely avoiding obstacles"
+    "Male turtles show two peaks of testosterone (in May and August), suggesting they prepare for mating twice a year using a special strategy where they produce sperm after the breeding season ends",
+    "Female turtles show a single peak of estradiol in April that triggers egg development, with progesterone peaking in June during ovulation, indicating they breed once per year",
+    "The hormone patterns are interconnected and work together to coordinate all the reproductive processes in both sexes"
   ],
-  "why_it_matters": "This technology enables scientists to closely study and monitor marine animals and coral ecosystems without harming them, which is crucial for understanding and protecting ocean biodiversity."
+  "why_it_matters": "Understanding these natural hormone cycles is essential for breeding programs and conservation efforts aimed at saving this critically endangered turtle species from extinction."
 }
