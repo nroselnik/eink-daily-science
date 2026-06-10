@@ -1,13 +1,13 @@
 {
-  "title": "ReflectiChain: Epistemic Grounding in LLM-Driven World Models for Supply Chain Resilience",
-  "authors": "Jia Luo",
-  "url": "https://arxiv.org/abs/2606.10359",
+  "title": "Autonomous Sea Turtle Robot for Marine Fieldwork",
+  "authors": "Zach J. Patterson, Emily Sologuren, Levi Cai, Daniel Kim, Alaa Maalouf, Pascal Spino, Daniela Rus",
+  "url": "http://arxiv.org/abs/2602.21389v1",
   "date": "2026-06-10",
-  "summary": "This research tackles a key problem in supply chain management: AI systems that understand written policies but can't handle real-world physics, while systems that optimize logistics can't understand complex constraints written in natural language. The solution combines language models with a special computer simulation that tracks how goods flow through networks while keeping everything physically realistic, using a learning method that separately handles different types of uncertainty.",
+  "summary": "Researchers built a robot shaped like a sea turtle that can swim autonomously underwater and track moving animals in coral reefs. The robot combines soft, flexible materials inspired by real sea turtles with smart computer vision systems that help it avoid obstacles and follow targets while navigating complex reef environments.",
   "key_points": [
-    "The system bridges two AI worlds\u2014language understanding and logical optimization\u2014that normally don't work well together",
-    "It uses a compact mathematical representation of supply networks that respects real-world physical limits like conservation of materials",
-    "When tested on semiconductor supply disruptions, it performed 33% better at explaining its reasoning, kept functioning 82% of the time during attacks, and actually got better under moderate stress"
+    "The robot uses a sea turtle-inspired design for swimming, which is gentler and less disruptive to marine life than traditional submarine robots",
+    "It has advanced onboard vision systems and control software that let it navigate obstacles and track fast-moving animals without constant remote control",
+    "The robot was successfully tested in both controlled pools and a real coral reef exhibit, achieving 91% success in safely avoiding obstacles"
   ],
-  "why_it_matters": "Supply chains are critical to everything we buy, and knowing when and how they'll break down during crises could help companies survive disruptions while preventing widespread shortages."
+  "why_it_matters": "This technology enables scientists to closely study and monitor marine animals and coral ecosystems without harming them, which is crucial for understanding and protecting ocean biodiversity."
 }
