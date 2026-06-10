@@ -1,35 +1,54 @@
 import os
 import json
-import random
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import requests
 import anthropic
 
-ARXIV_FEED = "https://rss.arxiv.org/rss/cs.AI"
+ARXIV_API = "http://export.arxiv.org/api/query"
+SEARCH_QUERY = 'ti:"sea turtle" OR abs:"sea turtle"'
+MAX_AGE_DAYS = 365
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "summary.json")
 
 
-def fetch_random_paper():
-    response = requests.get(ARXIV_FEED, timeout=15)
+def fetch_latest_paper():
+    response = requests.get(
+        ARXIV_API,
+        params={
+            "search_query": SEARCH_QUERY,
+            "sortBy": "submittedDate",
+            "sortOrder": "descending",
+            "max_results": 1,
+        },
+        timeout=15,
+    )
     response.raise_for_status()
 
     root = ET.fromstring(response.content)
-    ns = {"dc": "http://purl.org/dc/elements/1.1/"}
-    items = root.findall(".//item")
-    if not items:
-        raise ValueError("No papers found in arXiv feed")
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    entry = root.find("atom:entry", ns)
+    if entry is None:
+        raise ValueError(f"No papers found for query: {SEARCH_QUERY}")
 
-    item = random.choice(items)
+    published = entry.findtext("atom:published", "", ns).strip()
+    published_date = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ")
+    if datetime.utcnow() - published_date > timedelta(days=MAX_AGE_DAYS):
+        raise ValueError(
+            f"Latest matching paper is older than {MAX_AGE_DAYS} days "
+            f"(published {published_date:%Y-%m-%d})"
+        )
 
-    title = item.findtext("title", "").strip()
-    link = item.findtext("link", "").strip()
-    authors_el = item.findall("dc:creator", ns)
-    authors = ", ".join(a.text.strip() for a in authors_el if a.text) or "Unknown"
-    description = item.findtext("description", "").strip()
+    title = " ".join(entry.findtext("atom:title", "", ns).split())
+    link = entry.findtext("atom:id", "", ns).strip()
+    authors = ", ".join(
+        name.text.strip()
+        for name in entry.findall("atom:author/atom:name", ns)
+        if name.text
+    ) or "Unknown"
+    abstract = " ".join(entry.findtext("atom:summary", "", ns).split())
 
-    return {"title": title, "url": link, "authors": authors, "abstract": description}
+    return {"title": title, "url": link, "authors": authors, "abstract": abstract}
 
 
 def summarize(paper: dict) -> dict:
@@ -75,7 +94,7 @@ Return ONLY valid JSON with this exact structure (no markdown, no extra text):
 
 
 if __name__ == "__main__":
-    paper = fetch_random_paper()
+    paper = fetch_latest_paper()
     result = summarize(paper)
 
     out = os.path.abspath(OUTPUT_PATH)
