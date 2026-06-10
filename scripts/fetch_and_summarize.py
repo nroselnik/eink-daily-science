@@ -55,6 +55,12 @@ Return ONLY valid JSON with this exact structure (no markdown, no extra text):
     )
 
     raw = message.content[0].text.strip()
+    # strip markdown code fences if present
+    if raw.startswith("```"):
+        raw = raw.split("```", 2)[1]
+        if raw.startswith("json"):
+            raw = raw[4:]
+        raw = raw.strip()
     parsed = json.loads(raw)
 
     return {
