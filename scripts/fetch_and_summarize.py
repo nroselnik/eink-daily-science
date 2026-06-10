@@ -1,54 +1,69 @@
 import os
 import json
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime
 
 import requests
 import anthropic
 
-ARXIV_API = "http://export.arxiv.org/api/query"
-SEARCH_QUERY = 'ti:"sea turtle" OR abs:"sea turtle"'
+PUBMED_ESEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+PUBMED_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+SEARCH_TERM = "turtle[Title/Abstract]"
 MAX_AGE_DAYS = 365
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "summary.json")
 
 
 def fetch_latest_paper():
-    response = requests.get(
-        ARXIV_API,
+    search = requests.get(
+        PUBMED_ESEARCH,
         params={
-            "search_query": SEARCH_QUERY,
-            "sortBy": "submittedDate",
-            "sortOrder": "descending",
-            "max_results": 1,
+            "db": "pubmed",
+            "term": SEARCH_TERM,
+            "sort": "date",
+            "retmax": 1,
+            "datetype": "pdat",
+            "reldate": MAX_AGE_DAYS,
+            "retmode": "json",
         },
         timeout=15,
     )
-    response.raise_for_status()
-
-    root = ET.fromstring(response.content)
-    ns = {"atom": "http://www.w3.org/2005/Atom"}
-    entry = root.find("atom:entry", ns)
-    if entry is None:
-        raise ValueError(f"No papers found for query: {SEARCH_QUERY}")
-
-    published = entry.findtext("atom:published", "", ns).strip()
-    published_date = datetime.strptime(published, "%Y-%m-%dT%H:%M:%SZ")
-    if datetime.utcnow() - published_date > timedelta(days=MAX_AGE_DAYS):
+    search.raise_for_status()
+    id_list = search.json()["esearchresult"]["idlist"]
+    if not id_list:
         raise ValueError(
-            f"Latest matching paper is older than {MAX_AGE_DAYS} days "
-            f"(published {published_date:%Y-%m-%d})"
+            f"No papers found for '{SEARCH_TERM}' in the last {MAX_AGE_DAYS} days"
         )
+    pmid = id_list[0]
 
-    title = " ".join(entry.findtext("atom:title", "", ns).split())
-    link = entry.findtext("atom:id", "", ns).strip()
+    fetch = requests.get(
+        PUBMED_EFETCH,
+        params={"db": "pubmed", "id": pmid, "retmode": "xml"},
+        timeout=15,
+    )
+    fetch.raise_for_status()
+
+    article = ET.fromstring(fetch.content).find(".//Article")
+    if article is None:
+        raise ValueError(f"Could not parse PubMed record for PMID {pmid}")
+
+    title = " ".join("".join(article.find("ArticleTitle").itertext()).split())
+    abstract = " ".join(
+        " ".join(t.itertext()) for t in article.findall(".//AbstractText")
+    ).strip()
+    if not abstract:
+        raise ValueError(f"PMID {pmid} has no abstract to summarize")
     authors = ", ".join(
-        name.text.strip()
-        for name in entry.findall("atom:author/atom:name", ns)
-        if name.text
+        f"{a.findtext('ForeName', '')} {a.findtext('LastName', '')}".strip()
+        for a in article.findall(".//Author")
+        if a.find("LastName") is not None
     ) or "Unknown"
-    abstract = " ".join(entry.findtext("atom:summary", "", ns).split())
 
-    return {"title": title, "url": link, "authors": authors, "abstract": abstract}
+    return {
+        "title": title,
+        "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+        "authors": authors,
+        "abstract": abstract,
+    }
 
 
 def summarize(paper: dict) -> dict:
