@@ -1,5 +1,6 @@
 import os
 import json
+import random
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
@@ -10,6 +11,7 @@ PUBMED_ESEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 SEARCH_TERM = "turtle[Title/Abstract]"
 MAX_AGE_DAYS = 365
+POOL_SIZE = 20  # pick randomly among this many of the newest papers
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "summary.json")
 
 
@@ -20,7 +22,7 @@ def fetch_latest_paper():
             "db": "pubmed",
             "term": SEARCH_TERM,
             "sort": "date",
-            "retmax": 1,
+            "retmax": POOL_SIZE,
             "datetype": "pdat",
             "reldate": MAX_AGE_DAYS,
             "retmode": "json",
@@ -33,7 +35,7 @@ def fetch_latest_paper():
         raise ValueError(
             f"No papers found for '{SEARCH_TERM}' in the last {MAX_AGE_DAYS} days"
         )
-    pmid = id_list[0]
+    pmid = random.choice(id_list)
 
     fetch = requests.get(
         PUBMED_EFETCH,
