@@ -1,6 +1,7 @@
 import os
 import json
 import random
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
@@ -11,8 +12,10 @@ PUBMED_ESEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 PUBMED_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 SEARCH_TERM = "sea turtle[Title/Abstract]"
 MAX_AGE_DAYS = 365
-POOL_SIZE = 20          # pick randomly among this many of the newest papers
-MAX_TRIES = 6           # retry picks that have no usable abstract
+POOL_SIZE = 120         # pick randomly among this many of the newest papers
+PAPERS_PER_RUN = 10     # how many new papers to add per run
+MAX_MISSES = 15         # give up after this many picks with no usable abstract
+REQUEST_DELAY = 0.4     # PubMed allows ~3 requests/sec without an API key
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 ARCHIVE_PATH = os.path.join(DATA_DIR, "archive.json")
 SUMMARY_PATH = os.path.join(DATA_DIR, "summary.json")   # latest, for compatibility
@@ -64,26 +67,34 @@ def _fetch(pmid):
     }
 
 
-def fetch_new_paper(known_urls):
-    """Pick a recent paper (with an abstract) not already in the archive."""
+def fetch_new_papers(known_urls, count):
+    """Pick up to `count` recent papers (each with an abstract) not already in the archive.
+
+    The pool is fetched once and walked, so a batch costs one search rather than
+    one per paper. Returns fewer than `count` if the pool runs dry.
+    """
     ids = _pool()
     random.shuffle(ids)
-    tries = 0
+    papers = []
+    misses = 0
     for pmid in ids:
-        if tries >= MAX_TRIES:
+        if len(papers) >= count or misses >= MAX_MISSES:
             break
         url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
         if url in known_urls:
             continue
-        tries += 1
+        time.sleep(REQUEST_DELAY)
         paper = _fetch(pmid)
         if paper:
-            return paper
-    raise ValueError("Could not find a new paper with an abstract in the pool")
+            papers.append(paper)
+        else:
+            misses += 1
+    if not papers:
+        raise ValueError("Could not find any new papers with abstracts in the pool")
+    return papers
 
 
-def summarize(paper: dict) -> dict:
-    client = anthropic.Anthropic()
+def summarize(paper: dict, client) -> dict:
     prompt = f"""You are explaining science to a curious non-scientist. Given this paper:
 
 Title: {paper['title']}
@@ -133,13 +144,25 @@ if __name__ == "__main__":
     archive = load_archive()
     known = {p.get("url") for p in archive}
 
-    paper = fetch_new_paper(known)
-    result = summarize(paper)
+    papers = fetch_new_papers(known, PAPERS_PER_RUN)
+    client = anthropic.Anthropic()
 
-    archive.append(result)                       # grow the list
+    added = []
+    for paper in papers:
+        try:
+            added.append(summarize(paper, client))
+        except Exception as exc:                 # one bad summary shouldn't void the run
+            print(f"skipped {paper['title'][:60]!r}: {exc}")
+
+    if not added:
+        raise SystemExit("No papers summarized; leaving the archive untouched.")
+
+    archive.extend(added)                        # grow the list
     with open(ARCHIVE_PATH, "w") as f:
         json.dump(archive, f, indent=2)
     with open(SUMMARY_PATH, "w") as f:           # keep latest for compatibility
-        json.dump(result, f, indent=2)
+        json.dump(added[-1], f, indent=2)
 
-    print(f"Archive now has {len(archive)} papers. Added: {result['title']}")
+    print(f"Archive now has {len(archive)} papers. Added {len(added)}:")
+    for p in added:
+        print(f"  - {p['title']}")
