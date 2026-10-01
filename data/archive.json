@@ -1377,5 +1377,58 @@
       "The mother's own body size and blood chemistry were measured too"
     ],
     "why_it_matters": "Shading nests turns out to improve hatchling immune function as well as survival, which is a stronger argument for the practice than anyone had."
+  },
+  {
+    "title": "Marine-Inspired Multimodal Sensor Fusion and Neuromorphic Processing for Autonomous Navigation in Unstructured Subaquatic Environments.",
+    "authors": "Chandan Sheikder, Weimin Zhang, Xiaopeng Chen, Fangxing Li, Yichang Liu, Zhengqing Zuo, Xiaohai He, Xinyan Tan",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41228850/",
+    "date": "2026-10-01",
+    "summary": "Scientists created a new navigation system for underwater robots that copies how marine animals like sea turtles, octopuses, and jellyfish find their way in murky, complex underwater environments. Instead of using traditional GPS and computer processing, they combined special sensors inspired by these animals with a brain-like computer chip that processes information very efficiently and quickly.",
+    "key_points": [
+      "The system uses multiple sensors working together (like how octopuses combine touch and smell) rather than relying on single sensors that fail easily",
+      "It processes information using neuromorphic processors that mimic how animal brains work, using far less power than conventional computers",
+      "It eliminates the need for GPS and works in dark, murky waters where normal navigation systems don't function"
+    ],
+    "why_it_matters": "This technology could revolutionize deep-sea exploration, underwater environmental monitoring, and inspection of underwater infrastructure by allowing robots to navigate safely and efficiently in places where traditional systems fail."
+  },
+  {
+    "title": "Dynamic intrusion detection for internet of drones using glowworm swarm optimization.",
+    "authors": "Radha Kowtharapu, C H Surya Kiran, P Aruna Kumari",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41862594/",
+    "date": "2026-10-01",
+    "summary": "This paper presents a new security system for networks of drones that can automatically detect when someone is trying to hack into them. The system uses an algorithm inspired by how glowworms communicate and swarm together to quickly identify the most important warning signs of an attack, then uses those signs to catch intrusions in real-time while using minimal computing power.",
+    "key_points": [
+      "The system uses a nature-inspired algorithm (based on glowworm behavior) to automatically select which warning signs are most important for detecting attacks, reducing unnecessary data processing",
+      "It compares itself against similar bio-inspired methods and shows it's better at catching real attacks while producing fewer false alarms and using less computing time",
+      "The approach is designed to adapt and work well even as drone networks grow larger and attacks become more complex and varied"
+    ],
+    "why_it_matters": "As drone networks become more common in real-world applications, this technology helps protect them from cyber attacks while working efficiently on the limited computing power that drones have available."
+  },
+  {
+    "title": "Machine learning-based MPPT integration with quadratic double-extended DC-DC converter for grid-connected PV-powered BLDC electric vehicles.",
+    "authors": "D Karthikeyan, Vinod Kumar Shukla, K Rajesh",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41764251/",
+    "date": "2026-10-01",
+    "summary": "This paper describes a new electrical system designed to power electric vehicles using solar energy more efficiently. The system uses a special converter and an artificial intelligence algorithm to capture the maximum power from solar panels and deliver it to the vehicle's motor, while also allowing the vehicle to use power from the grid or a battery when needed.",
+    "key_points": [
+      "Solar panels produce DC electricity, but the voltage is often too low, so a new 'Quadratic Double Extended' converter boosts it to usable levels with less electrical stress",
+      "An artificial intelligence system inspired by sea turtle hunting behavior learns to constantly find and extract the maximum available power from the solar panels",
+      "The system is flexible and can switch between three power sources (solar panels, electrical grid, and battery) and charge the battery when solar power is abundant"
+    ],
+    "why_it_matters": "As electric vehicles become more common to reduce pollution, using solar power more efficiently could extend driving range and reduce charging costs while contributing to cleaner energy production."
+  },
+  {
+    "title": "Correction: Metagenomic insights reveal the differences in the community composition and functional characteristics of the sea turtle microbiomes based on host species and tissue region.",
+    "authors": "Unknown",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41195399/",
+    "date": "2026-10-01",
+    "summary": "This is a correction notice for a scientific study about the tiny microorganisms (bacteria and other microbes) that live on and inside sea turtles. The original study found that different sea turtle species and different body parts have different communities of these microorganisms, which affects how the turtles' bodies function.",
+    "key_points": [
+      "Sea turtles host different microbiomes depending on what species they are",
+      "Different parts of a sea turtle's body have different microbial communities",
+      "These microbial differences affect important body functions and health",
+      "The original research paper needed corrections to its findings or data"
+    ],
+    "why_it_matters": "Understanding sea turtle microbiomes helps scientists protect these endangered animals by revealing how their health depends on beneficial microorganisms."
   }
 ]

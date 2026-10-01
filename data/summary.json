@@ -1,14 +1,14 @@
 {
-  "title": "Highly Contiguous Is Not Chromosomally Accurate: Integrated Cytogenetic and Genomic Mapping in Two Turtle Genome.",
-  "authors": "Anastasia A Proskuryakova, Katerina V Tishakova, Maria M Kulak, Arina V Ilina, Sergey A Marchenko, Lada S Lisachova, Guzel I Davletshina, Elena I Shagimardanova, Alessio Iannucci, Vladimir A Trifonov, Svetlana A Romanenko",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42752637/",
+  "title": "Correction: Metagenomic insights reveal the differences in the community composition and functional characteristics of the sea turtle microbiomes based on host species and tissue region.",
+  "authors": "Unknown",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41195399/",
   "date": "2026-10-01",
-  "summary": "Scientists created detailed genetic maps of two turtle species by combining traditional chromosome imaging techniques with modern DNA sequencing data. They discovered that even when genome assemblies look complete and well-organized, they can contain mistakes in how chromosomes are actually arranged, highlighting the need to double-check genetic maps with physical evidence.",
+  "summary": "This is a correction notice for a scientific study about the tiny microorganisms (bacteria and other microbes) that live on and inside sea turtles. The original study found that different sea turtle species and different body parts have different communities of these microorganisms, which affects how the turtles' bodies function.",
   "key_points": [
-    "High-quality genome assemblies can still have errors in chromosome structure that aren't caught by sequencing alone",
-    "Using chromosome-specific probes and physical mapping techniques can reveal mistakes that computational methods miss",
-    "One turtle species' assembly was accurate while the other had a false rearrangement, showing these problems are unpredictable",
-    "These errors could lead to incorrect conclusions about how species evolved and how genes are organized"
+    "Sea turtles host different microbiomes depending on what species they are",
+    "Different parts of a sea turtle's body have different microbial communities",
+    "These microbial differences affect important body functions and health",
+    "The original research paper needed corrections to its findings or data"
   ],
-  "why_it_matters": "Accurate genome maps are critical for medical research, understanding evolution, and finding genes, so validating them with multiple methods prevents costly mistakes in downstream research."
+  "why_it_matters": "Understanding sea turtle microbiomes helps scientists protect these endangered animals by revealing how their health depends on beneficial microorganisms."
 }
