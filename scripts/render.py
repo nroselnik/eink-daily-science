@@ -67,8 +67,31 @@ def _draw_wrapped(draw, text, font, x, y, max_width, line_height, max_lines=None
     return y
 
 
-def build_image(data):
-    """Render the summary dict to an 'L' (grayscale) image, black on white."""
+def _draw_battery(draw, batt, x, y, font):
+    """Small battery glyph + percentage for the bottom-left page margin.
+
+    Deliberately understated: it sits in the empty margin strip below the
+    footer rule so it never competes with the paper content.
+    """
+    pct = batt["percent"]
+    bw, bh = 26, 13
+    draw.rectangle([x, y, x + bw, y + bh], outline=INK, width=1)
+    draw.rectangle([x + bw + 2, y + 4, x + bw + 4, y + bh - 4], fill=INK)  # terminal nub
+    fill_w = int(round((bw - 4) * pct / 100.0))
+    if fill_w > 0:
+        draw.rectangle([x + 2, y + 2, x + 2 + fill_w, y + bh - 2], fill=INK)
+
+    label = f"{pct:.0f}%"
+    if batt.get("charging"):
+        label += "  charging"
+    draw.text((x + bw + 11, y - 3), label, font=font, fill=INK)
+
+
+def build_image(data, battery=None, host=None):
+    """Render the summary dict to an 'L' (grayscale) image, black on white.
+
+    battery: optional dict from ups.read(); omitted entirely when None.
+    """
     img = Image.new("L", (WIDTH, HEIGHT), PAPER)
     draw = ImageDraw.Draw(img)
 
@@ -121,5 +144,118 @@ def build_image(data):
     for line in footer_lines:
         draw.text((MARGIN, ty), line, font=f_small, fill=INK)
         ty += 27
+
+    # Battery, tucked into the bottom margin. footer_lines is bottom-anchored so
+    # its last line always ends near y=638, leaving this strip clear.
+    if battery:
+        _draw_battery(draw, battery, MARGIN, HEIGHT - 26, _font(_SERIF, 16))
+
+    # Where to go to change the slide interval. Right-aligned on the battery's
+    # baseline so the two share the bottom margin strip without colliding.
+    if host:
+        f_host = _font(_SERIF, 16)
+        draw.text((WIDTH - MARGIN - draw.textlength(host, font=f_host), HEIGHT - 29),
+                  host, font=f_host, fill=INK)
+
+    return img
+
+
+def build_setup_image(ap_ssid, ap_pass, url, timeout_min=5):
+    """Render the 'no known Wi-Fi' setup-instructions screen."""
+    img = Image.new("L", (WIDTH, HEIGHT), PAPER)
+    draw = ImageDraw.Draw(img)
+
+    f_header = _font(_SERIF_BOLD, 22)
+    f_h1 = _font(_SERIF_BOLD, 40)
+    f_body = _font(_SERIF, 27)
+    f_step = _font(_SERIF, 26)
+    f_val = _font(_SERIF_BOLD, 30)
+    f_small = _font(_SERIF_ITALIC, 20)
+
+    bar_h = 48
+    draw.rectangle([0, 0, WIDTH, bar_h], fill=INK)
+    draw.text((MARGIN, 11), "WI-FI SETUP", font=f_header, fill=PAPER)
+    draw.text((WIDTH - MARGIN - draw.textlength("no connection", font=f_header), 11),
+              "no connection", font=f_header, fill=PAPER)
+
+    y = bar_h + 30
+    draw.text((MARGIN, y), "No known network found", font=f_h1, fill=INK)
+    y += 58
+    y = _draw_wrapped(draw, "Connect a phone or laptop to set up Wi-Fi:",
+                      f_body, MARGIN, y, WIDTH - 2 * MARGIN, 34)
+    y += 24
+
+    steps = [
+        ("1.  Join this Wi-Fi hotspot:", f"{ap_ssid}   (password: {ap_pass})"),
+        ("2.  Open a browser to:", url),
+        ("3.  Enter your Wi-Fi name & password.", None),
+    ]
+    for label, value in steps:
+        draw.text((MARGIN, y), label, font=f_step, fill=INK)
+        y += 34
+        if value:
+            draw.text((MARGIN + 34, y), value, font=f_val, fill=INK)
+            y += 44
+        y += 8
+
+    footer = (f"Waiting {timeout_min} min for setup, then showing saved "
+              f"papers in offline mode.")
+    ty = HEIGHT - MARGIN - 27
+    draw.line([MARGIN, ty - 12, WIDTH - MARGIN, ty - 12], fill=INK, width=1)
+    for line in _wrap(draw, footer, f_small, WIDTH - 2 * MARGIN)[:2]:
+        draw.text((MARGIN, ty), line, font=f_small, fill=INK)
+        ty += 25
+
+    return img
+
+
+def build_lowbatt_image(batt):
+    """Render the 'shutting down, out of charge' screen.
+
+    E-ink holds its last image with no power, so this is what the panel will
+    be showing while the Pi is off -- it has to explain itself to someone who
+    walks up to a dark device, and say what to do about it.
+    """
+    img = Image.new("L", (WIDTH, HEIGHT), PAPER)
+    draw = ImageDraw.Draw(img)
+
+    f_header = _font(_SERIF_BOLD, 22)
+    f_h1 = _font(_SERIF_BOLD, 40)
+    f_body = _font(_SERIF, 27)
+    f_small = _font(_SERIF_ITALIC, 20)
+
+    bar_h = 48
+    draw.rectangle([0, 0, WIDTH, bar_h], fill=INK)
+    draw.text((MARGIN, 11), "BATTERY EMPTY", font=f_header, fill=PAPER)
+    label = "powered down"
+    draw.text((WIDTH - MARGIN - draw.textlength(label, font=f_header), 11),
+              label, font=f_header, fill=PAPER)
+
+    y = bar_h + 40
+    draw.text((MARGIN, y), "Out of charge", font=f_h1, fill=INK)
+    y += 64
+
+    pct = batt["percent"] if batt else 0.0
+    volts = batt["volts"] if batt else 0.0
+    _draw_battery(draw, {"percent": pct, "charging": False},
+                  MARGIN, y + 4, _font(_SERIF, 16))
+    draw.text((MARGIN + 120, y - 3), f"{volts:.2f} V per cell",
+              font=f_body, fill=INK)
+    y += 62
+
+    y = _draw_wrapped(
+        draw,
+        "The display shut itself down cleanly to protect the SD card. "
+        "Plug the charger into the USB-C socket on the UPS board, then press "
+        "the Pi's power button once to start it up again.",
+        f_body, MARGIN, y, WIDTH - 2 * MARGIN, 36)
+
+    footer = ("Nothing is lost — the paper archive and Wi-Fi settings are "
+              "saved on disk.")
+    ty = HEIGHT - MARGIN - 27
+    draw.line([MARGIN, ty - 12, WIDTH - MARGIN, ty - 12], fill=INK, width=1)
+    for line in _wrap(draw, footer, f_small, WIDTH - 2 * MARGIN)[:2]:
+        draw.text((MARGIN, ty), line, font=f_small, fill=INK)
+        ty += 25
 
     return img
