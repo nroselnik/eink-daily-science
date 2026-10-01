@@ -1,14 +1,14 @@
 {
-  "title": "Whole-Genome Sequencing and Comparative Genomic Analysis of Citrobacter farmeri and Enterobacter cloacae from Unhatched Green Turtle Eggs.",
-  "authors": "Nurcan \u00d6nen, Bahad\u0131r T\u00f6r\u00fcn, Can Y\u0131lmaz",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42188932/",
-  "date": "2026-06-10",
-  "summary": "Scientists studied bacteria found in dead sea turtle eggs on a Mediterranean beach and decoded the complete genetic instructions of two harmful bacterial species. They discovered these bacteria have genes that make them resistant to antibiotics and tools to infect and damage the turtle embryos.",
+  "title": "Highly Contiguous Is Not Chromosomally Accurate: Integrated Cytogenetic and Genomic Mapping in Two Turtle Genome.",
+  "authors": "Anastasia A Proskuryakova, Katerina V Tishakova, Maria M Kulak, Arina V Ilina, Sergey A Marchenko, Lada S Lisachova, Guzel I Davletshina, Elena I Shagimardanova, Alessio Iannucci, Vladimir A Trifonov, Svetlana A Romanenko",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42752637/",
+  "date": "2026-10-01",
+  "summary": "Scientists created detailed genetic maps of two turtle species by combining traditional chromosome imaging techniques with modern DNA sequencing data. They discovered that even when genome assemblies look complete and well-organized, they can contain mistakes in how chromosomes are actually arranged, highlighting the need to double-check genetic maps with physical evidence.",
   "key_points": [
-    "Two types of bacteria (Citrobacter farmeri and Enterobacter cloacae) were found in unhatched green turtle eggs at a nesting beach",
-    "The bacteria carry multiple antibiotic-resistance genes, making them harder to treat with common medicines",
-    "The bacteria possess virulence factors that help them stick to cells and steal iron, enabling them to cause infections",
-    "The research suggests monitoring bacterial threats could help protect endangered sea turtle populations"
+    "High-quality genome assemblies can still have errors in chromosome structure that aren't caught by sequencing alone",
+    "Using chromosome-specific probes and physical mapping techniques can reveal mistakes that computational methods miss",
+    "One turtle species' assembly was accurate while the other had a false rearrangement, showing these problems are unpredictable",
+    "These errors could lead to incorrect conclusions about how species evolved and how genes are organized"
   ],
-  "why_it_matters": "Understanding what bacteria are killing sea turtle eggs and how resistant they are to treatment is crucial for conserving endangered sea turtles and managing nesting beaches effectively."
+  "why_it_matters": "Accurate genome maps are critical for medical research, understanding evolution, and finding genes, so validating them with multiple methods prevents costly mistakes in downstream research."
 }

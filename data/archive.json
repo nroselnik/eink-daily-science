@@ -1,93 +1,107 @@
 [
- {
-  "title": "Brevetoxin exposure, blood analytes, and reproductive success in nesting loggerhead sea turtles and their offspring, SW Florida.",
-  "authors": "Kelly A Sloan, Nicole I Stacy, Justin R Perrault, et al.",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42442288/",
-  "date": "2026-07-28",
-  "summary": "After a massive Florida red-tide bloom, scientists measured the algal toxin 'brevetoxin' in nesting loggerhead turtles and their eggs. Mothers passed the toxin on to their eggs and hatchlings, and nests carrying more toxin had fewer hatchlings emerge successfully.",
-  "key_points": [
-   "Toxin from the 2017-2019 red tide showed up in nesting loggerheads, their unhatched eggs, and dead hatchlings",
-   "Turtles feeding in the Gulf of Mexico carried more toxin than those foraging in the Atlantic",
-   "Higher toxin in hatchling livers was linked to lower nest emergence success"
-  ],
-  "why_it_matters": "Red-tide blooms may quietly harm sea turtle health and reproduction, piling another stressor onto already endangered populations."
- },
- {
-  "title": "Presuming pathways of sea turtles using stable isotopes from shells of epibiont barnacles.",
-  "authors": "Kyungsik Jo, Jeongmin Kim, Byung-Yeob Kim, Taewon Kim",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42379031/",
-  "date": "2026-07-28",
-  "summary": "Instead of electronic tags, researchers read the chemistry of barnacle shells growing on stranded sea turtles to reconstruct where those turtles had travelled. The barnacles' oxygen and carbon 'signatures' traced routes through the Taiwan Strait, the Philippines, and the Ryukyu Islands toward Korea.",
-  "key_points": [
-   "Chemical signatures locked in barnacle shells act as a natural travel log of their turtle host",
-   "The method reconstructed migration paths for loggerhead and hawksbill turtles found near Jeju Island, Korea",
-   "It can reveal journeys where electronic satellite tags are impractical or unavailable"
-  ],
-  "why_it_matters": "A cheap, tag-free way to reconstruct sea turtle migrations helps target conservation in hard-to-monitor ocean regions."
- },
- {
-  "title": "Simulating 135 years of post-hatchling sea turtle dispersal in a dynamic North Atlantic Ocean.",
-  "authors": "Michael D Arendt, Nathan F Putman",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42365090/",
-  "date": "2026-07-28",
-  "summary": "Using an ocean-circulation model, researchers simulated how loggerhead hatchlings from the U.S. East Coast drifted across the Atlantic over 135 years. Most drifted toward the Azores, and the amount of eastward drift rose over the last century alongside warming seas and stronger currents.",
-  "key_points": [
-   "Six million virtual hatchlings were tracked through 135 years of simulated Atlantic currents",
-   "68% drifted east past 60 degrees W, most ending up near the Azores",
-   "Drift was lowest around 1896-1900 and highest a century later, tracking climate shifts"
-  ],
-  "why_it_matters": "Linking ocean climate to where hatchlings drift helps predict how warming seas will reshape sea turtle populations."
- },
- {
-  "title": "Tracking rehabilitated sea turtles in the Indian Ocean using satellite telemetry: behaviour, ecology, and conservation.",
-  "authors": "Katrina Himpson, Thomas Le Berre, Edward Hodges",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42360925/",
-  "date": "2026-07-28",
-  "summary": "Researchers satellite-tagged olive ridley, green, and hawksbill turtles after rehabilitating and releasing them in the Indian Ocean. The rehabilitated turtles survived well and behaved like wild ones, with monsoon-driven currents strongly steering their journeys.",
-  "key_points": [
-   "Released rehab turtles survived for long periods and behaved like wild individuals",
-   "Monsoon-driven ocean currents strongly shaped their open-ocean movements",
-   "Adds rare tracking data for under-studied olive ridley and juvenile turtles"
-  ],
-  "why_it_matters": "Evidence that rehabilitation works supports rescue programs and shows why cross-border cooperation matters for wide-ranging turtles."
- },
- {
-  "title": "Comparative analysis of the mucosal and shell microbiota of the invasive red-eared slider across urban freshwater habitats.",
-  "authors": "Mariangel Correa Orellana, Justin C Havird, et al.",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42430398/",
-  "date": "2026-07-28",
-  "summary": "Researchers swabbed 42 invasive red-eared slider turtles across urban ponds in Austin, Texas, mapping the bacteria on their shells and skin and inside their mouths and guts. Where on the body a sample came from mattered most for which microbes were present, though the pond location mattered too.",
-  "key_points": [
-   "142 samples revealed over 20,000 distinct bacterial types across five body locations",
-   "Body location shaped the microbial community most strongly; habitat had a smaller effect",
-   "First-ever description of the mouth (oral) microbiome in red-eared sliders"
-  ],
-  "why_it_matters": "Invasive turtles in city waters can carry and spread microbes, so surveying them helps monitor urban ecosystems and public health."
- },
- {
-  "title": "Molecular cloning and pathogen-induced expression of interleukin-18 in the Chinese soft-shelled turtle.",
-  "authors": "Zhihui Xiao, Jiehao Xu, Chutian Ge, Xiaodong Zhang, et al.",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42413229/",
-  "date": "2026-07-28",
-  "summary": "Scientists in China identified and cloned an immune-signalling gene (interleukin-18) in the farmed Chinese soft-shelled turtle. When turtles were exposed to bacteria or a virus, this gene ramped up, showing it is an active part of the turtle's immune defence.",
-  "key_points": [
-   "The full IL-18 immune gene was cloned and characterized in the Chinese soft-shelled turtle",
-   "Bacterial and viral challenges boosted the gene's activity in the spleen and liver",
-   "A lab-made version of the protein triggered other immune responses, confirming it works"
-  ],
-  "why_it_matters": "Understanding turtle immune genes can help fight the diseases that plague soft-shelled turtle aquaculture, an important food industry."
- },
- {
-  "title": "Comparative transcriptomic analysis of the thymus and immune tissues from stranded cetaceans in South Korea.",
-  "authors": "Ju-Sung Kim, Kyunglee Lee, HyeongJin Roh, et al.",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42492867/",
-  "date": "2026-07-28",
-  "summary": "Researchers examined immune-system tissues from stranded whales and dolphins in Korea and compared their gene activity with many other animals, including green and loggerhead sea turtles. Even in post-mortem samples each tissue kept a distinct genetic fingerprint, with the thymus showing the richest set of immune genes.",
-  "key_points": [
-   "Immune tissues were compared across mammals, fish, birds, and reptiles including sea turtles",
-   "The thymus carried the widest variety of active immune genes",
-   "Aquatic animals leaned on 'alternative' immune pathways rather than classic antigen-presentation routes"
-  ],
-  "why_it_matters": "Mapping how aquatic animals defend themselves builds a baseline for diagnosing disease in whales, dolphins, and sea turtles."
- }
+  {
+    "title": "Brevetoxin exposure, blood analytes, and reproductive success in nesting loggerhead sea turtles and their offspring, SW Florida.",
+    "authors": "Kelly A Sloan, Nicole I Stacy, Justin R Perrault, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42442288/",
+    "date": "2026-07-28",
+    "summary": "After a massive Florida red-tide bloom, scientists measured the algal toxin 'brevetoxin' in nesting loggerhead turtles and their eggs. Mothers passed the toxin on to their eggs and hatchlings, and nests carrying more toxin had fewer hatchlings emerge successfully.",
+    "key_points": [
+      "Toxin from the 2017-2019 red tide showed up in nesting loggerheads, their unhatched eggs, and dead hatchlings",
+      "Turtles feeding in the Gulf of Mexico carried more toxin than those foraging in the Atlantic",
+      "Higher toxin in hatchling livers was linked to lower nest emergence success"
+    ],
+    "why_it_matters": "Red-tide blooms may quietly harm sea turtle health and reproduction, piling another stressor onto already endangered populations."
+  },
+  {
+    "title": "Presuming pathways of sea turtles using stable isotopes from shells of epibiont barnacles.",
+    "authors": "Kyungsik Jo, Jeongmin Kim, Byung-Yeob Kim, Taewon Kim",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42379031/",
+    "date": "2026-07-28",
+    "summary": "Instead of electronic tags, researchers read the chemistry of barnacle shells growing on stranded sea turtles to reconstruct where those turtles had travelled. The barnacles' oxygen and carbon 'signatures' traced routes through the Taiwan Strait, the Philippines, and the Ryukyu Islands toward Korea.",
+    "key_points": [
+      "Chemical signatures locked in barnacle shells act as a natural travel log of their turtle host",
+      "The method reconstructed migration paths for loggerhead and hawksbill turtles found near Jeju Island, Korea",
+      "It can reveal journeys where electronic satellite tags are impractical or unavailable"
+    ],
+    "why_it_matters": "A cheap, tag-free way to reconstruct sea turtle migrations helps target conservation in hard-to-monitor ocean regions."
+  },
+  {
+    "title": "Simulating 135 years of post-hatchling sea turtle dispersal in a dynamic North Atlantic Ocean.",
+    "authors": "Michael D Arendt, Nathan F Putman",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42365090/",
+    "date": "2026-07-28",
+    "summary": "Using an ocean-circulation model, researchers simulated how loggerhead hatchlings from the U.S. East Coast drifted across the Atlantic over 135 years. Most drifted toward the Azores, and the amount of eastward drift rose over the last century alongside warming seas and stronger currents.",
+    "key_points": [
+      "Six million virtual hatchlings were tracked through 135 years of simulated Atlantic currents",
+      "68% drifted east past 60 degrees W, most ending up near the Azores",
+      "Drift was lowest around 1896-1900 and highest a century later, tracking climate shifts"
+    ],
+    "why_it_matters": "Linking ocean climate to where hatchlings drift helps predict how warming seas will reshape sea turtle populations."
+  },
+  {
+    "title": "Tracking rehabilitated sea turtles in the Indian Ocean using satellite telemetry: behaviour, ecology, and conservation.",
+    "authors": "Katrina Himpson, Thomas Le Berre, Edward Hodges",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42360925/",
+    "date": "2026-07-28",
+    "summary": "Researchers satellite-tagged olive ridley, green, and hawksbill turtles after rehabilitating and releasing them in the Indian Ocean. The rehabilitated turtles survived well and behaved like wild ones, with monsoon-driven currents strongly steering their journeys.",
+    "key_points": [
+      "Released rehab turtles survived for long periods and behaved like wild individuals",
+      "Monsoon-driven ocean currents strongly shaped their open-ocean movements",
+      "Adds rare tracking data for under-studied olive ridley and juvenile turtles"
+    ],
+    "why_it_matters": "Evidence that rehabilitation works supports rescue programs and shows why cross-border cooperation matters for wide-ranging turtles."
+  },
+  {
+    "title": "Comparative analysis of the mucosal and shell microbiota of the invasive red-eared slider across urban freshwater habitats.",
+    "authors": "Mariangel Correa Orellana, Justin C Havird, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430398/",
+    "date": "2026-07-28",
+    "summary": "Researchers swabbed 42 invasive red-eared slider turtles across urban ponds in Austin, Texas, mapping the bacteria on their shells and skin and inside their mouths and guts. Where on the body a sample came from mattered most for which microbes were present, though the pond location mattered too.",
+    "key_points": [
+      "142 samples revealed over 20,000 distinct bacterial types across five body locations",
+      "Body location shaped the microbial community most strongly; habitat had a smaller effect",
+      "First-ever description of the mouth (oral) microbiome in red-eared sliders"
+    ],
+    "why_it_matters": "Invasive turtles in city waters can carry and spread microbes, so surveying them helps monitor urban ecosystems and public health."
+  },
+  {
+    "title": "Molecular cloning and pathogen-induced expression of interleukin-18 in the Chinese soft-shelled turtle.",
+    "authors": "Zhihui Xiao, Jiehao Xu, Chutian Ge, Xiaodong Zhang, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42413229/",
+    "date": "2026-07-28",
+    "summary": "Scientists in China identified and cloned an immune-signalling gene (interleukin-18) in the farmed Chinese soft-shelled turtle. When turtles were exposed to bacteria or a virus, this gene ramped up, showing it is an active part of the turtle's immune defence.",
+    "key_points": [
+      "The full IL-18 immune gene was cloned and characterized in the Chinese soft-shelled turtle",
+      "Bacterial and viral challenges boosted the gene's activity in the spleen and liver",
+      "A lab-made version of the protein triggered other immune responses, confirming it works"
+    ],
+    "why_it_matters": "Understanding turtle immune genes can help fight the diseases that plague soft-shelled turtle aquaculture, an important food industry."
+  },
+  {
+    "title": "Comparative transcriptomic analysis of the thymus and immune tissues from stranded cetaceans in South Korea.",
+    "authors": "Ju-Sung Kim, Kyunglee Lee, HyeongJin Roh, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42492867/",
+    "date": "2026-07-28",
+    "summary": "Researchers examined immune-system tissues from stranded whales and dolphins in Korea and compared their gene activity with many other animals, including green and loggerhead sea turtles. Even in post-mortem samples each tissue kept a distinct genetic fingerprint, with the thymus showing the richest set of immune genes.",
+    "key_points": [
+      "Immune tissues were compared across mammals, fish, birds, and reptiles including sea turtles",
+      "The thymus carried the widest variety of active immune genes",
+      "Aquatic animals leaned on 'alternative' immune pathways rather than classic antigen-presentation routes"
+    ],
+    "why_it_matters": "Mapping how aquatic animals defend themselves builds a baseline for diagnosing disease in whales, dolphins, and sea turtles."
+  },
+  {
+    "title": "Highly Contiguous Is Not Chromosomally Accurate: Integrated Cytogenetic and Genomic Mapping in Two Turtle Genome.",
+    "authors": "Anastasia A Proskuryakova, Katerina V Tishakova, Maria M Kulak, Arina V Ilina, Sergey A Marchenko, Lada S Lisachova, Guzel I Davletshina, Elena I Shagimardanova, Alessio Iannucci, Vladimir A Trifonov, Svetlana A Romanenko",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752637/",
+    "date": "2026-10-01",
+    "summary": "Scientists created detailed genetic maps of two turtle species by combining traditional chromosome imaging techniques with modern DNA sequencing data. They discovered that even when genome assemblies look complete and well-organized, they can contain mistakes in how chromosomes are actually arranged, highlighting the need to double-check genetic maps with physical evidence.",
+    "key_points": [
+      "High-quality genome assemblies can still have errors in chromosome structure that aren't caught by sequencing alone",
+      "Using chromosome-specific probes and physical mapping techniques can reveal mistakes that computational methods miss",
+      "One turtle species' assembly was accurate while the other had a false rearrangement, showing these problems are unpredictable",
+      "These errors could lead to incorrect conclusions about how species evolved and how genes are organized"
+    ],
+    "why_it_matters": "Accurate genome maps are critical for medical research, understanding evolution, and finding genes, so validating them with multiple methods prevents costly mistakes in downstream research."
+  }
 ]
