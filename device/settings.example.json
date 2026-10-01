@@ -1,0 +1,17 @@
+{
+  "ap_pass": "",
+  "ap_ssid": "TurtleSetup",
+  "setup_url": "http://10.42.0.1:8080",
+  "hotspot_con": "Hotspot",
+  "repo_path": "~/eink-daily-science",
+  "grace_seconds": 60,
+  "setup_timeout": 300,
+  "online_poll": 30,
+  "offline_retry": 300,
+  "offline_ap_every": 3,
+  "sync_interval": 604800,
+  "batt_poll": 60,
+  "batt_warn_v": 3.35,
+  "batt_shutdown_v": 3.2,
+  "batt_confirm": 3
+}

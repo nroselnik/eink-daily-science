@@ -1,0 +1,16 @@
+[Unit]
+Description=Daily Turtle Science e-ink display control server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=nroselnik
+WorkingDirectory=/home/nroselnik/eink
+ExecStart=/usr/bin/python3 /home/nroselnik/eink/server.py
+Environment=HOME=/home/nroselnik
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
