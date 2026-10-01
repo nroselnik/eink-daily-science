@@ -103,5 +103,1279 @@
       "These errors could lead to incorrect conclusions about how species evolved and how genes are organized"
     ],
     "why_it_matters": "Accurate genome maps are critical for medical research, understanding evolution, and finding genes, so validating them with multiple methods prevents costly mistakes in downstream research."
+  },
+  {
+    "title": "Fatal coinfection by Mycobacterium fortuitum and Epicoccum sp. with concurrent severe coccidial enteritis in an olive ridley sea turtle (Lepidochelys olivacea).",
+    "authors": "Daphne Wrobel Goldberg, Daniela Farias da N\u00f3brega, Ana Paula Frederico R L Bracarense, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42809167/",
+    "date": "2026-10-01",
+    "summary": "A stranded olive ridley turtle in Brazil died from three infections at once: a bacterium normally found in soil and water, an unusual environmental fungus, and a severe gut parasite. Vets think the parasite infection and long-term poor condition weakened the turtle enough for the other two to take hold.",
+    "key_points": [
+      "The turtle arrived emaciated and lethargic and died six days later despite antibiotics and supportive care",
+      "An autopsy found inflammatory lumps across its internal organs, plus pneumonia and liver, bladder and gut inflammation",
+      "The bacterium Mycobacterium fortuitum is increasingly turning up as a disease-causing agent in marine wildlife",
+      "This is the first time the fungus Epicoccum has been recorded causing disease in a sea turtle"
+    ],
+    "why_it_matters": "Documenting which opportunistic infections kill debilitated turtles helps rehabilitation centres recognise and treat them earlier."
+  },
+  {
+    "title": "First Record of Triplet Embryos in Sea Turtles: Evidence of Natural Polyembryony in a Wild Green Turtle (Chelonia mydas) Nest From Guanahacabibes, Cuba.",
+    "authors": "Julia Azanza-Ricardo, Annelisse B\u00e1rcenas-Ibarra, Kevin Armando Dom\u00ednguez-Le\u00f3n, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808133/",
+    "date": "2026-10-01",
+    "summary": "Researchers in Cuba found three embryos sharing a single yolk inside one green turtle egg, the first confirmed triplets from a wild sea turtle nest. All three were genetically identical, meaning one fertilised egg had split three ways.",
+    "key_points": [
+      "Only one other case of triplets has ever been confirmed in any turtle or tortoise, and that was in captivity",
+      "Each embryo had its own blood supply but all three drew on one shared yolk",
+      "One embryo was badly underdeveloped with facial malformations, likely because one yolk cannot feed three",
+      "The nest was otherwise healthy, with 91.6 percent of eggs hatching successfully"
+    ],
+    "why_it_matters": "Rare developmental events like this only get spotted when nests are monitored over many years, which is an argument for sustained long-term fieldwork."
+  },
+  {
+    "title": "Polycyclic aromatic hydrocarbons in loggerhead sea turtles (Caretta caretta) embryos: Occurrence, tissue distribution and associated biological responses.",
+    "authors": "Erica Trotta, Francesco Alessandro Palermo, Paolo Cocci, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42748795/",
+    "date": "2026-10-01",
+    "summary": "Scientists tested loggerhead turtle embryos from a polluted stretch of Italian coast and found petroleum-related chemicals had passed from mothers into their eggs. The embryos' livers switched on detoxification machinery in response, showing they were actively processing the contaminants.",
+    "key_points": [
+      "The pollutants, called PAHs, showed up in the yolk at every stage of development and in 70 percent of embryo livers",
+      "The more pollutant in the liver, the more strongly a detoxification gene was switched on",
+      "Despite that chemical response, no visible tissue damage was found in the embryos",
+      "Contamination varied noticeably between eggs within the same clutch"
+    ],
+    "why_it_matters": "Mothers passing pollution to their offspring is an exposure route that risk assessments for protected marine species often overlook."
+  },
+  {
+    "title": "A novel assessment tool to measure thermal variability on sea turtle nesting beaches.",
+    "authors": "Jacques-Olivier Lalo\u00eb, Holly J Stokes, Nicole Esteban, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42710407/",
+    "date": "2026-10-01",
+    "summary": "How hot the sand is on a nesting beach decides whether eggs become male or female, so it needs measuring. This team showed a single logger on a one-metre steel probe can map a beach's temperature range in ten days, instead of burying many loggers for whole seasons.",
+    "key_points": [
+      "Tested on four islands in the Chagos Archipelago, an important green and hawksbill turtle nesting site",
+      "Accuracy matched the continuously recording loggers normally used for this work",
+      "Season was by far the biggest influence, with a 2.9C gap between warmer and cooler months",
+      "Position along the beach mattered more, up to 1.7C, than whether the spot was shaded or exposed, 0.6C"
+    ],
+    "why_it_matters": "A cheap, fast way to measure nest temperatures makes it practical to monitor many more beaches as the climate warms."
+  },
+  {
+    "title": "Genomic characterization of novel human-associated CTX-M-15-producing Serratia nevei ST625 lineage infecting a vulnerable loggerhead sea turtle.",
+    "authors": "Guilherme E Paiva, F\u00e1bio P Sellera, Jo\u00e3o Pedro Rueda Furlan, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42674221/",
+    "date": "2026-10-01",
+    "summary": "A loggerhead turtle in a Brazilian rehabilitation centre was infected by a drug-resistant bacterium almost identical to strains previously found in human hospital patients in the same region. The two differed by only 27 genetic letters.",
+    "key_points": [
+      "The bacterium resisted several major antibiotic classes, including advanced cephalosporins",
+      "Its closest known relative was a strain from a human urine sample collected in Sao Paulo in 2019",
+      "Every publicly catalogued member of this bacterial lineage had previously come from human patients",
+      "The resistance gene sat on a mobile genetic element, the kind that spreads easily between bacteria"
+    ],
+    "why_it_matters": "Resistant bacteria moving between people and wildlife is exactly the crossover that One Health surveillance exists to catch."
+  },
+  {
+    "title": "Chelonid alphaherpesvirus 5 qPCR of archived blood and skin samples underpredicts infections in juvenile green turtles Chelonia mydas.",
+    "authors": "Jake R Kelley, Tamara Lee, Katherine R Martin, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42657459/",
+    "date": "2026-10-01",
+    "summary": "Fibropapillomatosis is a tumour disease of sea turtles linked to a herpesvirus. This study tested decades of archived green turtle samples and found the standard DNA test almost never detects the virus in stored blood or skin, even when the turtle was infected.",
+    "key_points": [
+      "Only 1.4 percent of 513 archived blood samples and 6.5 percent of 123 skin samples tested positive",
+      "By contrast, 89.7 percent of actual tumour samples tested positive",
+      "Samples spanned 1995 to 2018, ranging from 1 to 24 years old when tested",
+      "A negative result on old blood or skin says more about the sample than about the turtle"
+    ],
+    "why_it_matters": "Researchers reusing archived samples need to know a negative test is not evidence the animal was healthy, or they will badly underestimate how widespread the virus is."
+  },
+  {
+    "title": "Spirorchiidiasis in Stranded Olive Ridley Turtles (Lepidochelys olivacea) Along the Northern and Central-Northern Chilean Coast.",
+    "authors": "Carlos A Flores Olivares, Juan Pablo Ru\u00edz Ya\u00f1ez, Gerardo Cerda Gaete, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42651899/",
+    "date": "2026-10-01",
+    "summary": "Six stranded olive ridley turtles on the Chilean coast were carrying blood flukes, parasitic worms that lodge in blood vessels and organs. The infections had caused inflammatory damage through the gut, reproductive tract and blood vessels.",
+    "key_points": [
+      "All six were adult females that stranded between September 2024 and January 2026",
+      "Parasites were found in intestine, reproductive tract, blood vessels, liver, spleen and adrenal glands",
+      "Damage included thickened tissue and inflammatory lesions passing right through the gut wall",
+      "This confirms the parasite group is present in olive ridleys in Chilean waters"
+    ],
+    "why_it_matters": "Identifying a parasite that may be driving strandings gives managers a cause to investigate rather than an unexplained die-off."
+  },
+  {
+    "title": "Haplotypes across the Oceans: worldwide phylogeography, evolution, conservation and nomenclature standardization in the leatherback sea turtle (Dermochelys coriacea).",
+    "authors": "Wesley D Colombo, Sarah de S A Teodoro, Jo\u00e3o Luiz G da Fonseca, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616677/",
+    "date": "2026-10-01",
+    "summary": "Leatherback turtle genetics has a naming problem: different studies read different lengths of DNA and gave the same genetic variants different labels. This team reviewed 304 sequences worldwide and proposed a single standard naming system.",
+    "key_points": [
+      "Redundant naming had led researchers to misread how leatherback populations are structured",
+      "They settled on two standard sequence lengths, identifying 32 and 24 variants respectively",
+      "The family tree points to a Pacific origin, with later spread into the Atlantic and Indian Oceans",
+      "The modern leatherback lineage dates back roughly 4.9 million years"
+    ],
+    "why_it_matters": "Shared naming conventions let separate studies be combined, which is how scattered genetic data becomes usable for conservation decisions."
+  },
+  {
+    "title": "Assessment of Exposure to Essential and Non-Essential Elements through Concentrations in Tissues of Chelonia mydas (Green turtles) from the South Atlantic, Northeast Brazil.",
+    "authors": "Midi\u00e3 S Rodrigues, Iago J S da Silva, Cristina F da Fonseca, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616296/",
+    "date": "2026-10-01",
+    "summary": "Researchers measured eleven metals in the shells, muscle, livers and kidneys of 43 green turtles from northeastern Brazil. Cadmium, a toxic heavy metal, was far above Brazilian food safety limits in every internal tissue tested.",
+    "key_points": [
+      "Kidney cadmium averaged 49 mg/kg against a legal limit of 1.0, roughly fifty times over",
+      "Likely sources include coastal fertiliser runoff and contaminated food eaten over many years",
+      "Aluminium was highest in shell and iron highest in liver",
+      "Turtles with the tumour disease fibropapillomatosis had significantly different shell copper levels"
+    ],
+    "why_it_matters": "Turtle tissues can double as a cheap monitoring tool for tracking pollution across a whole coastal ecosystem."
+  },
+  {
+    "title": "Traplines: A Promising Modification to Reduce Sea Turtle Bycatch in Swordfish Longlines.",
+    "authors": "Paolo Casale, Vittoria Fiandino, Daniela Freggi",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42588933/",
+    "date": "2026-10-01",
+    "summary": "Longline fishing hooks accidentally catch large numbers of sea turtles. This trial tested a hookless alternative called a trapline alongside conventional hooks on the same lines: the traplines caught almost no turtles while still landing plenty of fish.",
+    "key_points": [
+      "Across 23 fishing sets, hooks caught 127 loggerhead turtles while traplines caught 1",
+      "Hooks landed 9711 kg of commercial fish, traplines 6580 kg from far fewer deployments",
+      "Both gear types were deployed alternately on the same line, so conditions were identical",
+      "Turtles caught per kilogram of fish was significantly better for traplines"
+    ],
+    "why_it_matters": "A modification that nearly eliminates turtle bycatch without gutting the catch is rare, and that combination is what makes fishers likely to adopt it."
+  },
+  {
+    "title": "Umbilical Cord: A Non-Invasive DNA Source for Sea Turtle Genomics.",
+    "authors": "Gisela Mar\u00edn-Capuz, Elena Abella, Marta Pascual, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535825/",
+    "date": "2026-10-01",
+    "summary": "Getting DNA from sea turtle hatchlings usually means taking blood, which is risky in such small animals. This study shows the umbilical cord left behind after hatching works just as well, and collecting it disturbs nothing.",
+    "key_points": [
+      "Umbilical cord DNA matched the hatchling's own blood genotype 97.7 percent of the time",
+      "It reflects the hatchling rather than the mother, which had been an open question",
+      "Cords were present in 100 percent of artificially incubated Spanish nests but only 4.5 percent of natural nests in Cape Verde",
+      "The method therefore suits incubator-hatched eggs best"
+    ],
+    "why_it_matters": "A sampling method that harms nothing makes genetic monitoring far easier to justify for threatened species."
+  },
+  {
+    "title": "Effects of controlled artificial incubation on hatching success, morphometric traits, and early physiological indicators in olive ridley sea turtles (Lepidochelys olivacea) from Banyuwangi coast, Indonesia.",
+    "authors": "Ragil Angga Prastiya, Suherni Susilowati, Imam Mustofa, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42344336/",
+    "date": "2026-10-01",
+    "summary": "Hatcheries in Indonesia move olive ridley eggs into controlled incubators to protect them from predators and flooding. This study found the approach gives good hatching rates, but hatchlings still differ depending on which beach the eggs came from.",
+    "key_points": [
+      "Overall hatching success was 83.7 percent, ranging from 77.6 to 91.4 percent by beach of origin",
+      "Incubators held a steady 28.6C and 80 percent humidity throughout",
+      "Hatchlings from different beaches differed significantly in shell length and flipper length",
+      "Faster yolk absorption went together with larger hatchlings"
+    ],
+    "why_it_matters": "If the source beach still shapes hatchling quality, hatcheries should track nest origin rather than treating all eggs as interchangeable."
+  },
+  {
+    "title": "Occurrence and toxicological assessment of PCDD/Fs and PCBs in loggerhead turtle eggs undergoing climate-induced nesting expansion in the southern Tyrrhenian Sea.",
+    "authors": "Mauro Esposito, Sara Lambiase, Roberto Miniero, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42269478/",
+    "date": "2026-10-01",
+    "summary": "Loggerhead turtles are starting to nest further north in the Mediterranean as the sea warms. Researchers tested eggs from these newly colonised Italian beaches and found persistent industrial pollutants in every one.",
+    "key_points": [
+      "Dioxins and PCBs were present across the whole study area, including the newest northern nesting sites",
+      "Concentrations were high enough to pose a possible toxic risk to embryos and hatchlings",
+      "Pollution levels showed no clear link to clutch size or hatching success",
+      "Extreme weather did track with lower hatching success, and differed between north and south"
+    ],
+    "why_it_matters": "A species shifting range because of climate change can move straight into polluted water, so the two pressures need assessing together."
+  },
+  {
+    "title": "Surveillance of gastrointestinal viruses of free-ranging and rehabilitated Sea turtles in the United States.",
+    "authors": "Weerapong Laovechprasit, Vicente A Avila-Reyes, Brian A Stacy, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42264207/",
+    "date": "2026-10-01",
+    "summary": "Almost nothing was known about the viruses living in sea turtle guts. This survey sequenced 77 gut samples from six species along both US coasts and turned up 48 viruses, several never described before.",
+    "key_points": [
+      "Nineteen viruses across eight families were characterised in detail",
+      "Seven appear to be entirely new species and one a new genus",
+      "Many were genetically close to viruses of fish and marine invertebrates, hinting they arrive through diet",
+      "Samples came from both healthy free-ranging turtles and sick rehabilitation cases"
+    ],
+    "why_it_matters": "You cannot tell which viruses threaten turtle health until you know which ones are normally present, and this is that baseline."
+  },
+  {
+    "title": "A deep learning-based fusion framework for robust fine-grained classification of sea turtles in support of marine biodiversity.",
+    "authors": "Parkpoom Chaisiriprasert, Apicha Deearom",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263109/",
+    "date": "2026-10-01",
+    "summary": "Telling sea turtle species apart in underwater photos is hard because of murky water, poor light and partly hidden animals. This team built an image classifier that reads both colour and edge outlines, and it identified species more accurately than colour alone.",
+    "key_points": [
+      "Built on a standard image-recognition network with an extra input channel carrying edge detail",
+      "Two different ways of combining colour and shape information were tested",
+      "The better one reached 87.2 percent average precision, beating both alternatives",
+      "Adding shape information helped most with species that look similar"
+    ],
+    "why_it_matters": "Automated identification lets conservation teams process survey footage at a scale no human reviewer could manage."
+  },
+  {
+    "title": "Global Characterization of Sea Turtle Ecological Traps under Compound Marine Heatwaves and Microplastics.",
+    "authors": "Hao Liu, Yiling Zhong, Zehou Li, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42227188/",
+    "date": "2026-10-01",
+    "summary": "Sea turtles face two growing threats at once: marine heatwaves and microplastic pollution. Combining global tracking data for seven species with ocean records, this study found turtles linger in heavily polluted zones instead of moving away from heat stress.",
+    "key_points": [
+      "Turtles spent significantly longer in waters with moderate to high microplastic concentrations",
+      "Polluted areas appear to act as a false safe harbour",
+      "Inside those zones the turtles' normal instinct to swim away from hot water broke down",
+      "The result is longer exposure to heat and pollution together"
+    ],
+    "why_it_matters": "Conservation maps drawn as fixed protected areas miss threats like this, which move and interact, and so need dynamic management instead."
+  },
+  {
+    "title": "Stress Assessment in Caretta caretta During the Rehabilitation Period.",
+    "authors": "Chiara Lomonaco, Giorgia Schir\u00f3, Paola Galluzzo, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42193845/",
+    "date": "2026-10-01",
+    "summary": "Rescued loggerhead turtles in Italian rehabilitation centres were blood-tested three times over two months to see how stressed captivity made them. Stress markers were highest on arrival and fell steadily as the turtles settled in.",
+    "key_points": [
+      "Twenty-five turtles were tracked, 12 juveniles and 13 near-adults",
+      "The team measured stress hormone, blood sugar, white blood cell ratios and muscle enzymes",
+      "Juveniles arrived more stressed than older turtles but showed the clearest improvement over time",
+      "Both age groups ended the two months with significantly lower stress readings than they started"
+    ],
+    "why_it_matters": "Knowing that handling stress fades within weeks reassures rehabilitators that the process itself is not harming the animals they are trying to save."
+  },
+  {
+    "title": "Whole-Genome Sequencing and Comparative Genomic Analysis of Citrobacter farmeri and Enterobacter cloacae from Unhatched Green Turtle Eggs.",
+    "authors": "Nurcan \u00d6nen, Bahad\u0131r T\u00f6r\u00fcn, Can Y\u0131lmaz",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42188932/",
+    "date": "2026-10-01",
+    "summary": "Bacteria from green turtle eggs that failed to hatch on a Mediterranean beach were fully genome-sequenced for the first time. Two common opportunistic species turned out to carry extensive antibiotic resistance and genes that help them invade tissue.",
+    "key_points": [
+      "Samples came from infected eggshells and dead embryos across 30 nests at Akyatan Beach, Turkey",
+      "Both species resisted multiple antibiotic classes including penicillin-type drugs and fluoroquinolones",
+      "They also carried genes for sticking to tissue and scavenging iron, both useful for causing infection",
+      "Their genomes closely matched reference strains taken from human clinical infections"
+    ],
+    "why_it_matters": "Hatching failure is usually blamed on temperature or flooding, so identifying resistant bacteria in failed eggs opens a different line of investigation."
+  },
+  {
+    "title": "Foraging ecology of the critically endangered hawksbill sea turtle in the Gulf of Guinea.",
+    "authors": "Sara Vieira, Bet\u00e2nia Ferreira-Airaud, V\u00e2nia Baptista, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184791/",
+    "date": "2026-10-01",
+    "summary": "Hawksbill turtles are critically endangered, and this study worked out what they eat around Sao Tome Island in the Gulf of Guinea. Chemical signatures in their skin showed sponges dominate the diet at every age, but adults branch out more than juveniles.",
+    "key_points": [
+      "Thirty turtles were sampled using minimally invasive methods during in-water surveys",
+      "Adults added red algae and tunicates to the sponge diet; juveniles stuck to sponges",
+      "Juveniles stayed put in smaller areas, suggesting they settle in one place for long stretches",
+      "Both age groups feed at the level of secondary consumers in the food web"
+    ],
+    "why_it_matters": "You cannot protect a feeding ground without knowing what the animals eat there and which life stages depend on it."
+  },
+  {
+    "title": "Aquatic Turning Performance in Juvenile Loggerhead and Green Sea Turtles.",
+    "authors": "M T Wileyto, F E Fish, S E Trail, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42136576/",
+    "date": "2026-10-01",
+    "summary": "Sea turtles are famous for long-distance swimming, but nobody had measured how well they turn. Filming juvenile loggerheads and green turtles from above revealed they use two distinct turning styles and favour one flipper over the other.",
+    "key_points": [
+      "Turtles chased food in a large tank while cameras tracked points on their head and shell",
+      "They performed both spinning-in-place turns and sweeping turns while moving forward",
+      "The two species differed significantly at spinning turns but not at sweeping ones",
+      "Uneven flipper use affected how fast they could rotate"
+    ],
+    "why_it_matters": "Manoeuvrability matters for escaping predators and catching food, yet it had gone unmeasured in favour of long-distance endurance."
+  },
+  {
+    "title": "The genomic basis of independent marine transitions in turtles: convergent episodic adaptation and demographic shifts.",
+    "authors": "Elisa Ramos, Leon Hilgers, Tom\u00e1s Carrasco-Valenzuela, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42093114/",
+    "date": "2026-10-01",
+    "summary": "Turtles moved from land into the sea more than once, independently. Comparing the genomes of green turtles, leatherbacks and a brackish-water terrapin shows all three remodelled the same kinds of genes, but not by the same genetic route.",
+    "key_points": [
+      "Gene families for iron processing, organ development and sensory perception expanded in all three",
+      "The same patterns appear in other mammals and reptiles that returned to the sea",
+      "Despite hitting the same targets, no shared changes were found at the level of individual DNA letters",
+      "All three lineages went through deep population crashes in the distant past"
+    ],
+    "why_it_matters": "Evolution reaching the same solution by different molecular paths is a reminder that there is rarely only one way to adapt."
+  },
+  {
+    "title": "Interannual Fluctuations in Mean Straight Carapace Length (SCL) of Nesting Kemp's Ridley Sea Turtles Signal Demographic Shifts at Rancho Nuevo Sanctuary, Tamaulipas, Mexico.",
+    "authors": "Kevin A Zavala-F\u00e9lix, F\u00e1tima Yedith Camacho-S\u00e1nchez, Valeria Leal-Sep\u00falveda, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42073441/",
+    "date": "2026-10-01",
+    "summary": "Kemp's ridley is the most endangered sea turtle, and the size of nesting females hints at how the population is doing. Measuring 191 females in Mexico over six seasons found their average size bounced around year to year without any real downward trend.",
+    "key_points": [
+      "The population crashed from a 1947 peak to a 1985 low, recovered, then stalled after the Deepwater Horizon oil spill",
+      "Smallest average sizes came in 2020 and 2022, largest in 2018",
+      "Statistical testing found no significant decline across 2018 to 2023",
+      "The pattern looks like normal year-to-year variation rather than a worsening trend"
+    ],
+    "why_it_matters": "Distinguishing ordinary fluctuation from a genuine decline is the difference between a false alarm and a missed one."
+  },
+  {
+    "title": "Honu Count: how shell-etchings, participatory science, and a novel online survey are improving assessments of the Hawaiian Green sea turtle (Chelonia mydas) population.",
+    "authors": "Brittany L Clemans, Marylou K Staman, Irene K Kelly, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42069544/",
+    "date": "2026-10-01",
+    "summary": "Hawaiian green turtles get a temporary identifier etched onto their shell so researchers can recognise individuals. Since 2017 the public has been reporting sightings of these marked turtles, and this paper describes how that volunteer data improved population estimates.",
+    "key_points": [
+      "The main nesting site is an atoll about 1,000 km from the inhabited Hawaiian Islands",
+      "Official monitoring there has run continuously since 1973",
+      "Etchings are temporary, lasting 6 to 12 months, and sealed with non-toxic paint",
+      "Public sightings fill in where the turtles go between nesting seasons, which surveys at the nesting site cannot show"
+    ],
+    "why_it_matters": "Volunteer reporting covers ground that funded fieldwork cannot reach, and this shows how to make that data scientifically usable."
+  },
+  {
+    "title": "Osteological differences in the humerus of loggerhead and green turtles.",
+    "authors": "Il-Kook Park, Suhwan Yoon, Hae Rim Lee, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42038470/",
+    "date": "2026-10-01",
+    "summary": "Sea turtles swim almost entirely with their front flippers, so the upper arm bone carries the whole load. Measuring this bone in stranded loggerheads and green turtles from Korean waters found the two species differ in most of its dimensions.",
+    "key_points": [
+      "Bones came from turtles found stranded or caught accidentally at the northern edge of their range",
+      "Arm bone length and width both scaled reliably with overall shell length",
+      "Twelve of fifteen measured segments differed significantly between the two species",
+      "That scaling means a turtle's size can be estimated from the bone alone"
+    ],
+    "why_it_matters": "Being able to identify species and body size from a single bone is useful when all that washes ashore is a partial carcass."
+  },
+  {
+    "title": "First Isolation of Yersinia enterocolitica From a Sea Turtle: A Case Report in Caretta caretta.",
+    "authors": "Giorgia Schir\u00f2, Paola Galluzzo, Rosaria Disclafani, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42030439/",
+    "date": "2026-10-01",
+    "summary": "A juvenile loggerhead turtle at an Italian rescue centre was found to be infected with Yersinia enterocolitica, a bacterium better known for causing food poisoning in people. It is the first time it has been isolated from any sea turtle.",
+    "key_points": [
+      "The turtle arrived emaciated and dehydrated with severe anaemia, and died within days",
+      "An autopsy found a distended colon, internal adhesions and liver damage",
+      "Liver tissue showed inflammatory nodules with dead material at their centres",
+      "The exact cause of death remains unconfirmed, though the bacterium is a plausible contributor"
+    ],
+    "why_it_matters": "First records matter: a pathogen nobody is looking for in a species is a pathogen nobody will diagnose."
+  },
+  {
+    "title": "Which turtle should I study? Uneven distribution of research effort across Testudines species.",
+    "authors": "Simon Ducatez, Jayna Lynn DeVore",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42008424/",
+    "date": "2026-10-01",
+    "summary": "Two thirds of turtle species are threatened with extinction, but research attention is wildly uneven. This study counted published papers for every known species and found the green sea turtle alone has more studies than the least-studied half of all turtle species combined.",
+    "key_points": [
+      "The green sea turtle accounts for 3,441 articles",
+      "All of the 50 percent least-studied species together total just 475 articles",
+      "The imbalance tracks with taxonomy, geography, ecology and evolutionary relationships",
+      "Results held up across two separate literature databases"
+    ],
+    "why_it_matters": "Conservation decisions rest on published evidence, so species nobody studies are species nobody can argue to protect."
+  },
+  {
+    "title": "Brevetoxicosis in loggerhead (Caretta caretta) and Kemp's ridley (Lepidochelys kempii) sea turtles: Plasma proteomics for Florida red tide biomarkers.",
+    "authors": "Celina Ceballos, Kathleen S Rein, Catherine J Walsh",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41985601/",
+    "date": "2026-10-01",
+    "summary": "Florida red tide produces potent neurotoxins that sicken sea turtles, but there is no proper diagnostic test. Researchers compared blood proteins in poisoned and healthy turtles to find markers that would confirm exposure.",
+    "key_points": [
+      "Loggerhead and Kemp's ridley turtles were both studied",
+      "Turtles absorb the toxins by breathing in sea spray and by eating contaminated prey",
+      "Currently the only diagnostic is stranding during a bloom, which is circumstantial",
+      "Several blood proteins differed measurably between exposed and healthy animals"
+    ],
+    "why_it_matters": "Toxin exposure is often delayed by weeks as it works up the food chain, so a blood test would catch cases that timing alone would miss."
+  },
+  {
+    "title": "Disorientation patterns of loggerhead sea turtle (Caretta caretta) hatchlings in Pinellas County, Florida, USA.",
+    "authors": "Kerry L McNally, Carly Oakley, Megan Davila, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41984897/",
+    "date": "2026-10-01",
+    "summary": "Hatchlings find the sea by following light cues, so artificial lighting sends them the wrong way. Six years of Florida nesting data show more than a third of nests produced hatchlings that crawled off in the wrong direction.",
+    "key_points": [
+      "Of 1,048 nests that hatched between 2018 and 2023, 377 produced disoriented hatchlings",
+      "Nests higher up the beach fared significantly better than those in the middle",
+      "Problem areas clustered in particular spots, and the clustering shifted from year to year",
+      "Bright moonlight reduced disorientation, which supports artificial light as the cause"
+    ],
+    "why_it_matters": "Pinpointing which stretches of beach are worst lets councils target lighting rules where they will actually help."
+  },
+  {
+    "title": "Microplastics and sea turtle reproduction: A systematic review on nest contamination and developmental risks.",
+    "authors": "Ragil Angga Prastiya, Suherni Susilowati, Imam Mustofa, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41966798/",
+    "date": "2026-10-01",
+    "summary": "This review gathered every study it could find on microplastics in sea turtle nests worldwide. Plastic particles are not just on the sand surface, they reach down to the depth where eggs incubate and turn up inside the eggs and embryos themselves.",
+    "key_points": [
+      "Contamination varied enormously by site, with over 12,000 particles per kilogram of dry sand on Redang Island, Malaysia",
+      "Polyethylene, polystyrene and PET dominated, mostly as fibres and foam",
+      "Particles were found in nest sediment, eggs, yolks and embryonic tissue",
+      "Studies spanned China, Malaysia, Mexico, Japan and the Mediterranean"
+    ],
+    "why_it_matters": "Plastic reaching inside the egg means the exposure starts before the animal has even hatched."
+  },
+  {
+    "title": "Protocol optimization for microplastic analysis in sea turtles: Including the first blood digestion method.",
+    "authors": "Giulia de Andrade Lima Bertotti, Geraldo Jorge Barbosa de Moura, Gabriela Uch\u00f4a Souza de Medeiros, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41955774/",
+    "date": "2026-10-01",
+    "summary": "Measuring microplastics inside an animal means dissolving the tissue without dissolving the plastic. This study worked out a reliable two-step recipe for sea turtle tissues and, for the first time, for blood.",
+    "key_points": [
+      "The method covers blood, yolk sac, liver, kidney, muscle and reproductive tissue",
+      "It uses a potassium hydroxide digestion followed by hydrogen peroxide oxidation",
+      "Blood from nesting females was paired with yolk from their own eggs to test mother-to-egg transfer",
+      "Other tissues came from stranded turtles on the Brazilian northeast coast"
+    ],
+    "why_it_matters": "Without a shared method, microplastic counts from different labs cannot be compared, and a blood test opens up sampling live animals."
+  },
+  {
+    "title": "Plasma concentrations of terbinafine in Kemp's ridley sea turtles (Lepidochelys kempii) peak at 24 hours after a single oral dose.",
+    "authors": "Sarah E Balik, Melissa J Joblon, Deana Edmunds, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41946382/",
+    "date": "2026-10-01",
+    "summary": "Vets treating fungal infections in sea turtles had no dosing data for the antifungal drug terbinafine. Giving a single dose to 15 rehabilitating Kemp's ridley turtles showed the drug peaks in the blood a full 24 hours later.",
+    "key_points": [
+      "The turtles were juveniles recovering from cold stunning in Massachusetts",
+      "The drug was hidden in food at 20 mg per kg of body weight",
+      "Blood levels peaked at 24 hours and the drug took about the same time to halve",
+      "Blood samples were collected across five days after the dose"
+    ],
+    "why_it_matters": "Dosing a reptile on numbers borrowed from mammals is guesswork, and fungal infections are a common killer in turtle rehabilitation."
+  },
+  {
+    "title": "Physics-informed multi-task learning framework for modelling microplastic impacts on sea turtle nest temperature and sex determination.",
+    "authors": "Danang A Pratama, Aina Arifah Khalid, Ummu Atiqah Mohd Roslan, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41905080/",
+    "date": "2026-10-01",
+    "summary": "Plastic in nesting sand may change how hot a nest gets, which matters because temperature decides hatchling sex. This team built a prediction model that respects the known physics of sex determination and used it on green turtle nests in Malaysia.",
+    "key_points": [
+      "Three nesting sites in Terengganu were studied, with plastic profiled by colour, shape, size and depth",
+      "The model predicts nest temperature and sex ratio together rather than separately",
+      "It beat standard machine-learning approaches, with the lowest temperature error and perfect sex-ratio classification",
+      "Building the physics in kept its predictions consistent with how sex determination actually works"
+    ],
+    "why_it_matters": "A model that cannot violate the underlying biology is more trustworthy than one that merely fits the data well."
+  },
+  {
+    "title": "Pathology of green sea turtle (Chelonia mydas): Mortalities in Gladstone Harbour, Queensland, Australia, 2017-2020.",
+    "authors": "Christabel Hannon, Helen Owen, Helle Bielefeldt-Ohmann",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41903468/",
+    "date": "2026-10-01",
+    "summary": "Gladstone Harbour in Queensland is both an important green turtle feeding ground and the site of a huge coal port. Autopsies on 22 stranded turtles over four years catalogued what is actually killing them there.",
+    "key_points": [
+      "The harbour hosts juvenile, near-adult and adult green turtles year round",
+      "A century of port expansion has degraded seagrass beds and mangroves and increased shipping and pollution",
+      "Turtles examined were either found dead or euthanised because they could not be saved",
+      "The work was part of a monitoring programme tied specifically to the port"
+    ],
+    "why_it_matters": "When industry and a feeding ground occupy the same water, cause-of-death records are the evidence base for arguing about impact."
+  },
+  {
+    "title": "Comparative Analysis of Nasal and Cloacal Bacterial Communities in Three Sea Turtle Species under Rescue Center Conditions.",
+    "authors": "Xinyi Yang, Jiao Tang, Zhuoxin Lai, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41896360/",
+    "date": "2026-10-01",
+    "summary": "Rescued turtles carry bacterial communities in their noses and cloacas that nobody had properly surveyed. Sequencing three species at a Chinese rescue station found the nose community is remarkably sensitive to how the turtle is housed.",
+    "key_points": [
+      "Green, hawksbill and olive ridley turtles were all sampled",
+      "Housing conditions explained more than half the variation in green turtle nasal bacteria",
+      "Outdoor turtles developed a distinctly different nasal community from indoor ones",
+      "Turtles with facial injuries carried their own recognisable bacterial signatures"
+    ],
+    "why_it_matters": "If a husbandry choice as simple as indoors versus outdoors reshapes the microbiome, rehabilitation protocols are shaping turtle health in ways nobody was tracking."
+  },
+  {
+    "title": "Predation on sea turtles at sea: A multi-source synthesis and research perspectives.",
+    "authors": "Paolo Casale, Alessandro Servolini, Enrique Gonz\u00e1lez-Bernardo, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41852291/",
+    "date": "2026-10-01",
+    "summary": "Predation on turtle eggs and hatchlings on beaches is well documented, but what eats turtles at sea is far harder to observe. This synthesis pooled field records, literature, predator stomach contents and even online photos and videos to build a global picture.",
+    "key_points": [
+      "Records covered all seven sea turtle species and 51 different predator species",
+      "Of 156,726 turtle records examined, 3.3 percent showed shark-bite injuries",
+      "Predators ranged across fish, crocodilians and mammals, but a handful of shark species dominate",
+      "Predation rates varied significantly by turtle species, body size, region and over time"
+    ],
+    "why_it_matters": "Using unconventional sources like social media images is how you measure something that is nearly impossible to witness directly."
+  },
+  {
+    "title": "Hidden Markov models reveal ontogenetic plasticity in green and loggerhead sea turtles.",
+    "authors": "Ryan C Welsh, Katherine L Mansfield",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41840055/",
+    "date": "2026-10-01",
+    "summary": "Turtle conservation usually sorts animals into life stages by size or location. Applying a behaviour-first statistical model to 47 years of Florida capture records found three behavioural types that do not line up neatly with size at all.",
+    "key_points": [
+      "Nearly 20,000 capture events for green and loggerhead turtles were analysed",
+      "The model identified nomadic, resident and transient behaviour patterns",
+      "Nomads were smaller and rarely recaptured; residents stayed put; transients were larger and seasonal",
+      "Size ranges for each behaviour overlapped, undermining rigid size-based stage labels"
+    ],
+    "why_it_matters": "Managing turtles by size category misses animals that behave nothing like their size suggests they should."
+  },
+  {
+    "title": "Juveniles and where to find them: a basin-scale habitat model for the lost years of loggerhead sea turtles in the North Atlantic.",
+    "authors": "M Bartolini, E L Hazen, H Parra, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41832595/",
+    "date": "2026-10-01",
+    "summary": "Young loggerheads spend years crossing the open Atlantic in what researchers call the lost years, and almost nobody knows where they go. Pooling satellite tracks from 124 juveniles produced the first habitat map for the entire ocean basin.",
+    "key_points": [
+      "Turtles were tagged around the Azores, Canary Islands, Madeira and the western Atlantic",
+      "Seventeen environmental variables were tested to find what predicts where juveniles go",
+      "The final model was highly accurate and was used to map suitable habitat from 1998 to 2022",
+      "Stranding records from France, the UK and Ireland were used as an independent check"
+    ],
+    "why_it_matters": "Juveniles crossing the Atlantic run a gauntlet of fishing fleets, and you cannot reduce that overlap without knowing their route."
+  },
+  {
+    "title": "Anatomic Interactive Atlas of the Loggerhead Sea Turtle (Caretta caretta) Coelomic Cavity.",
+    "authors": "Alberto Arencibia, Aday Meli\u00e1n, Jorge Or\u00f3s",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41828962/",
+    "date": "2026-10-01",
+    "summary": "Vets treating sea turtles need to know what healthy insides look like before they can spot what is wrong. This team built a free interactive atlas of the loggerhead body cavity from dissections, CT scans and MRI.",
+    "key_points": [
+      "It combines six skeleton images, sixteen dissection photographs, fourteen MRI scans and CT in several formats",
+      "Every anatomical structure is colour-coded and labelled by hand",
+      "The images are delivered through an interactive interface rather than as a flat reference",
+      "The whole thing is open access"
+    ],
+    "why_it_matters": "Turtle medicine is held back by a shortage of basic reference material, and a free atlas removes that barrier for any clinic."
+  },
+  {
+    "title": "Artificial night lighting in the Mediterranean: Management priorities and constraints for sea turtle conservation.",
+    "authors": "Charalampos Dimitriadis, Nikolaos Simantiris, Fulvio Maffucci, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41764973/",
+    "date": "2026-10-01",
+    "summary": "Artificial light at night disrupts turtle nesting, but its scale around the Mediterranean was unmeasured. Surveying 27 experts across 16 countries produced a ranked list of what to do about it and what is stopping anyone doing it.",
+    "key_points": [
+      "Experts agreed hatchlings are the most vulnerable stage, especially while finding the sea",
+      "Light causes disorientation, raises predation risk and reduces how many hatchlings survive",
+      "Standardised monitoring of light pollution is essentially absent, mainly for lack of funding",
+      "Top fixes: shielded downward-facing long-wavelength lighting, shaded corridors and nature-based solutions"
+    ],
+    "why_it_matters": "Pooling expert judgement produces an actionable priority list far faster than waiting for monitoring programmes that nobody is funding."
+  },
+  {
+    "title": "Metal Concentrations (Mg, Fe, Zn, Cu, Cd, Pb) in the Plasma and Cell Concentrates of Chelonia mydas and Lepidochelys olivacea from Costa Rica.",
+    "authors": "Cecilia Rudelli, Gloria Isani, Micaela Fabbri, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41751081/",
+    "date": "2026-10-01",
+    "summary": "Blood is an attractive way to monitor pollution in living turtles, but there is little baseline data. This study measured six metals in green turtles and olive ridleys from both Costa Rican coasts and compared the results to studies over the following two decades.",
+    "key_points": [
+      "Samples came from 2003 to 2004 on the Caribbean and Pacific coasts",
+      "Metals distributed unevenly: magnesium and copper concentrated in plasma, iron and zinc in blood cells",
+      "Green turtles carried more copper, iron and zinc; olive ridleys markedly more cadmium",
+      "Separating plasma from cells matters, since testing whole blood would blur these differences"
+    ],
+    "why_it_matters": "Historical baselines are what let anyone say whether pollution today is better or worse than before."
+  },
+  {
+    "title": "Warming and Change in Ocean Productivity Alter Phenology of an Expanding Loggerhead Population in Cabo Verde.",
+    "authors": "Fitra Arya Dwi Nugraha, Kirsten Fairweather, Artur Lopes, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41751015/",
+    "date": "2026-10-01",
+    "summary": "Seventeen years of monitoring one of the world's largest loggerhead populations in Cabo Verde shows warming seas are shifting when the turtles nest and reducing how much they produce.",
+    "key_points": [
+      "Warmer sea temperatures pulled the start, peak and end of the nesting season earlier",
+      "Females arrive in distinct waves, implying more turtles each laying fewer clutches than assumed",
+      "Gaps between nesting attempts shortened in warm spells, especially in larger females",
+      "Falling ocean productivity at the feeding grounds reduced clutch size, clutch frequency and body size"
+    ],
+    "why_it_matters": "Earlier nesting looks like successful adaptation until you notice the food supply is shrinking at the same time."
+  },
+  {
+    "title": "Divergence and conservation of satellite DNA in the loggerhead sea turtle (Caretta caretta): a comparative cytogenomic analysis.",
+    "authors": "Katerina V Tishakova, Anastasia A Proskuryakova, Dmitry Yu Prokopov, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41729402/",
+    "date": "2026-10-01",
+    "summary": "Large stretches of any genome are repetitive sequence that gets ignored. This study catalogued the repeat landscape of the loggerhead turtle genome and mapped it onto individual chromosomes.",
+    "key_points": [
+      "At least 18 distinct families of repetitive sequence were identified",
+      "Most cluster near the centres of chromosomes",
+      "Some chromosomes carry a single signature repeat; others hold complex mixtures",
+      "Comparison with existing assemblies turned up inconsistencies worth resolving"
+    ],
+    "why_it_matters": "Repetitive regions are where genome assemblies most often go wrong, so mapping them physically is a check on the digital version."
+  },
+  {
+    "title": "Reorganisation of the turtle blood fluke genera Hapalotrema and Learedius (Trematoda: Hapalotrematidae), with the proposal of two new genera, a new species, and comments on population structure.",
+    "authors": "Richard D Corner, Thomas H Cribb, Scott C Cutmore",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41712112/",
+    "date": "2026-10-01",
+    "summary": "Blood flukes are the most commonly reported parasites of marine turtles, but their classification was a mess, with species of one genus scattered among another on the family tree. This study reorganised the group, proposing two new genera and one new species.",
+    "key_points": [
+      "The parasites infect many organs but turn up most often in the heart and major vessels",
+      "Morphology and DNA from several genes were combined to untangle the relationships",
+      "It includes the first record of an adult turtle blood fluke from an olive ridley",
+      "Genetic variation differed sharply between species, with several distinct populations along the Queensland coast"
+    ],
+    "why_it_matters": "Parasites you cannot name consistently are parasites you cannot track, and these are among the most common that turtles carry."
+  },
+  {
+    "title": "Perivitelline Membrane-Bound Sperm as a Source of Paternal Genomic DNA to Inform Breeding Male Marine Turtle Genetics and Demographics.",
+    "authors": "Brian M Shamblin, Cheryl L Sanchez, Sean M Perry, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41704918/",
+    "date": "2026-10-01",
+    "summary": "Nobody knows much about male sea turtles because they never come ashore. This study worked out how to genotype the father from sperm trapped in the membrane around a single egg's yolk.",
+    "key_points": [
+      "Loggerhead and green turtle eggs from Melbourne Beach, Florida were tested",
+      "Results were checked against the genotypes of more than 1,700 actual hatchlings",
+      "The method correctly identified all but two of 67 fathers",
+      "It needs only one egg per nest rather than sampling many hatchlings"
+    ],
+    "why_it_matters": "Warming sand is producing ever more females, and you cannot monitor that risk without a way to count the breeding males."
+  },
+  {
+    "title": "Behavioral responses of captive-bred post-hatchling and juvenile sea turtles to different colors of single-use plastic film.",
+    "authors": "Yelim Moon, Hee-Jin Noh, Gi Myung Han, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41673091/",
+    "date": "2026-10-01",
+    "summary": "Turtles eat plastic, but which plastic and why is unclear. Offering captive-bred hawksbills different coloured films showed juveniles have clear preferences while very young hatchlings bite at anything.",
+    "key_points": [
+      "Eight four-year-old juveniles and twenty-seven ten-week-old post-hatchlings were tested",
+      "Juveniles went for transparent, white, black and yellow items but ignored blue bottle labels",
+      "They preferred soft plastic bags over stiffer packaging",
+      "Post-hatchlings showed no preference, probably because they have not learned to recognise prey yet"
+    ],
+    "why_it_matters": "If turtles are selectively eating light-coloured soft plastic because it resembles jellyfish, that points at which products matter most to eliminate."
+  },
+  {
+    "title": "Confirmation of Chelonid Alphaherpesvirus 5 (Scutavirus Chelonidalpha5) Associated with Fibropapillomatosis in Green and Kemp's Ridley Sea Turtles from Mississippi, USA.",
+    "authors": "Sarah A Rubelowsky, Justin M Stilwell, Caroline Betbeze, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41667054/",
+    "date": "2026-10-01",
+    "summary": "Fibropapillomatosis, the tumour disease of sea turtles, was confirmed along with its associated herpesvirus in four turtles stranded on the Mississippi coast. It extends the documented range of the disease in the Gulf of Mexico.",
+    "key_points": [
+      "Three green turtles and one Kemp's ridley were involved",
+      "Both the tumours and the virus were confirmed by laboratory testing rather than appearance alone",
+      "All four animals stranded on the Mississippi coast",
+      "The finding fills in a gap in the known distribution of the disease"
+    ],
+    "why_it_matters": "Range extensions for a wildlife disease are early warnings, and they only get recorded if someone tests the strandings."
+  },
+  {
+    "title": "Underwater hearing sensitivity of the Kemp's ridley sea turtle (Lepidochelys kempii).",
+    "authors": "Charles A Muirhead, Wendy E D Piniak, Douglas P Nowacek, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41632512/",
+    "date": "2026-10-01",
+    "summary": "Shipping and offshore energy fill the waters where Kemp's ridley turtles live, but nobody knew what they can hear. Testing 13 juveniles by measuring brain responses to underwater tones mapped their hearing range for the first time.",
+    "key_points": [
+      "They responded to sounds between 50 and 800 Hz, all low frequencies",
+      "Hearing was sharpest between 200 and 300 Hz and fell away above 400 Hz",
+      "Nothing registered at 1200 Hz or above, even at high volume",
+      "Their most sensitive threshold averaged 100 decibels at 300 Hz"
+    ],
+    "why_it_matters": "You cannot write noise limits to protect an animal until you know which frequencies it can actually hear."
+  },
+  {
+    "title": "They're Out There, You Know: Sea Turtle Sightings and Strandings in Canadian Pacific Waters.",
+    "authors": "Lisa Spaven, Amy Migneault, Karina Dracott, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41613567/",
+    "date": "2026-10-01",
+    "summary": "British Columbia is far colder than sea turtles normally tolerate, yet they turn up there. This paper compiles every known record from Canadian Pacific waters between 1931 and 2024, including 77 never published before.",
+    "key_points": [
+      "The dataset holds 247 records across four species",
+      "Leatherbacks were most common and were usually seen alive and swimming",
+      "Nearly half of hard-shelled turtles were found dead or cold-stunned",
+      "Leatherbacks can regulate their body temperature; hard-shelled species cannot, which explains the split"
+    ],
+    "why_it_matters": "Records at the cold edge of a species range are exactly the records that will show whether warming seas are shifting that edge."
+  },
+  {
+    "title": "Biomarkers of foraging and reproduction in captive adult female hawksbill sea turtles (Eretmochelys imbricata).",
+    "authors": "Joslyn Blessing Kent, Kari Renee Dawson, Shingo Fukada, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41613039/",
+    "date": "2026-10-01",
+    "summary": "Wild hawksbill turtles can usually only be sampled while nesting, so nobody knows what their normal non-breeding physiology looks like. Following five captive females for a full year in a Japanese aquarium filled that gap.",
+    "key_points": [
+      "Blood was tested for fat-burning markers and the hormone testosterone across all seasons",
+      "Both fat-burning markers rose significantly while the reproductive organs were developing",
+      "Having year-round data shows which readings are normal and which are specific to nesting",
+      "Hawksbills are listed as critically endangered, making baseline physiology valuable"
+    ],
+    "why_it_matters": "Without off-season measurements, every nesting-season reading is uninterpretable because there is nothing to compare it against."
+  },
+  {
+    "title": "Influence of Nest Microbiota on Hatching Success of Caretta Caretta on Lampedusa Island.",
+    "authors": "Fanny Claire Capri, Elena Prazzi, Giulia Casamento, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41611907/",
+    "date": "2026-10-01",
+    "summary": "Why do some turtle nests hatch almost completely while others fail entirely? Comparing bacteria in four loggerhead nests on Lampedusa found the one successful nest had a clearly different bacterial community from the three that failed.",
+    "key_points": [
+      "Hatching success ranged from 85.2 percent in the successful nest down to 0 percent",
+      "Sand, eggshells and inner egg membranes were all sampled and sequenced",
+      "The successful nest separated statistically from the failures on community composition",
+      "The balance between two major bacterial groups was distinctly different in the successful nest"
+    ],
+    "why_it_matters": "If nest bacteria help decide whether eggs hatch, that is a factor hatchery managers could potentially influence."
+  },
+  {
+    "title": "Occurrence of Citrobacter spp.-Associated and Non-Associated Lesions in a Stranded Loggerhead Sea Turtle (Caretta caretta) from Italy.",
+    "authors": "Filippo Fratini, Rossana Schena, Sinem Arslan, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41599040/",
+    "date": "2026-10-01",
+    "summary": "Turtle skin naturally carries many bacteria, some of which cause ulcerating disease. Swabbing a loggerhead at an Italian aquarium recovered fifteen strains of one such bacterium and tested how drug-resistant they were.",
+    "key_points": [
+      "Nine swabs were taken from skin lesions, shell, mouth and cloaca",
+      "Strains were tested against twelve antimicrobials spanning eight drug classes",
+      "They were screened for genes conferring resistance to major antibiotic families",
+      "Their ability to form biofilm, which protects bacteria from treatment, was also measured"
+    ],
+    "why_it_matters": "Turtles in human care can act as reservoirs for drug-resistant bacteria, which makes this a staff safety question as well as an animal health one."
+  },
+  {
+    "title": "Between the Atolls: Sea Turtle Nesting in the Maldives from 2018 to 2024.",
+    "authors": "Isha Afeef, Jane R Lloyd, Ibrahim Inan, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41594497/",
+    "date": "2026-10-01",
+    "summary": "The Maldives had no comprehensive nesting record despite turtles being central to its marine ecosystem. Combining targeted monitoring with reports from citizen scientists and biologists produced the first multi-year dataset, covering 2018 to 2024.",
+    "key_points": [
+      "Nests were recorded on nearly every atoll, overwhelmingly green turtles at 1,086 nests",
+      "Hawksbill, olive ridley and unidentified nests made up the small remainder",
+      "Nesting happens year-round but peaks June to September during the southwest monsoon",
+      "Median hatching success was 90.9 percent over a median 59-day incubation"
+    ],
+    "why_it_matters": "Flooding and illegal egg collection emerged as the main threats, which is actionable in a way that an unquantified problem is not."
+  },
+  {
+    "title": "Genomic Differentiation and Diversity in Persian Gulf Hawksbill Turtles (Eretmochelys imbricata) Revealed by the First Whole-Genome Sequencing Study.",
+    "authors": "Mohammadali Farahvashi, Mohammadreza Mohammadabadi, Majid Askari-Hesni, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41594359/",
+    "date": "2026-10-01",
+    "summary": "This is the first whole-genome study of hawksbill turtles in the Persian Gulf. Sequencing 17 turtles from four Iranian nesting islands found genetically distinct populations even between islands close together.",
+    "key_points": [
+      "Four separate populations emerged from the genetic data",
+      "One island showed long-term isolation while another showed mixing and higher diversity",
+      "Genetic patterns point to historical population crashes rather than recent inbreeding",
+      "Females returning to their own birth beach appears to drive the separation"
+    ],
+    "why_it_matters": "Nearby islands holding genetically distinct turtles means each one needs its own conservation plan rather than a single regional approach."
+  },
+  {
+    "title": "Major Histocompatibility Complex Immunogenetic Diversity Differs Substantially Across Sea Turtle Species and Genomic Regions.",
+    "authors": "Katherine R Martin, Jamie L Adkins, Vipheaviny Chea, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41575191/",
+    "date": "2026-10-01",
+    "summary": "Immune system genes are usually extremely varied, because variety helps a population survive new diseases. Sequencing these genes in over 300 turtles across four species found the amount of variation differs dramatically between species.",
+    "key_points": [
+      "Loggerhead, green, leatherback and Kemp's ridley turtles were compared",
+      "162 and 308 functionally distinct versions were found in the two gene classes examined",
+      "Many versions are shared between species, meaning they predate the species splitting apart",
+      "Evidence of ongoing natural selection suggests the variety is being actively maintained"
+    ],
+    "why_it_matters": "A species with little immune variation is a species with little room to respond to a new disease, which matters given the tumour outbreaks turtles already face."
+  },
+  {
+    "title": "Molecular signatures and cellular responses underlying hypoxic adaptation in sea turtles.",
+    "authors": "B Gabriela Arango, Giovanna Selleghin-Veiga, Diana Daniela Moreno-Santill\u00e1n, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41542506/",
+    "date": "2026-10-01",
+    "summary": "Sea turtles hold their breath for remarkably long dives, and this preprint looked for the genetic basis. Comparing low-oxygen response genes across reptiles found one of them is under active evolutionary pressure specifically in turtles.",
+    "key_points": [
+      "Three of the four genes examined are highly conserved across all reptiles",
+      "The fourth shows signs of positive selection in turtles and tortoises specifically",
+      "Several regulatory sequences appear unique to the turtle lineage",
+      "Loggerhead cells responded to low oxygen quite differently from lizard cells"
+    ],
+    "why_it_matters": "Understanding how turtles tolerate oxygen deprivation is relevant to why some survive being caught in nets and others do not."
+  },
+  {
+    "title": "Somatic Growth Rates of Juvenile Green Sea Turtles (Chelonia mydas) in the Fijian Archipelago.",
+    "authors": "Garrett E Lemons, Calandra N Turner Tomaszewicz, Shritika Prakash, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41542379/",
+    "date": "2026-10-01",
+    "summary": "How fast turtles grow tells you how long they take to reach breeding age, which drives every population projection. Measuring 215 green turtles across three Fijian feeding areas over seven years produced the first growth rates for the region.",
+    "key_points": [
+      "Turtles grew an average of 1.6 cm of shell length per year",
+      "Growth rates varied between the three sites, from 1.1 to 1.8 cm per year",
+      "Growth slowed as turtles got larger",
+      "The Fijian figures line up with those from elsewhere in the Pacific"
+    ],
+    "why_it_matters": "Site-to-site differences in growth suggest some feeding grounds are simply better habitat than others, which is a conservation priority signal."
+  },
+  {
+    "title": "Hazardous seascapes for marine turtles in the Mediterranean sea.",
+    "authors": "G Quattrocchi, G Cilluffo, G Buffa, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41539614/",
+    "date": "2026-10-01",
+    "summary": "Which parts of the Mediterranean are most dangerous for turtles? By working backwards from where carcasses washed ashore, researchers reconstructed where the deaths actually happened and compared that against fishing traffic and floating litter.",
+    "key_points": [
+      "Five years of stranding data around Sicily and Sardinia fed a drift model",
+      "Reconstructed death locations overlapped strongly with dense fishing vessel routes",
+      "The link to floating debris was much weaker and more diffuse",
+      "The analysis allowed hazard levels to vary from place to place rather than assuming one pattern"
+    ],
+    "why_it_matters": "Fishing traffic showing a far tighter link to mortality than litter tells managers which threat to spend their limited budget on."
+  },
+  {
+    "title": "Green Sea Turtle Recruitment in the Eastern North Pacific: Patterns Identified Using Geochemical Signatures in Bones.",
+    "authors": "Calandra N Turner Tomaszewicz, Erin LaCasella, Garrett E Lemons, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41537140/",
+    "date": "2026-10-01",
+    "summary": "Green turtles have become increasingly common off urban Southern California over three decades. Reading the chemical layers in turtle arm bones, like tree rings, reconstructed where individual turtles had been feeding through their lives.",
+    "key_points": [
+      "Ocean chemistry varies predictably by region and gets locked into bone as it grows",
+      "Bone growth layers were paired with age and size estimates from the same bones",
+      "This reconstructed each turtle's movement and diet history retrospectively",
+      "The method works on dead turtles, requiring no tracking equipment"
+    ],
+    "why_it_matters": "Extracting a lifetime movement history from a bone means dead strandings become data rather than just losses."
+  },
+  {
+    "title": "Blood analytes relevant to nutritional status and energy metabolism in three sea turtle species across nesting season.",
+    "authors": "Kristina L Kaleel, Justin R Perrault, Sarah E Hirsch, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41528446/",
+    "date": "2026-10-01",
+    "summary": "Nesting is physiologically brutal, and vets need to know what normal blood chemistry looks like during it. This study established reference ranges across three to four nesting seasons for three species.",
+    "key_points": [
+      "Leatherback, loggerhead and green turtles were all sampled",
+      "Measures covered blood cell volume, fat-burning markers, protein, glucose and lactate",
+      "Leatherbacks showed significant declines in four of the measures as the season progressed",
+      "The study also tested how much delayed sample processing distorts results"
+    ],
+    "why_it_matters": "Without reference ranges a vet cannot tell a sick nesting turtle from a normally exhausted one."
+  },
+  {
+    "title": "Rediscovering nesting activities of Lepidochelys olivacea along the Dakshina Kannada Coast Karnataka West Coast of India.",
+    "authors": "Thejaswini Shettigar, Shivakumar Haragi, Anthony Mariyappa",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41507238/",
+    "date": "2026-10-01",
+    "summary": "Olive ridley turtles nested on India's Dakshina Kannada coast for the first time in 18 years. Twenty-one nests appeared across six beaches in a single season, including on busy commercial stretches.",
+    "key_points": [
+      "One beach near Mangalore accounted for 62 percent of all nests",
+      "Nesting happened across all moon phases, contradicting the expected full-moon preference",
+      "Clutches held 71 to 135 eggs and incubated for about 49 days",
+      "Nests closer to river mouths had better hatching success"
+    ],
+    "why_it_matters": "A nesting population returning after 18 years is a conservation win, and documenting it is what secures protection for those beaches."
+  },
+  {
+    "title": "Prevalence, etiology, and transmission of fibropapillomatosis in Olive Ridley turtles at a mass-nesting colony in the Mexican Pacific.",
+    "authors": "Elizabeth Labastida-Estrada, Karina Marisol Lugo-Trejo, Valentina Islas-Villanueva, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41499427/",
+    "date": "2026-10-01",
+    "summary": "At one of the world's great mass-nesting beaches in Oaxaca, Mexico, researchers measured how common the turtle tumour disease is and tested whether parasitic leeches spread it.",
+    "key_points": [
+      "Disease prevalence among nesting olive ridley females was low, about 1.05 percent",
+      "Viral DNA was sought in both tumours and healthy tissue from affected and unaffected turtles",
+      "Marine leeches taken from both groups were screened as possible carriers",
+      "Genetic variants of the virus were identified from both turtles and leeches"
+    ],
+    "why_it_matters": "If leeches transmit the virus, that opens a route to interrupting the disease that treating turtles alone never could."
+  },
+  {
+    "title": "Performance Comparison of Argos and Iridium Tracking Technologies for Sea Turtle Movement Ecology Studies.",
+    "authors": "Paolo Casale, Christine Figgener, Michael Arendt, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41463892/",
+    "date": "2026-10-01",
+    "summary": "Satellite tags for turtles come in several technologies, and researchers need to know which actually performs best. Comparing 116,074 positions from 48 turtles found clear differences between the three tag types.",
+    "key_points": [
+      "Five species across multiple ocean basins were included",
+      "Tags were judged on how many days returned data, gap length, and positions per day",
+      "The three types compared were older Doppler-based, GPS-enhanced, and newer GPS tags on a different satellite network",
+      "Species and tag settings also affected performance, not just the technology"
+    ],
+    "why_it_matters": "Tags are expensive and go on endangered animals, so choosing the wrong one wastes both money and a rare research opportunity."
+  },
+  {
+    "title": "Predation by Native Mediterranean Species on the Invasive Blue Crab: Experimental Evidence from the Common Octopus and the Loggerhead Sea Turtle.",
+    "authors": "Silvia Falco, Miguel Rodilla, Jos\u00e9 Luis Crespo-Picazo, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41463850/",
+    "date": "2026-10-01",
+    "summary": "Invasive blue crabs are overrunning Mediterranean coasts, so researchers asked whether native predators could help control them. Aquarium trials pitted octopuses and loggerhead turtles against crabs of various sizes.",
+    "key_points": [
+      "Turtles ate crabs whole, shell included, consuming up to 815 g per day",
+      "Octopuses ate only the soft tissue, about 54 percent of each crab, up to 454 g per day",
+      "Neither predator showed a statistically clear preference for particular crab sizes",
+      "Smaller octopuses handled small crabs faster than large ones"
+    ],
+    "why_it_matters": "Turtles eating invasive crabs whole is a rare case where a threatened species might help solve another ecological problem."
+  },
+  {
+    "title": "Dynamics of fibropapillomatosis in green turtles Chelonia mydas from Babitonga Bay, southern Brazil.",
+    "authors": "Tiago Fernando Alves, Marta Jussara Cremer",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41410229/",
+    "date": "2026-10-01",
+    "summary": "Babitonga Bay in southern Brazil turns out to be a hotspot for the turtle tumour disease. Monitoring 171 juvenile green turtles over five years found more than half were affected, among the highest rates recorded in the country.",
+    "key_points": [
+      "Prevalence reached 53.2 percent",
+      "Tumours clustered around the flippers and armpit area and were mostly small",
+      "Disease severity showed no clear link to the turtle's body condition",
+      "Recaptured turtles showed tumours both growing and shrinking over time"
+    ],
+    "why_it_matters": "Tumours regressing on their own in some animals suggests environmental conditions influence the disease, not just the virus."
+  },
+  {
+    "title": "Anthropogenic stones on a remote oceanic island: formation, transport, and burial in a sea turtle nesting beach.",
+    "authors": "Fernanda Avelar Santos, Matheus Brito da Silva, Giovana Rebelo Diorio, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41391278/",
+    "date": "2026-10-01",
+    "summary": "Plastic can melt and fuse with rock to form something geologists now call plastistone. Five years of monitoring a remote green turtle nesting beach in the South Atlantic tracked how these masses break apart and spread.",
+    "key_points": [
+      "An original plastistone deposit shrank 45 percent between 2019 and 2024 as it eroded",
+      "The fragments spread to six different beaches on the island",
+      "Fragments accumulate in the strandline at roughly 24 larger and 22 smaller pieces per square metre",
+      "They are also found inside turtle nesting pits, buried to about 10 cm deep"
+    ],
+    "why_it_matters": "Plastic turning into a rock-like material that then erodes into nests is a pollution pathway nobody was tracking a decade ago."
+  },
+  {
+    "title": "An application of finite element analysis predicts unique temperatures and fates for flatback sea turtle embryos.",
+    "authors": "Malindi Gammon, Sabrina Fossette, Ali Karrech, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41342300/",
+    "date": "2026-10-01",
+    "summary": "Nest temperature is usually measured with a single logger, which ignores the fact that embryos themselves generate heat. Applying engineering simulation software to flatback turtle nests predicted a different temperature for every individual egg.",
+    "key_points": [
+      "Five nests were modelled using clutch size, depth, sand density and moisture",
+      "Each egg was given its own hourly heat output based on its metabolic rate",
+      "Predictions were checked against real measured nest temperatures",
+      "Eggs in different positions experience meaningfully different conditions"
+    ],
+    "why_it_matters": "If eggs in the same nest incubate at different temperatures, they may be destined for different sexes and different survival odds."
+  },
+  {
+    "title": "Mycobacterium ulcerans ecovar infection in wild Kemp's ridley Lepidochelys kempii and loggerhead Caretta caretta sea turtles.",
+    "authors": "Brian A Stacy, Robert J Ossiboff, Allyson L McNaughton, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41342225/",
+    "date": "2026-10-01",
+    "summary": "Six wild turtles were found infected with a relative of the bacterium that causes Buruli ulcer in humans, and in most cases it had reached the brain. Four of the six were found near one another with no obvious reason to be vulnerable.",
+    "key_points": [
+      "Five Kemp's ridley turtles and one loggerhead were affected",
+      "Most stranded showing neurological problems caused by severe brain and spinal inflammation",
+      "The immune response failed to wall the bacteria off in the nervous system the way it normally would",
+      "Genetic testing matched the strains across multiple sites in the genome"
+    ],
+    "why_it_matters": "Healthy turtles clustered together falling ill points at an environmental source rather than isolated bad luck, which has population-level implications."
+  },
+  {
+    "title": "Imaging-guided clinical approach to fishing line ingestion in a juvenile green sea turtle Chelonia mydas from southern Brazil.",
+    "authors": "Yohany Arnold Alfonso P\u00e9rez, Gustavo Martinez-Souza, Thayana Gi\u00e3o, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41283900/",
+    "date": "2026-10-01",
+    "summary": "A juvenile green turtle was found during fishing monitoring in Brazil with fishing line hanging from its mouth. Imaging showed exactly how far the line ran before anyone pulled on it, which is what made safe removal possible.",
+    "key_points": [
+      "X-ray and ultrasound traced the line through mouth, throat and stomach",
+      "Crucially, no hooks were attached, so the line could be withdrawn by hand",
+      "Blood tests showed anaemia, elevated white cells and raised urea from gut injury",
+      "The turtle's body was already mounting a systemic response to the trauma"
+    ],
+    "why_it_matters": "Pulling on a swallowed line without imaging first can tear the gut if a hook is anchored, so this is a procedural lesson as much as a case report."
+  },
+  {
+    "title": "Modelling the pipping to emergence interval and its influence on the thermosensitive period for sex determination in the green sea turtle Cheloniamydas.",
+    "authors": "Kirsty Scott, Jesse E M Cochran, Royale S Hardenstine, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41274206/",
+    "date": "2026-10-01",
+    "summary": "Hatchlings break out of the egg days before they dig their way to the surface, and that gap muddles the temperature calculations used to predict sex ratios. This study measured the hidden interval using motion sensors buried in nests.",
+    "key_points": [
+      "Field studies time incubation to emergence; lab studies time it to hatching, which are not the same thing",
+      "Accelerometers detected the movement of hatching beneath the sand",
+      "The gap can span several days, shifting estimates of when sex is actually determined",
+      "Work focused on a green turtle population already under thermal stress in the northwest Indian Ocean"
+    ],
+    "why_it_matters": "If the window when sex gets decided is being mis-timed, then climate predictions built on it are off too."
+  },
+  {
+    "title": "Disruption of the sea turtle magnetic map sense by a magnetic pulse.",
+    "authors": "Alayna G Mackiewicz, Abigail M Glazener, Kayla M Goforth, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41265039/",
+    "date": "2026-10-01",
+    "summary": "Sea turtles navigate using Earth's magnetic field, but how they sense it was unknown. Hitting loggerheads with a brief strong magnetic pulse disrupted their ability to tell where they were, pointing to tiny magnetic crystals as the sensor.",
+    "key_points": [
+      "The pulse is strong enough to flip the magnetic polarity of the mineral magnetite",
+      "A conditioning test was used that needs the turtles' magnetic map but not their compass",
+      "That separation matters, because previous experiments could not tell the two senses apart",
+      "The disruption implicates magnetite-based receptors in the map sense specifically"
+    ],
+    "why_it_matters": "Pinning down the physical mechanism behind turtle navigation is the step that makes it possible to ask how human magnetic interference might affect them."
+  },
+  {
+    "title": "A quantitative risk assessment framework for mortality due to macroplastic ingestion in seabirds, marine mammals, and sea turtles.",
+    "authors": "Erin L Murphy, Britta R Baechler, Lauren Roman, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41248313/",
+    "date": "2026-10-01",
+    "summary": "Plastic has been found in nearly 1,300 marine species, but how much is actually lethal? Analysing over 10,000 autopsies produced the first quantitative estimate of fatal dose for seabirds, marine mammals and sea turtles.",
+    "key_points": [
+      "47 percent of sea turtles examined had eaten plastic, the highest of the three groups",
+      "Seabirds were at 35 percent and marine mammals 12 percent",
+      "Risk was modelled against both the number of pieces and their volume relative to body length",
+      "Hard plastic, soft plastic, rubber and fishing debris were assessed separately"
+    ],
+    "why_it_matters": "Turning plastic ingestion from an alarming statistic into a dose-response relationship is what lets regulators argue about specific thresholds."
+  },
+  {
+    "title": "Cretaceous sea turtle soft tissues clarify ancestry of scale loss in chelonioids.",
+    "authors": "Benjamin P Kear, Roy Nohra, Johan Lindgren, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41210992/",
+    "date": "2026-10-01",
+    "summary": "The leatherback turtle has smooth skin while other sea turtles have scales, and nobody knew which came first. A 97-million-year-old fossil from Lebanon, the oldest sea turtle soft tissue known, settles it.",
+    "key_points": [
+      "The fossil combines scale-free flipper skin with a scuted shell",
+      "Scale-free skin turns out to be an ancient sea turtle trait, not a leatherback innovation",
+      "Modern hard-shelled turtles therefore re-evolved their scaly flippers",
+      "The same smooth-skin adaptation appeared independently in ichthyosaurs, plesiosaurs and marine crocodiles"
+    ],
+    "why_it_matters": "Soft tissue almost never fossilises, so a 97-million-year-old skin impression can resolve a question bones cannot."
+  },
+  {
+    "title": "Anatomopathological Characterization of the Main Ocular Lesions in Green Turtles (Chelonia mydas) Along the Northern Coast of Bahia, Brazil.",
+    "authors": "Danielle Nascimento Silva, Jos\u00e9 Lu\u00eds Cat\u00e3o-Dias, Wendell Marcelo de Souza Perinotto, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41208587/",
+    "date": "2026-10-01",
+    "summary": "Thirty-nine stranded green turtles in Bahia, Brazil had their eyes and tear glands examined in detail. Nearly seven in ten samples showed disease, most often tumours and parasites.",
+    "key_points": [
+      "Of 158 samples from eyelids, eyes and salt glands, 69.6 percent were diseased",
+      "Fibropapillomatosis was the most common finding at 58.9 percent, followed by blood flukes at 46.8 percent",
+      "Most problems affected both eyes rather than one",
+      "Other findings included corneal ulcers, perforations, scarring and stones in the salt glands"
+    ],
+    "why_it_matters": "A blind turtle cannot feed or avoid boats, so eye disease at this rate is a survival issue and not a cosmetic one."
+  },
+  {
+    "title": "Power analyses to inform clutch sampling design to determine the breeding sex ratio in populations with multiple paternity.",
+    "authors": "Vic Quennessen, Mariana M B P Fuentes, Lisa Komoroske, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41180495/",
+    "date": "2026-10-01",
+    "summary": "Working out how many males are breeding in a population means genotyping eggs, but how many eggs do you actually need? This study calculated the sampling effort required to be confident you have found every father.",
+    "key_points": [
+      "The answer depends on whether fathers contribute equally or one dominates each clutch",
+      "Effort can be spent on more eggs per nest or more nests per season, a real trade-off",
+      "Under-sampling means missing fathers and overestimating how female-biased a population is",
+      "Guidance covers both single clutches and whole nesting seasons"
+    ],
+    "why_it_matters": "Field budgets are finite, and this tells researchers the minimum sampling that still produces a defensible answer."
+  },
+  {
+    "title": "Metagenomic insights reveal the differences in the community composition and functional characteristics of the sea turtle microbiomes based on host species and tissue region.",
+    "authors": "Lingzhi Dong, Yu Du, Feifei Qiu, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41113648/",
+    "date": "2026-10-01",
+    "summary": "This study built the first comprehensive gene catalogue for sea turtle microbes, sequencing mouth, nose and cloaca samples from three species. Which body site a sample came from mattered more than which species it came from.",
+    "key_points": [
+      "Sixty-three samples produced about 706 gigabytes of sequence data",
+      "The resulting catalogue holds over 10.7 million unique microbial genes",
+      "Two bacterial groups dominated across all sites and species",
+      "Green turtles showed the most variation between body regions"
+    ],
+    "why_it_matters": "A reference catalogue is infrastructure: every future study of turtle microbes can now compare against it instead of starting over."
+  },
+  {
+    "title": "Recombinant expression and functional characterization of defensin-like peptide TEWP and its analogs in Pichia pastoris.",
+    "authors": "Saime G\u00fcls\u00fcm Batman, Z\u00fclal Kesmen",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41099884/",
+    "date": "2026-10-01",
+    "summary": "Turtle egg whites contain a natural antimicrobial protein. Researchers produced it in yeast along with three redesigned versions, then tested all four against nineteen microbes.",
+    "key_points": [
+      "The original protein comes from loggerhead sea turtle eggs",
+      "Variants were made by swapping amino acids, reversing the sequence, and attaching a cell-entry tag",
+      "All versions worked best against Listeria monocytogenes, a serious food-borne bacterium",
+      "Simply increasing the protein's electrical charge did not improve its potency"
+    ],
+    "why_it_matters": "Natural antimicrobials are a hunting ground for new antibiotics, and producing them in yeast means no turtles are needed to make them."
+  },
+  {
+    "title": "First Survey on Sea Turtles' Interactions in Mussel Farms in Italy.",
+    "authors": "Ludovica Di Renzo, Giulia Mariani, Marco Matiddi, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41096504/",
+    "date": "2026-10-01",
+    "summary": "Loggerhead turtles have learned that mussel farms are an easy meal, which is a problem for the farmers. Surveying Italian mussel growers alongside autopsies of stranded turtles confirmed the turtles really are eating farmed mussels.",
+    "key_points": [
+      "Sightings peaked in summer in the northern Adriatic and in autumn further south, tracking water temperature",
+      "Mediterranean mussel was the most commonly found mollusc in turtle stomachs",
+      "Its presence in turtle guts rose noticeably between 2018 and 2021",
+      "National data on the scale of the conflict had never been gathered before"
+    ],
+    "why_it_matters": "Conservation needs the fishing industry on side, so a conflict like this is better measured than ignored."
+  },
+  {
+    "title": "Long-Term Incubation Duration Decline Indicates Climate-Change Driven Feminization of Three Sea Turtle Species in Florida, USA.",
+    "authors": "Simona A Ceriani, Paolo Casale",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41090393/",
+    "date": "2026-10-01",
+    "summary": "Turtle sex is set by nest temperature, and warmer nests mean more females. Using incubation time as a thermometer across more than 110,000 Florida nests gives the first large-scale evidence that three species really are becoming more female.",
+    "key_points": [
+      "Data spanned 2001 to 2022 and covered loggerhead, green and leatherback turtles",
+      "Incubation times declined significantly, which indicates rising nest temperatures",
+      "Using incubation duration sidesteps the uncertainty in model-based sex ratio estimates",
+      "Embryo death rates varied between regions as well"
+    ],
+    "why_it_matters": "Feminisation had been predicted by models for years; this is the population-scale measurement showing it is actually happening."
+  },
+  {
+    "title": "Total mercury levels in Loggerhead and Green sea turtle hatched eggshells from nests along the southeastern Mediterranean coast.",
+    "authors": "Jacob Silverman, Orin Levin, Yaniv Levy, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41075630/",
+    "date": "2026-10-01",
+    "summary": "Mercury accumulates in turtles over their lives and gets passed into their eggs. Measuring it in hatched eggshells from Israeli beaches is a way to gauge the mothers' contamination without disturbing anything.",
+    "key_points": [
+      "180 loggerhead and 40 green turtle eggshells were analysed across two nesting seasons",
+      "Loggerhead eggshells held about six times more mercury than green turtle eggshells",
+      "The gap likely reflects diet, since loggerheads eat higher up the food chain",
+      "Shells were collected after hatching, so no eggs or turtles were harmed"
+    ],
+    "why_it_matters": "Discarded eggshells turn out to be a free, harmless window into how contaminated the nesting females are."
+  },
+  {
+    "title": "Assessment of metal bioaccumulation and genotoxic damage on a protected nesting beach of Caretta Caretta after a mining dam rupture in Brazil.",
+    "authors": "Alexandra Frossard, Gabriel Carvalho Coppo, Adriana Regina Chippari-Gomes",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40996631/",
+    "date": "2026-10-01",
+    "summary": "In 2015 a mining dam collapsed in Brazil and flooded a river system with tailings that reached loggerhead nesting beaches. Three seasons of testing eggs and hatchlings found both metal accumulation and genetic damage.",
+    "key_points": [
+      "Thirteen metals were measured in eggs and hatchlings",
+      "Hatchlings showed genetic damage detected by a standard chromosome-damage test",
+      "Biochemical stress responses were measured alongside the contamination",
+      "Effects persisted across all three nesting seasons studied"
+    ],
+    "why_it_matters": "Industrial disasters are usually assessed on adult wildlife, and this shows the damage reaches embryos years afterwards."
+  },
+  {
+    "title": "Robust maneuverability in flipper-based systems across complex terrains.",
+    "authors": "Nnamdi C Chikere, Frank E Fish, Yasemin Ozkan-Aydin",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40987310/",
+    "date": "2026-10-01",
+    "summary": "Hatchlings have to cross obstacle-strewn beaches fast, which takes agility rather than speed. This team built a flipper-driven robot to test which flipper combinations turn most efficiently on different ground.",
+    "key_points": [
+      "Five flipper patterns were compared, from all four flippers down to a single one",
+      "Surfaces tested included four rock sizes, foam and dry sand",
+      "Rigid and soft flipper designs were compared directly",
+      "Roll, pitch, yaw and lift height were all measured for each gait"
+    ],
+    "why_it_matters": "Working out which flipper strategies work on which surfaces explains why beach texture affects how many hatchlings reach the sea."
+  },
+  {
+    "title": "Maternal Traits Are Associated With Hemolytic Capacity in Sea Turtle Hatchlings, Independently of Systemic Immune Stimuli.",
+    "authors": "Sandra Nataly Ch\u00e1vez-Salazar, Bryan V\u00edctor Phillips-Farf\u00e1n, Ma Antonia Herrera-Vargas, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40977377/",
+    "date": "2026-10-01",
+    "summary": "A hatchling's immune system is shaped before it ever hatches, but by what? This study found one key immune measure is inherited from the mother rather than set by nest conditions.",
+    "key_points": [
+      "Blood and body measurements were taken from nesting females over two years",
+      "Every clutch was moved to an identical shaded nest, removing temperature as a variable",
+      "One hatchling per nest got an immune challenge and another a placebo",
+      "The hatchlings' immune capacity tracked their mothers' rather than their incubation"
+    ],
+    "why_it_matters": "If maternal health sets hatchling immunity, then protecting adult females protects two generations at once."
+  },
+  {
+    "title": "Evaluating the ecological risks of marine litter and derelict fishing nets on Olive Ridley hatchlings: Insights from a globally renowned rookery along the east coast of India.",
+    "authors": "Pradip Panda, Abhijit Priyadarshi Swain, Sk Sahid Afridi, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40966923/",
+    "date": "2026-10-01",
+    "summary": "The Rushikulya rookery in India hosts mass nesting events involving thousands of olive ridley turtles. Surveying litter on four nearby nesting beaches found all of them rated dirty to extremely dirty.",
+    "key_points": [
+      "1,103 litter items were catalogued, over 85 percent of it plastic",
+      "Multiple standard beach-quality indices all returned poor scores",
+      "Litter was classified by material, origin and whether it floats",
+      "Some of the plastic had drifted in from other countries"
+    ],
+    "why_it_matters": "Hatchlings have to cross these beaches to reach the sea, so litter density on a mass-nesting beach is a direct survival obstacle."
+  },
+  {
+    "title": "Assessment of mercury (Hg) contamination in tropical areas of the Eastern Pacific and Southwestern Atlantic oceans using two species of sea turtles.",
+    "authors": "C\u00e9sar Augusto Barrios-Rodriguez, Mois\u00e9s F Bezerra, Eric Enrique Flores, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40907256/",
+    "date": "2026-10-01",
+    "summary": "Mercury enters the ocean from volcanoes as well as from industry. Comparing turtles from the Pacific coast of Panama against Brazil tested whether that natural geology shows up in the animals.",
+    "key_points": [
+      "Olive ridley and hawksbill turtles were both sampled",
+      "Turtles from the Eastern Pacific carried significantly more mercury",
+      "The Pacific region sits on a geologically active belt that releases mercury naturally",
+      "Sampling used shell scutes, which requires no harm to the animal"
+    ],
+    "why_it_matters": "Separating natural mercury from industrial mercury matters, because only one of them can be regulated."
+  },
+  {
+    "title": "Comparative glycomic analysis of hawk (Rupornis magnirostris), caiman (Caiman latirostris) and sea turtle (Caretta caretta) tear films.",
+    "authors": "Ana Cl\u00e1udia Raposo, Sheryl Joyce B Grijaldo-Alvarez, Gege Xu, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40891711/",
+    "date": "2026-10-01",
+    "summary": "Tears protect eyes that are directly exposed to the environment, and sugar molecules in tears do much of that work. This study compared the tear chemistry of a hawk, a caiman and a loggerhead turtle.",
+    "key_points": [
+      "Samples came from 10 hawks, 70 caimans and 10 loggerhead turtles, all healthy",
+      "Hundreds of distinct sugar compounds were catalogued per species",
+      "Roughly half the compounds in one group carried a particular chemical modification",
+      "Comparing one bird against two reptiles isolates what is reptile-specific"
+    ],
+    "why_it_matters": "A sea turtle's eye is bathed in salt water constantly, so what protects it is worth understanding on its own terms."
+  },
+  {
+    "title": "A novel cartilage type in the sclera of Chelonia mydas: First report.",
+    "authors": "A L M Souza, H Jerdy, L M Conti, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40884052/",
+    "date": "2026-10-01",
+    "summary": "Examining 50 green turtle eyes turned up a type of cartilage never before described in a marine reptile. The turtle's eye wall has two distinct cartilage layers rather than one.",
+    "key_points": [
+      "The newly described mucoid cartilage sits inside the familiar hyaline cartilage",
+      "It has a blood supply, few cells, pigment-producing cells and a distinctive protein matrix",
+      "Eyes came from turtles that died naturally or despite treatment",
+      "This is the first report of this cartilage type in any marine reptile"
+    ],
+    "why_it_matters": "Finding an undescribed tissue in a well-studied animal is a reminder how much basic anatomy is still unmapped."
+  },
+  {
+    "title": "Toxicological assessment of hawksbill sea turtle eggs from the Arabian Gulf.",
+    "authors": "Fatin Samara, Fadi Yaghmour, Ishraq Osman, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40850132/",
+    "date": "2026-10-01",
+    "summary": "Hawksbill turtles are reef specialists, which makes their eggs a useful gauge of reef pollution. Testing 28 clutches from an island in the UAE found pesticide residues in every single one.",
+    "key_points": [
+      "Banned organochlorine pesticides were detected in 100 percent of clutches",
+      "They were present at roughly three times the concentration of petroleum-related compounds",
+      "DDT and its breakdown products were prominent despite decades of restrictions",
+      "Only unhatched eggs were used, so no live eggs or turtles were harmed"
+    ],
+    "why_it_matters": "Finding a long-banned pesticide in every clutch shows how long these chemicals persist after the ban."
+  },
+  {
+    "title": "Effects of Feeding Graded Levels of Gelatin Content on Growth, Feed Utilization and Health Status in Head-Started Leatherback Sea Turtles (Dermochelys coriacea).",
+    "authors": "Hirun Kanghae, Suthida Boonthong, Dato Simon Foong, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40832911/",
+    "date": "2026-10-01",
+    "summary": "Leatherbacks are notoriously hard to keep alive in captivity and are fed a jelly-based artificial diet. This trial tested three gelatin concentrations to find which supports the best growth.",
+    "key_points": [
+      "Juvenile turtles were fed diets with 2, 4 or 6 percent gelatin over eight weeks",
+      "The 4 and 6 percent groups grew significantly better and used feed more efficiently",
+      "No turtles died during the trial",
+      "Digestion and health were assessed without harming the animals, using droppings and blood"
+    ],
+    "why_it_matters": "Head-starting programmes raise hatchlings past their most vulnerable stage, and that only works if the diet is right."
+  },
+  {
+    "title": "Nest exposure to marine flooding and impacts on green turtle (Chelonia mydas) embryos under rapid sea level rise: The role of beach geomorphology and hydrodynamics.",
+    "authors": "Sophie Morisseau, Matthieu Jeanson, Aline Aubry, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40803274/",
+    "date": "2026-10-01",
+    "summary": "Rising seas mean more flooded turtle nests, but what decides which nests flood? Monitoring 30 green turtle nests on Mayotte, where earthquakes made the island sink, found position on the beach was the deciding factor.",
+    "key_points": [
+      "About 30 percent of the monitored nests flooded",
+      "Pressure sensors in each nest recorded flooding directly rather than inferring it",
+      "A seismic crisis between 2018 and 2020 caused the island to subside, raising sea level locally",
+      "Beach shape and wave behaviour were mapped alongside the nests"
+    ],
+    "why_it_matters": "An island that already sank gives a preview of what sea level rise will do to nesting beaches elsewhere."
+  },
+  {
+    "title": "Assessment of metal distribution patterns in loggerhead sea turtles: A comparative analysis based on sex and tissue type.",
+    "authors": "Ilker Simsek, Ozgur Kuzukiran, \u0130brahim Filazi, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40561618/",
+    "date": "2026-10-01",
+    "summary": "Nineteen elements were measured across six different tissues in ten stranded loggerhead turtles, split evenly between males and females. Both the tissue and the turtle's sex changed what accumulated where.",
+    "key_points": [
+      "Essential trace elements concentrated in the liver, with iron highest overall",
+      "Elements were grouped as essential, possibly essential, or potentially toxic",
+      "Males and females showed significantly different accumulation patterns",
+      "Samples came from strandings on Turkey's Mediterranean coast"
+    ],
+    "why_it_matters": "If males and females accumulate contaminants differently, then studies sampling only nesting females are getting a partial picture."
+  },
+  {
+    "title": "The Incubation Environment Shapes the Inflammatory Response and Enables Expression of Maternal Effects on Sea Turtle Hatchling Body Size.",
+    "authors": "Irma Yunuen Garc\u00eda-Bucio, Bryan V\u00edctor Phillips-Farf\u00e1n, Sandra Nataly Ch\u00e1vez-Salazar, et al.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40536444/",
+    "date": "2026-10-01",
+    "summary": "Hatcheries move turtle clutches into shaded nests to improve survival. This study used a split-clutch design, sending siblings to shaded and unshaded nests, to see what that intervention actually changes.",
+    "key_points": [
+      "Hatchlings from shaded nests were heavier, longer, and showed milder inflammation when challenged",
+      "Splitting each clutch means the comparison is between genuine siblings",
+      "Incubation conditions influenced both immune response and body size",
+      "The mother's own body size and blood chemistry were measured too"
+    ],
+    "why_it_matters": "Shading nests turns out to improve hatchling immune function as well as survival, which is a stronger argument for the practice than anyone had."
   }
 ]
