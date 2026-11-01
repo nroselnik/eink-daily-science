@@ -1,14 +1,13 @@
 {
-  "title": "Correction: Metagenomic insights reveal the differences in the community composition and functional characteristics of the sea turtle microbiomes based on host species and tissue region.",
-  "authors": "Unknown",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/41195399/",
-  "date": "2026-10-01",
-  "summary": "This is a correction notice for a scientific study about the tiny microorganisms (bacteria and other microbes) that live on and inside sea turtles. The original study found that different sea turtle species and different body parts have different communities of these microorganisms, which affects how the turtles' bodies function.",
+  "title": "Species Identification of Sea Turtles in Thailand Using DNA Barcoding Coupled With High-Resolution Melting (Bar-HRM) Analysis.",
+  "authors": "Anocha Poommouang, Kittisak Santisuk, Kongkiat Kittiwatanawong, Patcharaporn Kaewmong, Chaleamchat Somgird, Korakot Nganvongpanit, Kittisak Buddhachat",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42865668/",
+  "date": "2026-11-01",
+  "summary": "Scientists developed a fast and accurate method to identify which species of sea turtle a specimen belongs to by analyzing their DNA, rather than relying on physical features that might be unclear if the specimen is damaged or incomplete. They tested this method on five sea turtle species found in Thailand and achieved perfect identification accuracy.",
   "key_points": [
-    "Sea turtles host different microbiomes depending on what species they are",
-    "Different parts of a sea turtle's body have different microbial communities",
-    "These microbial differences affect important body functions and health",
-    "The original research paper needed corrections to its findings or data"
+    "The method combines DNA barcoding with high-resolution melting analysis, which detects tiny differences in how DNA breaks apart when heated",
+    "Two specific DNA markers (TurtleDloop2 and TurtleCytb2(R1) primers) could perfectly distinguish between all five sea turtle species with 100% accuracy in blind testing",
+    "The technique requires only tiny amounts of DNA (as little as 0.001 nanograms) and could work on damaged or degraded specimens"
   ],
-  "why_it_matters": "Understanding sea turtle microbiomes helps scientists protect these endangered animals by revealing how their health depends on beneficial microorganisms."
+  "why_it_matters": "Accurately identifying sea turtle species is crucial for conservation efforts and protecting endangered populations, and this method provides researchers with a reliable tool that works faster and on more specimen types than traditional identification methods."
 }

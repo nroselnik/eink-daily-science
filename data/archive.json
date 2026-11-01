@@ -1430,5 +1430,135 @@
       "The original research paper needed corrections to its findings or data"
     ],
     "why_it_matters": "Understanding sea turtle microbiomes helps scientists protect these endangered animals by revealing how their health depends on beneficial microorganisms."
+  },
+  {
+    "title": "Entamoeba invadens infection contributes to juvenile mortality in captive sea turtles.",
+    "authors": "Raki Suenaga, Takahiro Ishizaki, Natsuki Katayama, Eri Nakashima, Hayato Hamano, Manabu Yamada, Kenichi Watanabe, Kaho Mizuochi, Isao Kawazu, Keiichi Ueda, Shinya Fukumoto",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933771/",
+    "date": "2026-11-01",
+    "summary": "Researchers discovered that a parasite called Entamoeba invadens is killing young sea turtles in captivity by destroying their intestines, livers, and lungs. They identified this parasite using genetic testing on dead sea turtle tissues and found that once the parasite damages the intestines, other bacteria and fungi invade and worsen the infection. This is the first time this particular parasite has been definitively linked to fatal disease in sea turtles.",
+    "key_points": [
+      "E. invadens parasite causes severe damage to sea turtle organs, especially the intestines, liver, and lungs",
+      "Genetic sequencing confirmed this is the same parasite species found in other reptiles, not a new variant",
+      "Secondary bacterial and fungal infections occur after the parasite damages the intestinal barrier, creating a domino effect of illness"
+    ],
+    "why_it_matters": "Since sea turtles are endangered and diseases are a major threat to juvenile survival, identifying this parasite and understanding how it kills sea turtles is crucial for developing better care practices in captivity and protecting wild populations."
+  },
+  {
+    "title": "Interspecific Gene Flow and Potential Hybrid Breakdown in South Atlantic Sea Turtles.",
+    "authors": "M D Oliveira, R J Pereira, L S Arantes, C J Mazzoni, F R Santos",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920359/",
+    "date": "2026-11-01",
+    "summary": "Researchers studied sea turtles in Brazil and found that different turtle species can breed together and create hybrids, but these hybrids rarely produce healthy offspring or successfully pass genes to future generations. This shows that even though these species are distantly related, nature has built-in barriers that prevent them from truly merging into one population.",
+    "key_points": [
+      "Four different sea turtle species living in the same Brazilian waters do occasionally mate and produce first-generation hybrids, but these hybrids struggle to reproduce successfully",
+      "Most hybrids cannot produce viable offspring, and when they do breed, it's usually with their parent species rather than other hybrids, suggesting biological incompatibility between different turtle species",
+      "Even over millions of years of evolution, sea turtles have maintained genetic separation with very little successful gene mixing between species, indicating strong reproductive barriers exist"
+    ],
+    "why_it_matters": "Understanding how different species can coexist and occasionally interbreed without losing their distinct identities helps us protect sea turtle populations from genetic problems and reveals how evolution maintains species boundaries."
+  },
+  {
+    "title": "Phylogeography of the Olive Ridley Sea Turtle (Lepidochelys olivacea): Standardized Global Haplotype Nomenclature and Updated Mitochondrial Lineage Distributions in the Eastern Pacific.",
+    "authors": "Omar Horacio Sol-Torres, Hugo David Gallardo-S\u00e1nchez, F\u00e1tima Yedith Camacho-S\u00e1nchez, Sarah Maria Vargas, Eduardo Resendiz, Alan A Zavala-Norzagaray, Jos\u00e9 Alberto Narv\u00e1ez-Zapata, Luis A Tello-Sahag\u00fan, Catherine E Hart, Jos\u00e9 Alfredo Gonz\u00e1lez-Gerardo, Raymundo Rosas-Quijano, Didiana G\u00e1lvez-L\u00f3pez, Miguel Angel Reyes-L\u00f3pez",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42882990/",
+    "date": "2026-11-01",
+    "summary": "Scientists studied the DNA of olive ridley sea turtles (the most common sea turtle species) from around the world to understand their family trees and where different populations live. They created a standard naming system for genetic variants and found that olive ridley populations in the Atlantic, Eastern Pacific, and Indo-West Pacific regions are genetically distinct, though some may share ancient common ancestors.",
+    "key_points": [
+      "The study analyzed over 1,200 sea turtle DNA samples and created a standardized naming system so scientists worldwide can compare results consistently",
+      "Three main genetic groups of olive ridley turtles were confirmed: one in the Atlantic Ocean, one in the Eastern Pacific, and one in the Indo-West Pacific region",
+      "Using longer DNA sequences revealed more genetic diversity than shorter sequences, suggesting scientists should use the longer method for better accuracy in the future"
+    ],
+    "why_it_matters": "This genetic roadmap helps conservationists protect olive ridley sea turtles more effectively by understanding which populations are distinct and need separate management strategies, especially for populations that declined severely over the last century."
+  },
+  {
+    "title": "Sea Turtle Nesting Beach Fidelity Revealed by Satellite Tracking.",
+    "authors": "Nupur Kale, Graeme C Hays, Jeanne A Mortimer, Anna Zora, Kimberley L Stokes, Nicole Esteban",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42840954/",
+    "date": "2026-11-01",
+    "summary": "Scientists tracked hawksbill sea turtles using satellites to understand where they nest, and found that about half stick to one beach while the other half nest on multiple beaches across different islands. This discovery is important because it means traditional beach monitoring misses many nesting events, making it harder to accurately count turtle populations and protect them.",
+    "key_points": [
+      "Half of tracked hawksbill turtles were faithful to a single nesting beach, while the other half nested across 2-4 different beaches, revealing a mixed strategy within the same population",
+      "Turtles nesting on mainland beaches were more likely to use multiple sites than those on island beaches, partly because mainland surveys only cover small areas while the turtles might travel much farther",
+      "Population estimates were significantly undercounted by about 50% when researchers only monitored one beach, since they missed turtles nesting elsewhere"
+    ],
+    "why_it_matters": "Accurately counting sea turtles and understanding their nesting habits is crucial for effective conservation, especially as climate change threatens beach habitats and ocean conditions."
+  },
+  {
+    "title": "Feeding Practices, Body Condition, and Estimated Energy Provision in Rescued Loggerhead Sea Turtles (Caretta caretta) at a Mediterranean Rehabilitation Center: A Three-Year Retrospective Study.",
+    "authors": "Federica Perazzo, Giovannantonio Pilo, Maria Grazia Cappai",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862073/",
+    "date": "2026-11-01",
+    "summary": "Researchers studied how to best feed rescued loggerhead sea turtles at a Mediterranean rehabilitation center over three years. They found that turtles were eating the right amount of food based on their body weight, with squid being the most accepted food option, and most turtles (90%) were successfully released back to the ocean.",
+    "key_points": [
+      "The study created guidelines for how much energy (calories) loggerhead turtles need per day based on their body weight, which ranged from 11-22 kcal per kilogram depending on diet type",
+      "Turtles that ate a variety of foods showed better weight gain than those eating just one type of food",
+      "Thawed squid was the turtles' preferred food and was easiest for caregivers to provide"
+    ],
+    "why_it_matters": "Since loggerhead sea turtles are frequently rescued in the Mediterranean due to human-caused injuries and illnesses, having clear feeding guidelines helps rehabilitation centers keep these endangered animals healthy and improve their chances of surviving after release."
+  },
+  {
+    "title": "Cardiac responses to underwater sound playback in juvenile green and loggerhead sea turtles: an exploratory biologging study.",
+    "authors": "Hiromi Kudo, Tomoko Narazaki, Minami W Okuyama, Takashi Iwata, Kentaro Q Sakamoto",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42843185/",
+    "date": "2026-11-01",
+    "summary": "Researchers attached heart-monitoring devices to young sea turtles and played underwater sounds to see how their hearts responded. They found that green turtles' hearts beat slower when exposed to boat noise, while loggerhead turtles' hearts beat faster, suggesting the two species react differently to underwater sounds.",
+    "key_points": [
+      "Green turtles and loggerhead turtles showed opposite cardiac responses to the same underwater sounds, indicating species-specific sensitivity",
+      "The heart rate changes persisted even when researchers accounted for the turtles moving around or diving deeper, meaning the response was directly to the sound itself",
+      "This study demonstrates that biologging devices (tiny heart monitors attached to animals) can measure how marine creatures physically respond to environmental noise"
+    ],
+    "why_it_matters": "Understanding how sea turtles' bodies respond to human-made underwater noise like ship engines is crucial for protecting these endangered animals as ocean noise pollution increases."
+  },
+  {
+    "title": "In situ hybridization analysis of the expression of class I and II odorant receptors in the olfactory organ of the African spurred tortoise (Centrochelys sulcata).",
+    "authors": "Shoko Nakamuta, Zicong Zhang, Masato Nikaido, Hideki Noda, Takuya Yokoyama, Yoshio Yamamoto, Nobuaki Nakamuta",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832908/",
+    "date": "2026-11-01",
+    "summary": "Scientists studied how a land-dwelling tortoise detects smells by examining which smell-detecting proteins (called odorant receptors) are located in different parts of its nose. They found that one type of receptor (class I) is spread throughout the nose, while another type (class II) is concentrated in only one section, which is different from sea turtles and likely reflects how each species adapted to their environment.",
+    "key_points": [
+      "The African spurred tortoise has two types of odorant receptors: 8 class I receptors and 61 class II receptors that detect different molecular properties",
+      "Class I receptors appear everywhere in the tortoise's olfactory organ, while class II receptors are confined to the upper chamber, opposite to the pattern seen in sea turtles",
+      "A regulatory protein called Bcl11b prevents class I receptors from being expressed in certain areas, a mechanism that appears consistent across tortoise species"
+    ],
+    "why_it_matters": "Understanding how different animals evolved different smell-detection systems helps us learn how species adapt their senses to survive in their specific environments, whether on land or in water."
+  },
+  {
+    "title": "Molecular Identification of Culturable Bacteria and Vibrio Virulence-Related Genes Associated With Sea Turtle Eggshells and Nest Sediments in Pangandaran, Indonesia.",
+    "authors": "Titin Herawati, Indriyani Rahayu, Aisyah Aisyah, Mochamad Untung Kurnia Agung, Mochamad Rudyansyah Ismail, Donny Juliandri Prihadi, Eri Bachtiar, Adiana Ghazali, Yudi Nurul Ihsan",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42840327/",
+    "date": "2026-11-01",
+    "summary": "Scientists studied bacteria living on sea turtle eggshells and in nest soil at a beach in Indonesia to understand how these microbes might affect egg health and hatching success. They found different types of bacteria, including some potentially harmful Vibrio bacteria, with eggshells having more bacteria than soil samples.",
+    "key_points": [
+      "Green turtle eggs had the most bacteria on their shells (2,358 CFU/mL), while olive ridley eggs had fewer, and hatchery sediment had the least",
+      "The bacteria found belonged to common environmental groups like Enterobacteriaceae and Vibrio species",
+      "All Vibrio bacteria tested had a gene called toxR, but lacked other genes (tdh and trh) that typically cause disease in animals"
+    ],
+    "why_it_matters": "Understanding what bacteria live in sea turtle nests helps researchers protect endangered sea turtle populations by identifying potential health risks to eggs and improving hatchery practices in Indonesia."
+  },
+  {
+    "title": "Mycobiota composition and diversity on the skin of the leatherback sea turtle (Dermochelys coriacea).",
+    "authors": "Samantha G Kuschke, Jeanette Wyneken, Anna Beth Coleman, Debra L Miller",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42875133/",
+    "date": "2026-11-01",
+    "summary": "Scientists studied the fungi living on the skin of leatherback sea turtles at different life stages to understand what's normal and what might cause disease. They found that the types and amounts of fungi change dramatically as turtles grow from eggs to adults, and also differ depending on which part of the body you look at. This information could help explain why young leatherbacks are prone to dangerous fungal infections.",
+    "key_points": [
+      "Fungi on leatherback turtle skin vary significantly between nesting females, newly hatched babies, and 3-4 week old hatchlings",
+      "Different body locations have different fungal communities, suggesting location matters for which fungi can survive",
+      "Understanding the normal fungal community may help identify when fungi become harmful and cause disease"
+    ],
+    "why_it_matters": "Since leatherback sea turtles are endangered and young turtles are dying from fungal infections, knowing what fungi should normally be present could help scientists prevent or treat these diseases and improve turtle survival rates."
+  },
+  {
+    "title": "Species Identification of Sea Turtles in Thailand Using DNA Barcoding Coupled With High-Resolution Melting (Bar-HRM) Analysis.",
+    "authors": "Anocha Poommouang, Kittisak Santisuk, Kongkiat Kittiwatanawong, Patcharaporn Kaewmong, Chaleamchat Somgird, Korakot Nganvongpanit, Kittisak Buddhachat",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42865668/",
+    "date": "2026-11-01",
+    "summary": "Scientists developed a fast and accurate method to identify which species of sea turtle a specimen belongs to by analyzing their DNA, rather than relying on physical features that might be unclear if the specimen is damaged or incomplete. They tested this method on five sea turtle species found in Thailand and achieved perfect identification accuracy.",
+    "key_points": [
+      "The method combines DNA barcoding with high-resolution melting analysis, which detects tiny differences in how DNA breaks apart when heated",
+      "Two specific DNA markers (TurtleDloop2 and TurtleCytb2(R1) primers) could perfectly distinguish between all five sea turtle species with 100% accuracy in blind testing",
+      "The technique requires only tiny amounts of DNA (as little as 0.001 nanograms) and could work on damaged or degraded specimens"
+    ],
+    "why_it_matters": "Accurately identifying sea turtle species is crucial for conservation efforts and protecting endangered populations, and this method provides researchers with a reliable tool that works faster and on more specimen types than traditional identification methods."
   }
 ]
