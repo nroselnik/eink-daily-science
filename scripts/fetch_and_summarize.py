@@ -19,6 +19,7 @@ REQUEST_DELAY = 0.4     # PubMed allows ~3 requests/sec without an API key
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 ARCHIVE_PATH = os.path.join(DATA_DIR, "archive.json")
 SUMMARY_PATH = os.path.join(DATA_DIR, "summary.json")   # latest, for compatibility
+EXCLUDED_PATH = os.path.join(DATA_DIR, "excluded.json")  # off-topic papers never to re-add
 
 
 def _pool():
@@ -143,6 +144,11 @@ if __name__ == "__main__":
     os.makedirs(DATA_DIR, exist_ok=True)
     archive = load_archive()
     known = {p.get("url") for p in archive}
+    try:                                         # removed by hand as off-topic
+        with open(EXCLUDED_PATH) as f:
+            known |= {e.get("url") for e in json.load(f)}
+    except FileNotFoundError:
+        pass
 
     papers = fetch_new_papers(known, PAPERS_PER_RUN)
     client = anthropic.Anthropic()

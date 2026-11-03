@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41228850/",
+    "title": "Marine-Inspired Multimodal Sensor Fusion and Neuromorphic Processing for Autonomous Navigation in Unstructured Subaquatic Environments.",
+    "reason": "underwater robot navigation merely inspired by marine animals"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41862594/",
+    "title": "Dynamic intrusion detection for internet of drones using glowworm swarm optimization.",
+    "reason": "drone network security; uses a glowworm swarm algorithm, not about turtles"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41764251/",
+    "title": "Machine learning-based MPPT integration with quadratic double-extended DC-DC converter for grid-connected PV-powered BLDC electric vehicles.",
+    "reason": "solar electric-vehicle power converter; 'sea turtle foraging' optimisation algorithm"
+  }
+]

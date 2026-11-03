@@ -471,11 +471,20 @@ def do_pull():
     if not isinstance(repo_list, list):  # fall back to single-summary repos
         one = load_json(os.path.join(REPO, "data", "summary.json"), None)
         repo_list = [one] if (one and one.get("url")) else []
-    added = translated = 0
+    excluded = {e.get("url") for e in load_json(os.path.join(REPO, "data", "excluded.json"), [])
+                if isinstance(e, dict)}
+    added = translated = removed = 0
     with lock:
+        if excluded:                    # off-topic papers removed upstream
+            before = len(archive)
+            archive[:] = [p for p in archive if p.get("url") not in excluded]
+            removed = before - len(archive)
+            if removed:
+                state["index"] = min(state["index"], max(0, len(archive) - 1))
+                state["sub"] = 0
         local = {p.get("url"): p for p in archive}
         for p in repo_list:
-            if not (p and p.get("url")):
+            if not (p and p.get("url")) or p["url"] in excluded:
                 continue
             mine = local.get(p["url"])
             if mine is None:
@@ -485,8 +494,10 @@ def do_pull():
             elif has_ms(p) and mine.get("ms") != p["ms"]:
                 mine["ms"] = p["ms"]        # translation added (or improved) upstream
                 translated += 1
-        if added or translated:
+        if added or translated or removed:
             save_json(ARCHIVE_PATH, archive)
+    if removed:
+        log.info("sync: removed %d excluded (off-topic) paper(s)", removed)
     if translated:
         log.info("sync: Malay translation added/updated for %d paper(s)", translated)
     return added

@@ -114,6 +114,106 @@ def localized(data, lang):
     return out
 
 
+# Text sizes tried for the body, largest first (1.0 = title 34px, summary 25px).
+SCALES = (1.0, 0.93, 0.86, 0.79, 0.72)
+
+
+def _fit_authors(draw, authors, font, width):
+    """One line of authors: as many names as fit, then "et al." (never affects scale)."""
+    if draw.textlength(authors, font=font) <= width:
+        return authors
+    names = [n.strip() for n in authors.split(",") if n.strip() and n.strip().lower() != "et al."]
+    for k in range(len(names) - 1, 0, -1):
+        line = ", ".join(names[:k]) + ", et al."
+        if draw.textlength(line, font=font) <= width:
+            return line
+    return names[0] + " et al." if names else ""
+
+
+def _content(draw, data, labels, y, s, dry):
+    """Lay out title, authors, summary, key points and footer at text scale s.
+
+    Returns True if everything fit without cutting. With dry=True nothing is
+    drawn (used to pick the scale). With dry=False it draws, cutting with "..."
+    whatever does not fit (only happens at the smallest scale).
+    """
+    def px(n):
+        return round(n * s)
+
+    f_title = _font(_SERIF_BOLD, px(34))
+    f_authors = _font(_SERIF_ITALIC, px(19))
+    f_body = _font(_SERIF, px(25))
+    f_bullet = _font(_SERIF, px(22))
+    f_small = _font(_SERIF, px(20))
+    content_w = WIDTH - 2 * MARGIN
+    fit = True
+
+    def block(text, font, x, y, w, lh, max_lines):
+        nonlocal fit
+        lines = _wrap(draw, text, font, w)
+        if len(lines) > max_lines:
+            fit = False
+            lines = lines[:max(max_lines, 1)]
+            lines[-1] = lines[-1].rstrip(".,;") + "…"
+        for line in lines:
+            if not dry:
+                draw.text((x, y), line, font=font, fill=INK)
+            y += lh
+        return y
+
+    # Footer (why-it-matters) is bottom-anchored, so reserve it first.
+    footer_lines = _wrap(draw, labels["why"] + data["why_it_matters"], f_small, content_w)
+    if len(footer_lines) > 3:
+        fit = False
+        footer_lines = footer_lines[:3]
+        footer_lines[-1] = footer_lines[-1].rstrip(".,;") + "…"
+    flh = px(27)
+    footer_y = HEIGHT - MARGIN - (len(footer_lines) * flh + 14)
+    limit = footer_y - 10                     # body must end above this
+
+    # Title + authors
+    y = block(data["title"], f_title, MARGIN, y, content_w, px(42), 3)
+    y += px(6)
+    authors = _fit_authors(draw, data.get("authors", ""), f_authors, content_w)
+    if not dry:
+        draw.text((MARGIN, y), authors, font=f_authors, fill=INK)
+    y += px(26)
+    y += px(14)
+    if not dry:
+        draw.line([MARGIN, y, WIDTH - MARGIN, y], fill=INK, width=2)
+    y += px(22)
+
+    # Summary: as many lines as there is room for
+    blh = px(33)
+    y = block(data["summary"], f_body, MARGIN, y, content_w, blh, max(1, (limit - y) // blh))
+    y += px(16)
+
+    # Key points (bulleted)
+    plh = px(27)
+    for point in data.get("key_points", []):
+        lines = _wrap(draw, point, f_bullet, content_w - 24)
+        room = (limit - y) // plh
+        if room < 1:
+            fit = False
+            break
+        if not dry:
+            draw.ellipse([MARGIN + 2, y + px(9), MARGIN + 10, y + px(9) + 8], fill=INK)
+        y = block(point, f_bullet, MARGIN + 24, y, content_w - 24, plh, min(len(lines), room))
+        if len(lines) > room:
+            fit = False
+            break
+        y += px(10)
+
+    # Footer
+    if not dry:
+        draw.line([MARGIN, footer_y, WIDTH - MARGIN, footer_y], fill=INK, width=1)
+        ty = footer_y + 12
+        for line in footer_lines:
+            draw.text((MARGIN, ty), line, font=f_small, fill=INK)
+            ty += flh
+    return fit
+
+
 def build_image(data, battery=None, host=None, lang="en"):
     """Render the summary dict to an 'L' (grayscale) image, black on white.
 
@@ -128,13 +228,6 @@ def build_image(data, battery=None, host=None, lang="en"):
     draw = ImageDraw.Draw(img)
 
     f_header = _font(_SERIF_BOLD, 22)
-    f_title = _font(_SERIF_BOLD, 34)
-    f_authors = _font(_SERIF_ITALIC, 19)
-    f_body = _font(_SERIF, 25)
-    f_bullet = _font(_SERIF, 22)
-    f_small = _font(_SERIF, 20)
-
-    content_w = WIDTH - 2 * MARGIN
 
     # Header bar: inverted strip with section name + date
     bar_h = 48
@@ -143,39 +236,13 @@ def build_image(data, battery=None, host=None, lang="en"):
     date_text = data.get("date", "")
     date_w = draw.textlength(date_text, font=f_header)
     draw.text((WIDTH - MARGIN - date_w, 11), date_text, font=f_header, fill=PAPER)
-    y = bar_h + 26
 
-    # Title + authors
-    y = _draw_wrapped(draw, data["title"], f_title, MARGIN, y, content_w, 42, max_lines=3)
-    y += 6
-    y = _draw_wrapped(draw, data.get("authors", ""), f_authors, MARGIN, y, content_w, 26, max_lines=1)
-    y += 14
-    draw.line([MARGIN, y, WIDTH - MARGIN, y], fill=INK, width=2)
-    y += 22
-
-    # Reserve the footer (why-it-matters) area first so body can't collide
-    footer_lines = _wrap(draw, labels["why"] + data["why_it_matters"], f_small, content_w)[:3]
-    footer_h = len(footer_lines) * 27 + 14
-    footer_y = HEIGHT - MARGIN - footer_h
-
-    # Summary
-    y = _draw_wrapped(draw, data["summary"], f_body, MARGIN, y, content_w, 33, max_lines=5)
-    y += 16
-
-    # Key points (bulleted; stop before colliding with footer)
-    for point in data.get("key_points", []):
-        if y + 2 * 27 > footer_y - 10:
+    # Body: the largest text size at which everything fits uncut; only the
+    # smallest size is allowed to cut text (with "...").
+    for scale in SCALES:
+        if _content(draw, data, labels, bar_h + 26, scale, dry=True):
             break
-        draw.ellipse([MARGIN + 2, y + 9, MARGIN + 10, y + 17], fill=INK)
-        y = _draw_wrapped(draw, point, f_bullet, MARGIN + 24, y, content_w - 24, 27, max_lines=2)
-        y += 10
-
-    # Footer
-    draw.line([MARGIN, footer_y, WIDTH - MARGIN, footer_y], fill=INK, width=1)
-    ty = footer_y + 12
-    for line in footer_lines:
-        draw.text((MARGIN, ty), line, font=f_small, fill=INK)
-        ty += 27
+    _content(draw, data, labels, bar_h + 26, scale, dry=False)
 
     # Battery, tucked into the bottom margin. footer_lines is bottom-anchored so
     # its last line always ends near y=638, leaving this strip clear.
