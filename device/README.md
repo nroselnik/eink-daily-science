@@ -100,11 +100,22 @@ The decision deliberately uses **voltage plus a non-rising trend rather than
 the charging flag**, so a mis-wired or inverted shunt cannot defeat it, and a
 momentary voltage sag during a panel refresh cannot false-trigger it.
 
+## Language (English / Bahasa Melayu)
+
+The control page has a **Language / Bahasa** card: English, Bahasa Melayu, or
+Both. Both shows each paper in English, then in Malay, one page per slide
+interval (Prev/Next step through pages). Translations are the `ms` field that
+`scripts/translate.py` adds to `data/archive.json`; papers without one show in
+English. Syncing (weekly, or the Sync button) copies new or updated
+translations onto papers already on the device, not just new papers. API:
+`POST /api/lang {"lang": "en" | "ms" | "both"}`; `/api/status` reports `lang`,
+`page_lang` and `translated`.
+
 ## Notes
 
 - Only one process may hold the panel. `server.py` instantiates it at import,
   so do not import it to test helper functions - copy the function out or
   exercise it in a standalone script.
-- `config.json` is runtime state (interval, index, paused) and is rewritten by
+- `config.json` is runtime state (interval, index, paused, lang) and is rewritten by
   the server. `settings.json` is configuration and is only written when
   generating the initial hotspot password.

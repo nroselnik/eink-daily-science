@@ -87,11 +87,43 @@ def _draw_battery(draw, batt, x, y, font):
     draw.text((x + bw + 11, y - 3), label, font=font, fill=INK)
 
 
-def build_image(data, battery=None, host=None):
+LABELS = {
+    "en": {"header": "DAILY TURTLE SCIENCE", "why": "WHY IT MATTERS:  "},
+    "ms": {"header": "SAINS PENYU HARIAN", "why": "MENGAPA IA PENTING:  "},
+}
+
+
+def has_ms(data):
+    """True if the paper carries a Bahasa Melayu translation (scripts/translate.py)."""
+    ms = data.get("ms")
+    return isinstance(ms, dict) and bool(ms.get("title"))
+
+
+def localized(data, lang):
+    """The paper with its Malay title/summary/points/why swapped in when lang == "ms".
+
+    Authors, date and url stay as they are. Falls back to English if there is no
+    translation.
+    """
+    if lang != "ms" or not has_ms(data):
+        return data
+    out = dict(data)
+    for k in ("title", "summary", "key_points", "why_it_matters"):
+        if data["ms"].get(k):
+            out[k] = data["ms"][k]
+    return out
+
+
+def build_image(data, battery=None, host=None, lang="en"):
     """Render the summary dict to an 'L' (grayscale) image, black on white.
 
     battery: optional dict from ups.read(); omitted entirely when None.
+    lang: "en", or "ms" for the Bahasa Melayu version (English if untranslated).
     """
+    if lang == "ms" and not has_ms(data):
+        lang = "en"
+    data = localized(data, lang)
+    labels = LABELS[lang]
     img = Image.new("L", (WIDTH, HEIGHT), PAPER)
     draw = ImageDraw.Draw(img)
 
@@ -107,7 +139,7 @@ def build_image(data, battery=None, host=None):
     # Header bar: inverted strip with section name + date
     bar_h = 48
     draw.rectangle([0, 0, WIDTH, bar_h], fill=INK)
-    draw.text((MARGIN, 11), "DAILY TURTLE SCIENCE", font=f_header, fill=PAPER)
+    draw.text((MARGIN, 11), labels["header"], font=f_header, fill=PAPER)
     date_text = data.get("date", "")
     date_w = draw.textlength(date_text, font=f_header)
     draw.text((WIDTH - MARGIN - date_w, 11), date_text, font=f_header, fill=PAPER)
@@ -122,7 +154,7 @@ def build_image(data, battery=None, host=None):
     y += 22
 
     # Reserve the footer (why-it-matters) area first so body can't collide
-    footer_lines = _wrap(draw, "WHY IT MATTERS:  " + data["why_it_matters"], f_small, content_w)[:3]
+    footer_lines = _wrap(draw, labels["why"] + data["why_it_matters"], f_small, content_w)[:3]
     footer_h = len(footer_lines) * 27 + 14
     footer_y = HEIGHT - MARGIN - footer_h
 

@@ -27,7 +27,7 @@ sys.path.insert(0, HERE)
 sys.path.insert(0, os.path.expanduser("~/e-Paper/RaspberryPi_JetsonNano/python/lib"))
 
 from flask import Flask, jsonify, request, Response  # noqa: E402
-from render import build_image, build_setup_image, build_lowbatt_image  # noqa: E402
+from render import build_image, build_setup_image, build_lowbatt_image, has_ms  # noqa: E402
 from waveshare_epd import epd13in3k  # noqa: E402
 import ups  # noqa: E402  (Waveshare UPS HAT (D) battery telemetry)
 
@@ -123,6 +123,9 @@ state = {
     "interval": _cfg.get("interval", 60),
     "paused": _cfg.get("paused", False),
     "wifi_setup_enabled": _cfg.get("wifi_setup_enabled", False),
+    # "en", "ms" (Bahasa Melayu) or "both" (each paper: English page, then Malay page)
+    "lang": _cfg.get("lang", "en") if _cfg.get("lang") in ("en", "ms", "both") else "en",
+    "sub": 0,                  # in "both": 0 = English page, 1 = Malay page
     "pending_jump": None,
     "pending_delta": 0,
     "current_title": None,
@@ -134,8 +137,35 @@ _setup_deadline = [0.0]  # wall-clock time when SETUP falls back to OFFLINE
 
 def persist():
     save_json(CONFIG_PATH, {"interval": state["interval"], "paused": state["paused"],
-                            "index": state["index"],
+                            "index": state["index"], "lang": state["lang"],
                             "wifi_setup_enabled": state["wifi_setup_enabled"]})
+
+
+def page_lang():
+    """Language of the page currently due (call with lock held)."""
+    if not archive:
+        return "en"
+    paper = archive[state["index"] % len(archive)]
+    if not has_ms(paper):
+        return "en"
+    if state["lang"] == "ms" or (state["lang"] == "both" and state["sub"] == 1):
+        return "ms"
+    return "en"
+
+
+def step(delta):
+    """Move one page forward/back (call with lock held). In "both" a translated
+    paper is two pages: English then Malay."""
+    n = len(archive)
+    two = state["lang"] == "both"
+    if two and delta > 0 and state["sub"] == 0 and has_ms(archive[state["index"] % n]):
+        state["sub"] = 1
+    elif two and delta < 0 and state["sub"] == 1:
+        state["sub"] = 0
+    else:
+        state["index"] = (state["index"] + (1 if delta > 0 else -1)) % n
+        # going back lands on the Malay page, the reverse of going forward
+        state["sub"] = 1 if (two and delta < 0 and has_ms(archive[state["index"]])) else 0
 
 
 # ------------------------------------------------------------------ networking
@@ -248,7 +278,7 @@ def local_ip():
 
 
 # -------------------------------------------------------------------- display
-def render_paper(i):
+def render_paper(i, lang="en"):
     if not archive:
         return
     paper = archive[i % len(archive)]
@@ -256,10 +286,10 @@ def render_paper(i):
     with epd_lock:
         ip = local_ip()
         epd.display(epd.getbuffer(
-            build_image(paper, battery=batt, host=f"{ip}:8080" if ip else None)))
+            build_image(paper, battery=batt, host=f"{ip}:8080" if ip else None, lang=lang)))
     state["current_title"] = paper.get("title", "")
     state["battery"] = batt
-    log.info("displayed %d/%d: %s%s", i + 1, len(archive), paper.get("title", "")[:55],
+    log.info("displayed %d/%d %s: %s%s", i + 1, len(archive), lang.upper(), paper.get("title", "")[:55],
              f"  [batt {batt['percent']:.0f}%]" if batt else "")
 
 
@@ -342,14 +372,15 @@ def rotator():
                 old = state["index"]
                 if state["pending_jump"] is not None:
                     state["index"] = state["pending_jump"] % n
+                    state["sub"] = 0
                     state["pending_jump"] = None
                 elif state["pending_delta"]:
-                    state["index"] = (state["index"] + state["pending_delta"]) % n
+                    step(state["pending_delta"])
                     state["pending_delta"] = 0
                 elif not woke and not state["paused"]:
-                    state["index"] = (state["index"] + 1) % n
+                    step(1)
                 persist()
-                target = ("paper", state["index"])
+                target = ("paper", state["index"], page_lang())
         try:
             if target == last and target[0] != "paper":
                 pass
@@ -358,7 +389,7 @@ def rotator():
                     render_setup()
             elif target[0] == "paper":
                 if last != target:
-                    render_paper(target[1])
+                    render_paper(target[1], target[2])
             last = target
         except Exception as e:
             log.exception("render failed: %s", e)
@@ -440,16 +471,24 @@ def do_pull():
     if not isinstance(repo_list, list):  # fall back to single-summary repos
         one = load_json(os.path.join(REPO, "data", "summary.json"), None)
         repo_list = [one] if (one and one.get("url")) else []
-    added = 0
+    added = translated = 0
     with lock:
-        known = {p.get("url") for p in archive}
+        local = {p.get("url"): p for p in archive}
         for p in repo_list:
-            if p and p.get("url") and p["url"] not in known:
+            if not (p and p.get("url")):
+                continue
+            mine = local.get(p["url"])
+            if mine is None:
                 archive.append(p)
-                known.add(p["url"])
+                local[p["url"]] = p
                 added += 1
-        if added:
+            elif has_ms(p) and mine.get("ms") != p["ms"]:
+                mine["ms"] = p["ms"]        # translation added (or improved) upstream
+                translated += 1
+        if added or translated:
             save_json(ARCHIVE_PATH, archive)
+    if translated:
+        log.info("sync: Malay translation added/updated for %d paper(s)", translated)
     return added
 
 
@@ -498,21 +537,27 @@ CONTROL_PAGE = """<!doctype html><html><head><meta charset=utf-8>
   <button id=pausebtn onclick="act('pause_toggle')">Pause</button>
   <button onclick="act('next')">Next ▶</button></div></div>
 <div class=card><div class=lab>Slide interval</div><div class=row id=intervals></div></div>
+<div class=card><div class=lab>Language / Bahasa</div><div class=row id=langs></div>
+ <div class=meta id=langnote></div></div>
 <div class=card><div class=lab>Archive <span id=count></span></div><div class=list id=list></div>
  <div class=row><button onclick="act('pull')">⤓ Sync papers from GitHub</button></div>
  <div class=meta id=msg></div></div>
 <script>
 const IVS=[["30 sec",30],["1 min",60],["5 min",300],["10 min",600]];let S={};
+const LANGS=[["English","en"],["Bahasa Melayu","ms"],["Both / Kedua-dua","both"]];
 function el(i){return document.getElementById(i)}
 async function refresh(){S=await (await fetch('api/status')).json();
- el('pos').textContent=`${S.index+1} / ${S.total}`;
+ el('pos').textContent=`${S.index+1} / ${S.total}`+(S.lang!='en'?` · ${S.page_lang=='ms'?'BM':'EN'}`:'');
  el('title').textContent=S.current?S.current.title:'(empty)';
  el('authors').textContent=S.current?S.current.authors:'';el('count').textContent=`(${S.total})`;
  el('pausebtn').textContent=S.paused?'▶ Resume':'⏸ Pause';el('pausebtn').className=S.paused?'on':'';
+ el('langs').innerHTML=LANGS.map(([l,c])=>`<button class="${S.lang==c?'on':''}" onclick="setlang('${c}')">${l}</button>`).join('');
+ el('langnote').textContent=`${S.translated} of ${S.total} papers have a Malay translation; the rest show in English.`+(S.lang=='both'?' Both: each paper shows in English, then in Malay, one page per slide interval.':'');
  el('intervals').innerHTML=IVS.map(([l,s])=>`<button class="${S.interval==s?'on':''}" onclick="setiv(${s})">${l}</button>`).join('');
  el('list').innerHTML=S.papers.map((t,i)=>`<div class="item ${i==S.index?'cur':''}" onclick="show(${i})"><span class=n>${i+1}</span><span class=t>${t}</span></div>`).join('');}
 async function act(a){const r=await (await fetch('api/'+a,{method:'POST'})).json();if(r.msg)el('msg').textContent=r.msg;refresh()}
 async function setiv(s){await fetch('api/interval',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({seconds:s})});refresh()}
+async function setlang(c){await fetch('api/lang',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({lang:c})});refresh()}
 async function show(i){await fetch('api/show',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({index:i})});refresh()}
 refresh();setInterval(refresh,3000);
 </script></body></html>"""
@@ -553,6 +598,8 @@ def status():
         return jsonify({
             "mode": state["mode"], "index": state["index"], "total": len(archive),
             "interval": state["interval"], "paused": state["paused"],
+            "lang": state["lang"], "page_lang": page_lang(),
+            "translated": sum(1 for p in archive if has_ms(p)),
             "current": {"title": cur.get("title", ""), "authors": cur.get("authors", "")} if cur else None,
             "papers": [p.get("title", "") for p in archive],
             "battery": batt,
@@ -566,6 +613,19 @@ def set_interval():
         state["interval"] = max(5, sec)
         persist()
     wake.set()
+    return jsonify({"ok": True})
+
+
+@app.route("/api/lang", methods=["POST"])
+def set_lang():
+    lang = (request.get_json(silent=True) or {}).get("lang")
+    if lang not in ("en", "ms", "both"):
+        return jsonify({"ok": False, "msg": "lang must be en, ms or both"}), 400
+    with lock:
+        state["lang"] = lang
+        state["sub"] = 0
+        persist()
+    wake.set()                  # re-renders: the target includes the page language
     return jsonify({"ok": True})
 
 
@@ -610,7 +670,8 @@ def pull():
         with lock:
             state["pending_jump"] = len(archive) - 1
         wake.set()
-    return jsonify({"ok": True, "msg": f"Added {added} new paper(s)." if added else "Already up to date."})
+    return jsonify({"ok": True, "msg": (f"Added {added} new paper(s)." if added else "Already up to date.")
+                    + f" {sum(1 for p in archive if has_ms(p))} of {len(archive)} have Malay."})
 
 
 @app.route("/api/wifi", methods=["POST"])
