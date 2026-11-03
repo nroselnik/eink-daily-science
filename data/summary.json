@@ -9,5 +9,15 @@
     "Two specific DNA markers (TurtleDloop2 and TurtleCytb2(R1) primers) could perfectly distinguish between all five sea turtle species with 100% accuracy in blind testing",
     "The technique requires only tiny amounts of DNA (as little as 0.001 nanograms) and could work on damaged or degraded specimens"
   ],
-  "why_it_matters": "Accurately identifying sea turtle species is crucial for conservation efforts and protecting endangered populations, and this method provides researchers with a reliable tool that works faster and on more specimen types than traditional identification methods."
+  "why_it_matters": "Accurately identifying sea turtle species is crucial for conservation efforts and protecting endangered populations, and this method provides researchers with a reliable tool that works faster and on more specimen types than traditional identification methods.",
+  "ms": {
+    "title": "Pengecaman Spesies Penyu di Thailand Menggunakan Kod Bar DNA Digabungkan dengan Analisis Peleburan Resolusi Tinggi (Bar-HRM).",
+    "summary": "Saintis membangunkan kaedah yang pantas dan tepat untuk mengenal pasti spesies penyu sesuatu spesimen dengan menganalisis DNA-nya, dan bukannya bergantung pada ciri fizikal yang mungkin tidak jelas jika spesimen itu rosak atau tidak lengkap. Mereka menguji kaedah ini pada lima spesies penyu yang terdapat di Thailand dan mencapai ketepatan pengecaman yang sempurna.",
+    "key_points": [
+      "Kaedah ini menggabungkan kod bar DNA dengan analisis peleburan resolusi tinggi, yang mengesan perbezaan kecil dalam cara DNA terurai apabila dipanaskan",
+      "Dua penanda DNA khusus (primer TurtleDloop2 dan TurtleCytb2(R1)) dapat membezakan kesemua lima spesies penyu dengan sempurna, iaitu dengan ketepatan 100% dalam ujian buta",
+      "Teknik ini hanya memerlukan jumlah DNA yang sangat kecil (serendah 0.001 nanogram) dan boleh digunakan pada spesimen yang rosak atau terurai"
+    ],
+    "why_it_matters": "Mengenal pasti spesies penyu dengan tepat adalah penting untuk usaha pemuliharaan dan perlindungan populasi yang terancam, dan kaedah ini memberi penyelidik alat yang boleh dipercayai, lebih pantas dan sesuai digunakan pada lebih banyak jenis spesimen berbanding kaedah pengecaman tradisional."
+  }
 }

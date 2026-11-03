@@ -79,7 +79,17 @@
       "Monsoon-driven ocean currents strongly shaped their open-ocean movements",
       "Adds rare tracking data for under-studied olive ridley and juvenile turtles"
     ],
-    "why_it_matters": "Evidence that rehabilitation works supports rescue programs and shows why cross-border cooperation matters for wide-ranging turtles."
+    "why_it_matters": "Evidence that rehabilitation works supports rescue programs and shows why cross-border cooperation matters for wide-ranging turtles.",
+    "ms": {
+      "title": "Menjejak penyu yang telah dipulihkan di Lautan Hindi menggunakan telemetri satelit: tingkah laku, ekologi dan pemuliharaan.",
+      "summary": "Para penyelidik memasang penanda satelit pada penyu lipas, penyu agar dan penyu karah selepas memulihkan dan melepaskannya di Lautan Hindi. Penyu yang dipulihkan itu hidup dengan baik dan bertingkah laku seperti penyu liar, dengan arus yang didorong oleh monsun sangat mempengaruhi arah perjalanan mereka.",
+      "key_points": [
+        "Penyu pemulihan yang dilepaskan hidup untuk tempoh yang lama dan bertingkah laku seperti penyu liar",
+        "Arus laut yang didorong oleh monsun sangat mempengaruhi pergerakan mereka di lautan terbuka",
+        "Menambah data penjejakan yang jarang diperoleh bagi penyu lipas dan penyu muda yang kurang dikaji"
+      ],
+      "why_it_matters": "Bukti bahawa pemulihan berkesan menyokong program menyelamat dan menunjukkan mengapa kerjasama merentas sempadan penting bagi penyu yang mengembara jauh."
+    }
   },
   {
     "title": "Comparative analysis of the mucosal and shell microbiota of the invasive red-eared slider across urban freshwater habitats.",
@@ -92,7 +102,17 @@
       "Body location shaped the microbial community most strongly; habitat had a smaller effect",
       "First-ever description of the mouth (oral) microbiome in red-eared sliders"
     ],
-    "why_it_matters": "Invasive turtles in city waters can carry and spread microbes, so surveying them helps monitor urban ecosystems and public health."
+    "why_it_matters": "Invasive turtles in city waters can carry and spread microbes, so surveying them helps monitor urban ecosystems and public health.",
+    "ms": {
+      "title": "Analisis perbandingan mikrobiota mukosa dan cangkerang kura-kura telinga merah yang invasif merentasi habitat air tawar bandar.",
+      "summary": "Penyelidik mengusap 42 ekor kura-kura telinga merah invasif di kolam-kolam bandar di Austin, Texas, lalu memetakan bakteria pada cangkerang dan kulit serta di dalam mulut dan usus mereka. Bahagian badan tempat sampel diambil paling menentukan mikrob yang hadir, walaupun lokasi kolam juga memberi kesan.",
+      "key_points": [
+        "142 sampel mendedahkan lebih 20,000 jenis bakteria berbeza merentasi lima bahagian badan",
+        "Lokasi pada badan paling kuat membentuk komuniti mikrob; habitat memberi kesan yang lebih kecil",
+        "Penerangan pertama pernah dibuat tentang mikrobiom mulut (oral) pada kura-kura telinga merah"
+      ],
+      "why_it_matters": "Kura-kura invasif di perairan bandar boleh membawa dan menyebarkan mikrob, jadi tinjauan terhadapnya membantu memantau ekosistem bandar dan kesihatan awam."
+    }
   },
   {
     "title": "Molecular cloning and pathogen-induced expression of interleukin-18 in the Chinese soft-shelled turtle.",
@@ -105,7 +125,17 @@
       "Bacterial and viral challenges boosted the gene's activity in the spleen and liver",
       "A lab-made version of the protein triggered other immune responses, confirming it works"
     ],
-    "why_it_matters": "Understanding turtle immune genes can help fight the diseases that plague soft-shelled turtle aquaculture, an important food industry."
+    "why_it_matters": "Understanding turtle immune genes can help fight the diseases that plague soft-shelled turtle aquaculture, an important food industry.",
+    "ms": {
+      "title": "Pengklonan molekul dan pengekspresan interleukin-18 teraruh patogen pada kura-kura lembut Cina.",
+      "summary": "Para saintis di China telah mengenal pasti dan mengklon satu gen isyarat imun (interleukin-18) pada kura-kura lembut Cina yang diternak. Apabila kura-kura itu terdedah kepada bakteria atau virus, gen ini meningkat aktivitinya, menunjukkan bahawa gen ini berperanan aktif dalam pertahanan imun kura-kura tersebut.",
+      "key_points": [
+        "Gen imun IL-18 yang lengkap telah diklon dan dicirikan pada kura-kura lembut Cina",
+        "Cabaran bakteria dan virus meningkatkan aktiviti gen ini dalam limpa dan hati",
+        "Versi protein buatan makmal mencetuskan tindak balas imun yang lain, mengesahkan bahawa ia berfungsi"
+      ],
+      "why_it_matters": "Memahami gen imun kura-kura boleh membantu memerangi penyakit yang menjejaskan akuakultur kura-kura lembut, sebuah industri makanan yang penting."
+    }
   },
   {
     "title": "Comparative transcriptomic analysis of the thymus and immune tissues from stranded cetaceans in South Korea.",
@@ -118,7 +148,17 @@
       "The thymus carried the widest variety of active immune genes",
       "Aquatic animals leaned on 'alternative' immune pathways rather than classic antigen-presentation routes"
     ],
-    "why_it_matters": "Mapping how aquatic animals defend themselves builds a baseline for diagnosing disease in whales, dolphins, and sea turtles."
+    "why_it_matters": "Mapping how aquatic animals defend themselves builds a baseline for diagnosing disease in whales, dolphins, and sea turtles.",
+    "ms": {
+      "title": "Analisis transkriptomik perbandingan timus dan tisu imun daripada cetasean yang terdampar di Korea Selatan.",
+      "summary": "Penyelidik memeriksa tisu sistem imun daripada ikan paus dan ikan lumba-lumba yang terdampar di Korea, lalu membandingkan aktiviti gen tisu tersebut dengan banyak haiwan lain, termasuk penyu agar dan penyu tempayan. Walaupun sampel diambil selepas kematian, setiap tisu masih mengekalkan cap jari genetik yang tersendiri, dengan timus menunjukkan set gen imun yang paling kaya.",
+      "key_points": [
+        "Tisu imun dibandingkan merentas mamalia, ikan, burung dan reptilia termasuk penyu",
+        "Timus mempunyai kepelbagaian gen imun aktif yang paling luas",
+        "Haiwan akuatik lebih bergantung pada laluan imun 'alternatif' berbanding laluan klasik persembahan antigen"
+      ],
+      "why_it_matters": "Pemetaan cara haiwan akuatik mempertahankan diri membina garis asas untuk mendiagnosis penyakit pada ikan paus, ikan lumba-lumba dan penyu."
+    }
   },
   {
     "title": "Highly Contiguous Is Not Chromosomally Accurate: Integrated Cytogenetic and Genomic Mapping in Two Turtle Genome.",
@@ -132,7 +172,18 @@
       "One turtle species' assembly was accurate while the other had a false rearrangement, showing these problems are unpredictable",
       "These errors could lead to incorrect conclusions about how species evolved and how genes are organized"
     ],
-    "why_it_matters": "Accurate genome maps are critical for medical research, understanding evolution, and finding genes, so validating them with multiple methods prevents costly mistakes in downstream research."
+    "why_it_matters": "Accurate genome maps are critical for medical research, understanding evolution, and finding genes, so validating them with multiple methods prevents costly mistakes in downstream research.",
+    "ms": {
+      "title": "Sangat Bersambung Tidak Bermakna Tepat dari Segi Kromosom: Pemetaan Sitogenetik dan Genomik Bersepadu pada Dua Genom Kura-kura.",
+      "summary": "Para saintis menghasilkan peta genetik terperinci bagi dua spesies kura-kura dengan menggabungkan teknik pengimejan kromosom tradisional dengan data penjujukan DNA moden. Mereka mendapati bahawa walaupun himpunan genom kelihatan lengkap dan tersusun rapi, ia masih boleh mengandungi kesilapan dalam susunan sebenar kromosom, sekali gus menekankan keperluan untuk menyemak semula peta genetik dengan bukti fizikal.",
+      "key_points": [
+        "Himpunan genom berkualiti tinggi masih boleh mempunyai ralat dalam struktur kromosom yang tidak dapat dikesan melalui penjujukan semata-mata",
+        "Penggunaan prob khusus kromosom dan teknik pemetaan fizikal boleh mendedahkan kesilapan yang terlepas oleh kaedah pengiraan",
+        "Himpunan genom bagi satu spesies kura-kura adalah tepat manakala yang satu lagi mempunyai penyusunan semula yang palsu, menunjukkan bahawa masalah ini tidak dapat diramalkan",
+        "Ralat ini boleh membawa kepada kesimpulan yang salah tentang cara spesies berevolusi dan cara gen disusun"
+      ],
+      "why_it_matters": "Peta genom yang tepat amat penting untuk penyelidikan perubatan, pemahaman evolusi dan pencarian gen, jadi mengesahkannya dengan pelbagai kaedah dapat mengelakkan kesilapan mahal dalam penyelidikan seterusnya."
+    }
   },
   {
     "title": "Fatal coinfection by Mycobacterium fortuitum and Epicoccum sp. with concurrent severe coccidial enteritis in an olive ridley sea turtle (Lepidochelys olivacea).",
@@ -146,7 +197,18 @@
       "The bacterium Mycobacterium fortuitum is increasingly turning up as a disease-causing agent in marine wildlife",
       "This is the first time the fungus Epicoccum has been recorded causing disease in a sea turtle"
     ],
-    "why_it_matters": "Documenting which opportunistic infections kill debilitated turtles helps rehabilitation centres recognise and treat them earlier."
+    "why_it_matters": "Documenting which opportunistic infections kill debilitated turtles helps rehabilitation centres recognise and treat them earlier.",
+    "ms": {
+      "title": "Koinfeksi maut oleh Mycobacterium fortuitum dan Epicoccum sp. serta enteritis koksidia yang teruk pada seekor penyu lipas (Lepidochelys olivacea).",
+      "summary": "Seekor penyu lipas yang terdampar di Brazil mati akibat tiga jangkitan serentak: sejenis bakteria yang biasanya ditemui dalam tanah dan air, sejenis kulat persekitaran yang luar biasa, dan parasit usus yang teruk. Doktor haiwan berpendapat jangkitan parasit dan keadaan kesihatan yang lemah dalam tempoh lama telah melemahkan penyu itu sehingga dua jangkitan lain dapat bertapak.",
+      "key_points": [
+        "Penyu itu tiba dalam keadaan sangat kurus dan lesu, lalu mati enam hari kemudian walaupun diberi antibiotik dan rawatan sokongan",
+        "Bedah siasat mendapati ketulan radang di seluruh organ dalamannya, serta radang paru-paru dan radang hati, pundi kencing dan usus",
+        "Bakteria Mycobacterium fortuitum semakin banyak dikesan sebagai agen penyebab penyakit pada hidupan liar marin",
+        "Ini kali pertama kulat Epicoccum direkodkan menyebabkan penyakit pada penyu"
+      ],
+      "why_it_matters": "Mendokumentasikan jangkitan oportunis yang membunuh penyu yang lemah membantu pusat pemulihan mengenali dan merawatnya lebih awal."
+    }
   },
   {
     "title": "First Record of Triplet Embryos in Sea Turtles: Evidence of Natural Polyembryony in a Wild Green Turtle (Chelonia mydas) Nest From Guanahacabibes, Cuba.",
@@ -160,7 +222,18 @@
       "One embryo was badly underdeveloped with facial malformations, likely because one yolk cannot feed three",
       "The nest was otherwise healthy, with 91.6 percent of eggs hatching successfully"
     ],
-    "why_it_matters": "Rare developmental events like this only get spotted when nests are monitored over many years, which is an argument for sustained long-term fieldwork."
+    "why_it_matters": "Rare developmental events like this only get spotted when nests are monitored over many years, which is an argument for sustained long-term fieldwork.",
+    "ms": {
+      "title": "Rekod Pertama Embrio Kembar Tiga pada Penyu: Bukti Poliembrioni Semula Jadi dalam Sarang Penyu Agar (Chelonia mydas) Liar di Guanahacabibes, Cuba.",
+      "summary": "Penyelidik di Cuba menemui tiga embrio yang berkongsi satu kuning telur di dalam sebiji telur penyu agar, iaitu kembar tiga pertama yang disahkan daripada sarang penyu liar. Ketiga-tiganya serupa secara genetik, bermakna satu telur yang telah disenyawakan telah terbahagi kepada tiga.",
+      "key_points": [
+        "Hanya satu lagi kes kembar tiga pernah disahkan pada mana-mana penyu atau kura-kura, dan kes itu berlaku dalam kurungan",
+        "Setiap embrio mempunyai bekalan darah sendiri tetapi ketiga-tiganya mengambil makanan daripada satu kuning telur yang dikongsi",
+        "Satu embrio sangat tidak membesar dengan sempurna dan mengalami kecacatan pada muka, mungkin kerana satu kuning telur tidak dapat menyara tiga embrio",
+        "Sarang itu sebaliknya sihat, dengan 91.6 peratus telur berjaya menetas"
+      ],
+      "why_it_matters": "Peristiwa perkembangan yang jarang berlaku seperti ini hanya dapat dikesan apabila sarang dipantau selama bertahun-tahun, dan ini menjadi hujah untuk kerja lapangan jangka panjang yang berterusan."
+    }
   },
   {
     "title": "Polycyclic aromatic hydrocarbons in loggerhead sea turtles (Caretta caretta) embryos: Occurrence, tissue distribution and associated biological responses.",
@@ -174,7 +247,18 @@
       "Despite that chemical response, no visible tissue damage was found in the embryos",
       "Contamination varied noticeably between eggs within the same clutch"
     ],
-    "why_it_matters": "Mothers passing pollution to their offspring is an exposure route that risk assessments for protected marine species often overlook."
+    "why_it_matters": "Mothers passing pollution to their offspring is an exposure route that risk assessments for protected marine species often overlook.",
+    "ms": {
+      "title": "Hidrokarbon aromatik polisiklik dalam embrio penyu tempayan (Caretta caretta): Kejadian, taburan tisu dan tindak balas biologi yang berkaitan.",
+      "summary": "Para saintis menguji embrio penyu tempayan dari sebahagian pantai Itali yang tercemar dan mendapati bahan kimia berkaitan petroleum telah berpindah daripada induk ke dalam telurnya. Hati embrio itu mengaktifkan jentera penyahtoksikan sebagai tindak balas, menunjukkan embrio tersebut aktif memproses bahan cemar itu.",
+      "key_points": [
+        "Bahan pencemar yang dipanggil PAH itu ditemui dalam kuning telur pada setiap peringkat perkembangan dan dalam 70 peratus hati embrio",
+        "Semakin banyak bahan pencemar dalam hati, semakin kuat gen penyahtoksikan diaktifkan",
+        "Walaupun terdapat tindak balas kimia itu, tiada kerosakan tisu yang kelihatan ditemui pada embrio",
+        "Pencemaran berbeza dengan ketara antara telur dalam sarang yang sama"
+      ],
+      "why_it_matters": "Induk yang menyalurkan pencemaran kepada anaknya ialah laluan pendedahan yang sering terlepas pandang dalam penilaian risiko bagi spesies marin yang dilindungi."
+    }
   },
   {
     "title": "A novel assessment tool to measure thermal variability on sea turtle nesting beaches.",
@@ -188,7 +272,18 @@
       "Season was by far the biggest influence, with a 2.9C gap between warmer and cooler months",
       "Position along the beach mattered more, up to 1.7C, than whether the spot was shaded or exposed, 0.6C"
     ],
-    "why_it_matters": "A cheap, fast way to measure nest temperatures makes it practical to monitor many more beaches as the climate warms."
+    "why_it_matters": "A cheap, fast way to measure nest temperatures makes it practical to monitor many more beaches as the climate warms.",
+    "ms": {
+      "title": "Alat penilaian baharu untuk mengukur kepelbagaian suhu di pantai pendaratan penyu.",
+      "summary": "Kepanasan pasir di pantai pendaratan penyu menentukan sama ada telur menetas menjadi jantan atau betina, jadi suhunya perlu diukur. Pasukan ini menunjukkan bahawa satu alat perakam pada probe keluli sepanjang satu meter boleh memetakan julat suhu sesebuah pantai dalam masa sepuluh hari, sebagai ganti menanam banyak alat perakam sepanjang musim.",
+      "key_points": [
+        "Diuji di empat buah pulau di Kepulauan Chagos, tapak pendaratan penting bagi penyu agar dan penyu karah",
+        "Ketepatannya setanding dengan alat perakam berterusan yang biasa digunakan untuk kerja ini",
+        "Musim merupakan pengaruh terbesar dengan sela 2.9C antara bulan yang lebih panas dan lebih sejuk",
+        "Kedudukan di sepanjang pantai lebih penting, sehingga 1.7C, berbanding sama ada tempat itu teduh atau terdedah, iaitu 0.6C"
+      ],
+      "why_it_matters": "Cara yang murah dan pantas untuk mengukur suhu sarang menjadikan pemantauan lebih banyak pantai lebih praktikal ketika iklim semakin panas."
+    }
   },
   {
     "title": "Genomic characterization of novel human-associated CTX-M-15-producing Serratia nevei ST625 lineage infecting a vulnerable loggerhead sea turtle.",
@@ -202,7 +297,18 @@
       "Every publicly catalogued member of this bacterial lineage had previously come from human patients",
       "The resistance gene sat on a mobile genetic element, the kind that spreads easily between bacteria"
     ],
-    "why_it_matters": "Resistant bacteria moving between people and wildlife is exactly the crossover that One Health surveillance exists to catch."
+    "why_it_matters": "Resistant bacteria moving between people and wildlife is exactly the crossover that One Health surveillance exists to catch.",
+    "ms": {
+      "title": "Pencirian genomik salur keturunan baharu Serratia nevei ST625 penghasil CTX-M-15 yang berkaitan dengan manusia dan menjangkiti seekor penyu tempayan yang terancam.",
+      "summary": "Seekor penyu tempayan di sebuah pusat pemulihan di Brazil dijangkiti bakteria tahan ubat yang hampir sama dengan strain yang pernah ditemui pada pesakit hospital manusia di rantau yang sama. Kedua-duanya hanya berbeza pada 27 huruf genetik.",
+      "key_points": [
+        "Bakteria ini tahan terhadap beberapa kelas antibiotik utama, termasuk sefalosporin termaju",
+        "Saudara terdekatnya yang diketahui ialah strain daripada sampel air kencing manusia yang dikumpulkan di Sao Paulo pada 2019",
+        "Setiap ahli salur keturunan bakteria ini yang dikatalogkan secara terbuka sebelum ini datang daripada pesakit manusia",
+        "Gen kerintangan itu terletak pada unsur genetik bergerak, jenis yang mudah merebak antara bakteria"
+      ],
+      "why_it_matters": "Bakteria tahan antibiotik yang berpindah antara manusia dan hidupan liar ialah persilangan yang tepat-tepat cuba dikesan oleh pengawasan Satu Kesihatan (One Health)."
+    }
   },
   {
     "title": "Chelonid alphaherpesvirus 5 qPCR of archived blood and skin samples underpredicts infections in juvenile green turtles Chelonia mydas.",
@@ -216,7 +322,18 @@
       "Samples spanned 1995 to 2018, ranging from 1 to 24 years old when tested",
       "A negative result on old blood or skin says more about the sample than about the turtle"
     ],
-    "why_it_matters": "Researchers reusing archived samples need to know a negative test is not evidence the animal was healthy, or they will badly underestimate how widespread the virus is."
+    "why_it_matters": "Researchers reusing archived samples need to know a negative test is not evidence the animal was healthy, or they will badly underestimate how widespread the virus is.",
+    "ms": {
+      "title": "qPCR Chelonid alphaherpesvirus 5 pada sampel darah dan kulit yang diarkibkan meremehkan jangkitan pada penyu agar juvenil Chelonia mydas.",
+      "summary": "Fibropapillomatosis ialah penyakit tumor pada penyu yang dikaitkan dengan sejenis virus herpes. Kajian ini menguji sampel penyu agar yang diarkibkan selama beberapa dekad dan mendapati ujian DNA piawai hampir tidak pernah mengesan virus itu dalam darah atau kulit yang disimpan, walaupun penyu tersebut telah dijangkiti.",
+      "key_points": [
+        "Hanya 1.4 peratus daripada 513 sampel darah yang diarkibkan dan 6.5 peratus daripada 123 sampel kulit menunjukkan keputusan positif",
+        "Sebaliknya, 89.7 peratus sampel tumor sebenar menunjukkan keputusan positif",
+        "Sampel meliputi tahun 1995 hingga 2018, dengan usia 1 hingga 24 tahun semasa diuji",
+        "Keputusan negatif pada darah atau kulit lama lebih menggambarkan keadaan sampel berbanding keadaan penyu itu"
+      ],
+      "why_it_matters": "Penyelidik yang menggunakan semula sampel arkib perlu tahu bahawa ujian negatif bukanlah bukti haiwan itu sihat, jika tidak mereka akan memperkecilkan secara teruk betapa meluasnya virus ini."
+    }
   },
   {
     "title": "Spirorchiidiasis in Stranded Olive Ridley Turtles (Lepidochelys olivacea) Along the Northern and Central-Northern Chilean Coast.",
@@ -230,7 +347,18 @@
       "Damage included thickened tissue and inflammatory lesions passing right through the gut wall",
       "This confirms the parasite group is present in olive ridleys in Chilean waters"
     ],
-    "why_it_matters": "Identifying a parasite that may be driving strandings gives managers a cause to investigate rather than an unexplained die-off."
+    "why_it_matters": "Identifying a parasite that may be driving strandings gives managers a cause to investigate rather than an unexplained die-off.",
+    "ms": {
+      "title": "Spirorchiidiasis pada Penyu Lipas (Lepidochelys olivacea) yang Terdampar di Sepanjang Pantai Utara dan Tengah-Utara Chile.",
+      "summary": "Enam ekor penyu lipas yang terdampar di pantai Chile membawa cacing pipih darah, iaitu cacing parasit yang menumpang dalam saluran darah dan organ. Jangkitan itu telah menyebabkan kerosakan akibat keradangan pada usus, saluran pembiakan dan saluran darah.",
+      "key_points": [
+        "Kesemua enam ekor ialah penyu betina dewasa yang terdampar antara September 2024 dan Januari 2026",
+        "Parasit ditemui dalam usus, saluran pembiakan, saluran darah, hati, limpa dan kelenjar adrenal",
+        "Kerosakan termasuk tisu yang menebal dan lesi radang yang menembusi dinding usus sepenuhnya",
+        "Ini mengesahkan bahawa kumpulan parasit ini wujud pada penyu lipas di perairan Chile"
+      ],
+      "why_it_matters": "Mengenal pasti parasit yang mungkin menyebabkan penyu terdampar memberi pihak pengurus punca untuk disiasat, bukannya kematian beramai-ramai yang tidak dapat dijelaskan."
+    }
   },
   {
     "title": "Haplotypes across the Oceans: worldwide phylogeography, evolution, conservation and nomenclature standardization in the leatherback sea turtle (Dermochelys coriacea).",
@@ -244,7 +372,18 @@
       "The family tree points to a Pacific origin, with later spread into the Atlantic and Indian Oceans",
       "The modern leatherback lineage dates back roughly 4.9 million years"
     ],
-    "why_it_matters": "Shared naming conventions let separate studies be combined, which is how scattered genetic data becomes usable for conservation decisions."
+    "why_it_matters": "Shared naming conventions let separate studies be combined, which is how scattered genetic data becomes usable for conservation decisions.",
+    "ms": {
+      "title": "Haplotaip Merentasi Lautan: filogeografi sedunia, evolusi, pemuliharaan dan penyeragaman tatanama penyu belimbing (Dermochelys coriacea).",
+      "summary": "Genetik penyu belimbing menghadapi masalah penamaan: kajian yang berbeza membaca panjang DNA yang berbeza lalu memberi label yang berlainan kepada varian genetik yang sama. Pasukan ini menyemak 304 jujukan dari seluruh dunia dan mencadangkan satu sistem penamaan piawai.",
+      "key_points": [
+        "Penamaan yang berulang menyebabkan para penyelidik tersalah faham tentang struktur populasi penyu belimbing",
+        "Mereka menetapkan dua panjang jujukan piawai, masing-masing mengenal pasti 32 dan 24 varian",
+        "Salasilah ini menunjukkan asal-usul di Pasifik, dengan penyebaran kemudian ke Lautan Atlantik dan Lautan Hindi",
+        "Salasilah penyu belimbing moden bermula kira-kira 4.9 juta tahun lalu"
+      ],
+      "why_it_matters": "Konvensyen penamaan yang dikongsi membolehkan kajian yang berasingan digabungkan, dan inilah cara data genetik yang bertaburan menjadi berguna untuk keputusan pemuliharaan."
+    }
   },
   {
     "title": "Assessment of Exposure to Essential and Non-Essential Elements through Concentrations in Tissues of Chelonia mydas (Green turtles) from the South Atlantic, Northeast Brazil.",
@@ -258,7 +397,18 @@
       "Aluminium was highest in shell and iron highest in liver",
       "Turtles with the tumour disease fibropapillomatosis had significantly different shell copper levels"
     ],
-    "why_it_matters": "Turtle tissues can double as a cheap monitoring tool for tracking pollution across a whole coastal ecosystem."
+    "why_it_matters": "Turtle tissues can double as a cheap monitoring tool for tracking pollution across a whole coastal ecosystem.",
+    "ms": {
+      "title": "Penilaian Pendedahan kepada Unsur Perlu dan Tidak Perlu melalui Kepekatan dalam Tisu Chelonia mydas (Penyu Agar) dari Atlantik Selatan, Timur Laut Brazil.",
+      "summary": "Para penyelidik mengukur sebelas jenis logam dalam karapas, otot, hati dan buah pinggang 43 ekor penyu agar dari timur laut Brazil. Kadmium, sejenis logam berat yang toksik, jauh melebihi had keselamatan makanan Brazil dalam setiap tisu dalaman yang diuji.",
+      "key_points": [
+        "Purata kadmium dalam buah pinggang ialah 49 mg/kg berbanding had undang-undang 1.0, kira-kira lima puluh kali ganda melebihi had",
+        "Punca yang mungkin termasuk air larian baja dari pesisir pantai dan makanan tercemar yang dimakan selama bertahun-tahun",
+        "Aluminium paling tinggi dalam karapas dan besi paling tinggi dalam hati",
+        "Penyu yang menghidap penyakit tumor fibropapilomatosis mempunyai paras kuprum karapas yang berbeza dengan ketara"
+      ],
+      "why_it_matters": "Tisu penyu boleh digunakan sebagai alat pemantauan murah untuk menjejaki pencemaran merentasi seluruh ekosistem pesisir pantai."
+    }
   },
   {
     "title": "Traplines: A Promising Modification to Reduce Sea Turtle Bycatch in Swordfish Longlines.",
@@ -272,7 +422,18 @@
       "Both gear types were deployed alternately on the same line, so conditions were identical",
       "Turtles caught per kilogram of fish was significantly better for traplines"
     ],
-    "why_it_matters": "A modification that nearly eliminates turtle bycatch without gutting the catch is rare, and that combination is what makes fishers likely to adopt it."
+    "why_it_matters": "A modification that nearly eliminates turtle bycatch without gutting the catch is rare, and that combination is what makes fishers likely to adopt it.",
+    "ms": {
+      "title": "Trapline: Pengubahsuaian Menjanjikan untuk Mengurangkan Tangkapan Sampingan Penyu dalam Rawai Ikan Todak.",
+      "summary": "Mata kail rawai secara tidak sengaja menangkap banyak penyu. Ujian ini menguji alternatif tanpa mata kail yang dipanggil trapline bersama mata kail biasa pada rawai yang sama: trapline hampir tidak menangkap penyu, namun masih mendaratkan banyak ikan.",
+      "key_points": [
+        "Merentasi 23 set penangkapan, mata kail menangkap 127 ekor penyu tempayan manakala trapline menangkap 1 ekor",
+        "Mata kail mendaratkan 9711 kg ikan komersial, trapline 6580 kg daripada jauh lebih sedikit penggunaan",
+        "Kedua-dua jenis alat dipasang secara berselang-seli pada rawai yang sama, jadi keadaannya serupa",
+        "Bilangan penyu yang ditangkap bagi setiap kilogram ikan jauh lebih baik secara signifikan untuk trapline"
+      ],
+      "why_it_matters": "Pengubahsuaian yang hampir menghapuskan tangkapan sampingan penyu tanpa menjejaskan hasil tangkapan adalah jarang ditemui, dan gabungan itulah yang menjadikan nelayan berkemungkinan besar menggunakannya."
+    }
   },
   {
     "title": "Umbilical Cord: A Non-Invasive DNA Source for Sea Turtle Genomics.",
@@ -286,7 +447,18 @@
       "Cords were present in 100 percent of artificially incubated Spanish nests but only 4.5 percent of natural nests in Cape Verde",
       "The method therefore suits incubator-hatched eggs best"
     ],
-    "why_it_matters": "A sampling method that harms nothing makes genetic monitoring far easier to justify for threatened species."
+    "why_it_matters": "A sampling method that harms nothing makes genetic monitoring far easier to justify for threatened species.",
+    "ms": {
+      "title": "Tali Pusat: Sumber DNA Tanpa Pencerobohan untuk Genomik Penyu",
+      "summary": "Untuk mendapatkan DNA daripada anak penyu, darah biasanya perlu diambil, dan ini berisiko pada haiwan yang sangat kecil. Kajian ini menunjukkan bahawa tali pusat yang tertinggal selepas penetasan berfungsi sama baik, dan pengumpulannya tidak mengganggu apa-apa.",
+      "key_points": [
+        "DNA tali pusat sepadan dengan genotip darah anak penyu itu sendiri sebanyak 97.7 peratus",
+        "Ia mencerminkan anak penyu dan bukannya induknya, satu persoalan yang sebelum ini belum terjawab",
+        "Tali pusat ditemui dalam 100 peratus sarang yang dierami secara buatan di Sepanyol tetapi hanya 4.5 peratus sarang semula jadi di Cape Verde",
+        "Oleh itu, kaedah ini paling sesuai untuk telur yang menetas dalam alat pengeram"
+      ],
+      "why_it_matters": "Kaedah pensampelan yang tidak mencederakan apa-apa menjadikan pemantauan genetik jauh lebih mudah dibenarkan bagi spesies yang terancam."
+    }
   },
   {
     "title": "Effects of controlled artificial incubation on hatching success, morphometric traits, and early physiological indicators in olive ridley sea turtles (Lepidochelys olivacea) from Banyuwangi coast, Indonesia.",
@@ -300,7 +472,18 @@
       "Hatchlings from different beaches differed significantly in shell length and flipper length",
       "Faster yolk absorption went together with larger hatchlings"
     ],
-    "why_it_matters": "If the source beach still shapes hatchling quality, hatcheries should track nest origin rather than treating all eggs as interchangeable."
+    "why_it_matters": "If the source beach still shapes hatchling quality, hatcheries should track nest origin rather than treating all eggs as interchangeable.",
+    "ms": {
+      "title": "Kesan pengeraman buatan terkawal terhadap kejayaan penetasan, ciri morfometrik dan penunjuk fisiologi awal pada penyu lipas (Lepidochelys olivacea) dari pantai Banyuwangi, Indonesia.",
+      "summary": "Pusat penetasan di Indonesia memindahkan telur penyu lipas ke dalam alat pengeram terkawal untuk melindunginya daripada pemangsa dan banjir. Kajian ini mendapati kaedah tersebut memberikan kadar penetasan yang baik, tetapi anak penyu masih berbeza bergantung pada pantai asal telur itu.",
+      "key_points": [
+        "Kejayaan penetasan keseluruhan ialah 83.7 peratus, antara 77.6 hingga 91.4 peratus mengikut pantai asal",
+        "Alat pengeram mengekalkan suhu 28.6C dan kelembapan 80 peratus yang stabil sepanjang tempoh itu",
+        "Anak penyu dari pantai yang berbeza menunjukkan perbezaan ketara dari segi panjang karapas dan panjang sirip",
+        "Penyerapan kuning telur yang lebih cepat berlaku bersama anak penyu yang lebih besar"
+      ],
+      "why_it_matters": "Jika pantai asal masih mempengaruhi mutu anak penyu, pusat penetasan harus menjejaki asal sarang dan tidak menganggap semua telur sama sahaja."
+    }
   },
   {
     "title": "Occurrence and toxicological assessment of PCDD/Fs and PCBs in loggerhead turtle eggs undergoing climate-induced nesting expansion in the southern Tyrrhenian Sea.",
@@ -314,7 +497,18 @@
       "Pollution levels showed no clear link to clutch size or hatching success",
       "Extreme weather did track with lower hatching success, and differed between north and south"
     ],
-    "why_it_matters": "A species shifting range because of climate change can move straight into polluted water, so the two pressures need assessing together."
+    "why_it_matters": "A species shifting range because of climate change can move straight into polluted water, so the two pressures need assessing together.",
+    "ms": {
+      "title": "Kehadiran dan penilaian toksikologi PCDD/F dan PCB dalam telur penyu tempayan yang mengalami pengembangan pendaratan akibat perubahan iklim di selatan Laut Tyrrhenian.",
+      "summary": "Penyu tempayan mula bersarang lebih jauh ke utara di Laut Mediterranean apabila laut semakin panas. Penyelidik menguji telur dari pantai-pantai Itali yang baru diduduki ini dan menemui bahan pencemar industri yang berterusan dalam setiap telur.",
+      "key_points": [
+        "Dioksin dan PCB terdapat di seluruh kawasan kajian, termasuk tapak pendaratan penyu paling baru di utara",
+        "Kepekatannya cukup tinggi sehingga mungkin menimbulkan risiko toksik kepada embrio dan anak penyu",
+        "Tahap pencemaran tidak menunjukkan kaitan yang jelas dengan saiz sarang telur atau kejayaan penetasan",
+        "Cuaca ekstrem selari dengan kejayaan penetasan yang lebih rendah, dan berbeza antara utara dan selatan"
+      ],
+      "why_it_matters": "Spesies yang berpindah kawasan kerana perubahan iklim boleh terus memasuki perairan yang tercemar, jadi kedua-dua tekanan ini perlu dinilai bersama."
+    }
   },
   {
     "title": "Surveillance of gastrointestinal viruses of free-ranging and rehabilitated Sea turtles in the United States.",
@@ -328,7 +522,18 @@
       "Many were genetically close to viruses of fish and marine invertebrates, hinting they arrive through diet",
       "Samples came from both healthy free-ranging turtles and sick rehabilitation cases"
     ],
-    "why_it_matters": "You cannot tell which viruses threaten turtle health until you know which ones are normally present, and this is that baseline."
+    "why_it_matters": "You cannot tell which viruses threaten turtle health until you know which ones are normally present, and this is that baseline.",
+    "ms": {
+      "title": "Pemantauan virus gastrousus pada penyu liar dan penyu yang menjalani pemulihan di Amerika Syarikat.",
+      "summary": "Hampir tiada apa yang diketahui tentang virus yang hidup dalam usus penyu. Tinjauan ini menjujuk 77 sampel usus daripada enam spesies di sepanjang kedua-dua pantai AS dan menemui 48 virus, beberapa daripadanya belum pernah dilaporkan sebelum ini.",
+      "key_points": [
+        "Sembilan belas virus daripada lapan famili dicirikan secara terperinci",
+        "Tujuh nampaknya spesies yang benar-benar baharu dan satu lagi genus baharu",
+        "Banyak yang secara genetik hampir sama dengan virus ikan dan invertebrata marin, menunjukkan ia mungkin masuk melalui makanan",
+        "Sampel diambil daripada penyu liar yang sihat dan juga penyu sakit yang menjalani pemulihan"
+      ],
+      "why_it_matters": "Kita tidak dapat mengetahui virus mana yang mengancam kesihatan penyu selagi kita tidak tahu virus mana yang biasanya ada, dan kajian ini menyediakan asas rujukan tersebut."
+    }
   },
   {
     "title": "A deep learning-based fusion framework for robust fine-grained classification of sea turtles in support of marine biodiversity.",
@@ -342,7 +547,18 @@
       "The better one reached 87.2 percent average precision, beating both alternatives",
       "Adding shape information helped most with species that look similar"
     ],
-    "why_it_matters": "Automated identification lets conservation teams process survey footage at a scale no human reviewer could manage."
+    "why_it_matters": "Automated identification lets conservation teams process survey footage at a scale no human reviewer could manage.",
+    "ms": {
+      "title": "Rangka kerja gabungan berasaskan pembelajaran mendalam untuk pengelasan penyu secara terperinci yang mantap bagi menyokong biodiversiti marin.",
+      "summary": "Membezakan spesies penyu dalam foto bawah air memang sukar kerana air yang keruh, cahaya yang malap dan haiwan yang separuh terlindung. Pasukan ini membina pengelas imej yang membaca warna dan garis luar tepi, dan ia mengenal pasti spesies dengan lebih tepat berbanding warna sahaja.",
+      "key_points": [
+        "Dibina di atas rangkaian pengecaman imej standard dengan saluran input tambahan yang membawa butiran tepi",
+        "Dua cara berbeza untuk menggabungkan maklumat warna dan bentuk telah diuji",
+        "Cara yang lebih baik mencapai purata ketepatan 87.2 peratus, mengatasi kedua-dua alternatif",
+        "Penambahan maklumat bentuk paling membantu bagi spesies yang kelihatan serupa"
+      ],
+      "why_it_matters": "Pengecaman automatik membolehkan pasukan pemuliharaan memproses rakaman tinjauan pada skala yang tidak mampu diurus oleh mana-mana penyemak manusia."
+    }
   },
   {
     "title": "Global Characterization of Sea Turtle Ecological Traps under Compound Marine Heatwaves and Microplastics.",
@@ -356,7 +572,18 @@
       "Inside those zones the turtles' normal instinct to swim away from hot water broke down",
       "The result is longer exposure to heat and pollution together"
     ],
-    "why_it_matters": "Conservation maps drawn as fixed protected areas miss threats like this, which move and interact, and so need dynamic management instead."
+    "why_it_matters": "Conservation maps drawn as fixed protected areas miss threats like this, which move and interact, and so need dynamic management instead.",
+    "ms": {
+      "title": "Pencirian Global Perangkap Ekologi Penyu di bawah Gelombang Haba Marin Gabungan dan Mikroplastik.",
+      "summary": "Penyu menghadapi dua ancaman yang kian meningkat serentak: gelombang haba marin dan pencemaran mikroplastik. Dengan menggabungkan data penjejakan global bagi tujuh spesies dengan rekod lautan, kajian ini mendapati penyu berlama-lamaan di zon yang sangat tercemar dan tidak berpindah menjauhi tekanan haba.",
+      "key_points": [
+        "Penyu menghabiskan masa jauh lebih lama di perairan yang mempunyai kepekatan mikroplastik sederhana hingga tinggi",
+        "Kawasan tercemar seolah-olah menjadi tempat perlindungan palsu",
+        "Di dalam zon tersebut, naluri biasa penyu untuk berenang menjauhi air panas semakin lemah",
+        "Hasilnya ialah pendedahan yang lebih lama kepada haba dan pencemaran secara serentak"
+      ],
+      "why_it_matters": "Peta pemuliharaan yang dilukis sebagai kawasan perlindungan tetap terlepas pandang ancaman seperti ini, yang bergerak dan saling berinteraksi, lalu memerlukan pengurusan dinamik sebagai gantinya."
+    }
   },
   {
     "title": "Stress Assessment in Caretta caretta During the Rehabilitation Period.",
@@ -370,7 +597,18 @@
       "Juveniles arrived more stressed than older turtles but showed the clearest improvement over time",
       "Both age groups ended the two months with significantly lower stress readings than they started"
     ],
-    "why_it_matters": "Knowing that handling stress fades within weeks reassures rehabilitators that the process itself is not harming the animals they are trying to save."
+    "why_it_matters": "Knowing that handling stress fades within weeks reassures rehabilitators that the process itself is not harming the animals they are trying to save.",
+    "ms": {
+      "title": "Penilaian Tekanan pada Caretta caretta Semasa Tempoh Pemulihan.",
+      "summary": "Penyu tempayan yang diselamatkan di pusat pemulihan di Itali menjalani ujian darah sebanyak tiga kali dalam tempoh dua bulan untuk melihat betapa tertekannya mereka akibat dikurung. Penanda tekanan paling tinggi ketika penyu tiba dan menurun dengan stabil apabila penyu mula menyesuaikan diri.",
+      "key_points": [
+        "Dua puluh lima ekor penyu dijejaki, iaitu 12 ekor juvenil dan 13 ekor hampir dewasa",
+        "Pasukan penyelidik mengukur hormon tekanan, gula darah, nisbah sel darah putih dan enzim otot",
+        "Penyu juvenil tiba dalam keadaan lebih tertekan berbanding penyu yang lebih tua, tetapi menunjukkan peningkatan yang paling jelas dari semasa ke semasa",
+        "Kedua-dua kumpulan umur mengakhiri tempoh dua bulan itu dengan bacaan tekanan yang jauh lebih rendah berbanding pada awalnya"
+      ],
+      "why_it_matters": "Mengetahui bahawa tekanan akibat pengendalian akan reda dalam beberapa minggu memberi kelegaan kepada pemulih bahawa proses itu sendiri tidak membahayakan haiwan yang cuba mereka selamatkan."
+    }
   },
   {
     "title": "Whole-Genome Sequencing and Comparative Genomic Analysis of Citrobacter farmeri and Enterobacter cloacae from Unhatched Green Turtle Eggs.",
@@ -384,7 +622,18 @@
       "They also carried genes for sticking to tissue and scavenging iron, both useful for causing infection",
       "Their genomes closely matched reference strains taken from human clinical infections"
     ],
-    "why_it_matters": "Hatching failure is usually blamed on temperature or flooding, so identifying resistant bacteria in failed eggs opens a different line of investigation."
+    "why_it_matters": "Hatching failure is usually blamed on temperature or flooding, so identifying resistant bacteria in failed eggs opens a different line of investigation.",
+    "ms": {
+      "title": "Penjujukan Genom Keseluruhan dan Analisis Genomik Perbandingan Citrobacter farmeri dan Enterobacter cloacae daripada Telur Penyu Agar yang Tidak Menetas.",
+      "summary": "Bakteria daripada telur penyu agar yang gagal menetas di sebuah pantai di Laut Mediterranean telah dijujuk genomnya secara lengkap buat kali pertama. Dua spesies oportunis yang biasa ditemui ini didapati membawa rintangan antibiotik yang meluas serta gen yang membantu mereka menyerang tisu.",
+      "key_points": [
+        "Sampel diambil daripada kulit telur yang dijangkiti dan embrio yang mati merentasi 30 sarang di Pantai Akyatan, Turki",
+        "Kedua-dua spesies menunjukkan rintangan terhadap beberapa kelas antibiotik, termasuk ubat jenis penisilin dan fluorokuinolon",
+        "Kedua-duanya turut membawa gen untuk melekat pada tisu dan mengaut zat besi, yang berguna untuk menyebabkan jangkitan",
+        "Genom mereka sangat serupa dengan strain rujukan yang diambil daripada jangkitan klinikal manusia"
+      ],
+      "why_it_matters": "Kegagalan menetas biasanya dipersalahkan kepada suhu atau banjir, jadi pengesanan bakteria yang rintang dalam telur yang gagal menetas membuka satu hala siasatan yang berbeza."
+    }
   },
   {
     "title": "Foraging ecology of the critically endangered hawksbill sea turtle in the Gulf of Guinea.",
@@ -398,7 +647,18 @@
       "Juveniles stayed put in smaller areas, suggesting they settle in one place for long stretches",
       "Both age groups feed at the level of secondary consumers in the food web"
     ],
-    "why_it_matters": "You cannot protect a feeding ground without knowing what the animals eat there and which life stages depend on it."
+    "why_it_matters": "You cannot protect a feeding ground without knowing what the animals eat there and which life stages depend on it.",
+    "ms": {
+      "title": "Ekologi pemakanan penyu karah yang terancam kritikal di Teluk Guinea.",
+      "summary": "Penyu karah terancam kritikal, dan kajian ini meneliti apa yang dimakan oleh penyu tersebut di sekitar Pulau Sao Tome di Teluk Guinea. Tanda kimia pada kulit penyu menunjukkan span mendominasi makanan mereka pada setiap peringkat umur, tetapi penyu dewasa memakan lebih banyak jenis makanan berbanding penyu juvana.",
+      "key_points": [
+        "Tiga puluh ekor penyu disampel menggunakan kaedah yang minimum invasif semasa tinjauan di dalam air",
+        "Penyu dewasa menambah alga merah dan tunikata pada makanan span mereka; penyu juvana hanya makan span",
+        "Penyu juvana kekal di kawasan yang lebih kecil, menunjukkan bahawa mereka menetap di satu tempat untuk tempoh yang lama",
+        "Kedua-dua kumpulan umur makan pada tahap pengguna sekunder dalam rantai makanan"
+      ],
+      "why_it_matters": "Anda tidak boleh melindungi kawasan makanan tanpa mengetahui apa yang dimakan oleh haiwan di situ dan peringkat hidup yang mana bergantung padanya."
+    }
   },
   {
     "title": "Aquatic Turning Performance in Juvenile Loggerhead and Green Sea Turtles.",
@@ -412,7 +672,18 @@
       "The two species differed significantly at spinning turns but not at sweeping ones",
       "Uneven flipper use affected how fast they could rotate"
     ],
-    "why_it_matters": "Manoeuvrability matters for escaping predators and catching food, yet it had gone unmeasured in favour of long-distance endurance."
+    "why_it_matters": "Manoeuvrability matters for escaping predators and catching food, yet it had gone unmeasured in favour of long-distance endurance.",
+    "ms": {
+      "title": "Prestasi Pusingan dalam Air bagi Penyu Tempayan dan Penyu Agar Juvenil.",
+      "summary": "Penyu terkenal kerana kebolehan berenang jarak jauh, tetapi belum ada yang mengukur sejauh mana mereka pandai membelok. Rakaman penyu tempayan dan penyu agar juvenil dari atas menunjukkan bahawa mereka menggunakan dua gaya membelok yang berbeza dan lebih gemar menggunakan satu sirip berbanding sirip yang satu lagi.",
+      "key_points": [
+        "Penyu mengejar makanan dalam sebuah tangki besar manakala kamera menjejak titik pada kepala dan tempurung mereka",
+        "Mereka melakukan pusingan berputar di tempat dan juga pusingan melengkung semasa bergerak ke hadapan",
+        "Kedua-dua spesies berbeza dengan ketara dalam pusingan berputar tetapi tidak dalam pusingan melengkung",
+        "Penggunaan sirip yang tidak seimbang menjejaskan kelajuan mereka berputar"
+      ],
+      "why_it_matters": "Kebolehgerakan penting untuk melarikan diri daripada pemangsa dan menangkap makanan, namun ia belum diukur kerana tumpuan lebih diberikan kepada daya tahan jarak jauh."
+    }
   },
   {
     "title": "The genomic basis of independent marine transitions in turtles: convergent episodic adaptation and demographic shifts.",
@@ -426,7 +697,18 @@
       "Despite hitting the same targets, no shared changes were found at the level of individual DNA letters",
       "All three lineages went through deep population crashes in the distant past"
     ],
-    "why_it_matters": "Evolution reaching the same solution by different molecular paths is a reminder that there is rarely only one way to adapt."
+    "why_it_matters": "Evolution reaching the same solution by different molecular paths is a reminder that there is rarely only one way to adapt.",
+    "ms": {
+      "title": "Asas genomik peralihan bebas penyu ke laut: penyesuaian episodik konvergen dan perubahan demografi.",
+      "summary": "Penyu berpindah dari darat ke laut lebih daripada sekali, secara bebas. Perbandingan genom penyu agar, penyu belimbing dan sejenis terapin air payau menunjukkan ketiga-tiganya mengubah suai jenis gen yang sama, tetapi bukan melalui laluan genetik yang sama.",
+      "key_points": [
+        "Keluarga gen untuk pemprosesan zat besi, perkembangan organ dan persepsi deria bertambah dalam ketiga-tiganya",
+        "Corak yang sama muncul pada mamalia dan reptilia lain yang kembali ke laut",
+        "Walaupun menyasarkan gen yang sama, tiada perubahan sepunya ditemui pada peringkat huruf DNA individu",
+        "Ketiga-tiga salasilah mengalami kejatuhan populasi yang teruk pada zaman silam yang jauh"
+      ],
+      "why_it_matters": "Evolusi yang mencapai penyelesaian yang sama melalui laluan molekul yang berbeza mengingatkan kita bahawa jarang sekali hanya ada satu cara untuk menyesuaikan diri."
+    }
   },
   {
     "title": "Interannual Fluctuations in Mean Straight Carapace Length (SCL) of Nesting Kemp's Ridley Sea Turtles Signal Demographic Shifts at Rancho Nuevo Sanctuary, Tamaulipas, Mexico.",
@@ -440,7 +722,18 @@
       "Statistical testing found no significant decline across 2018 to 2023",
       "The pattern looks like normal year-to-year variation rather than a worsening trend"
     ],
-    "why_it_matters": "Distinguishing ordinary fluctuation from a genuine decline is the difference between a false alarm and a missed one."
+    "why_it_matters": "Distinguishing ordinary fluctuation from a genuine decline is the difference between a false alarm and a missed one.",
+    "ms": {
+      "title": "Perubahan Min Panjang Karapas Lurus (SCL) Antara Tahun bagi Penyu Lipas Kemp yang Mendarat untuk Bersarang Menandakan Anjakan Demografi di Santuari Rancho Nuevo, Tamaulipas, Mexico.",
+      "summary": "Penyu lipas Kemp ialah penyu yang paling terancam, dan saiz betina yang bersarang memberi petunjuk tentang keadaan populasinya. Pengukuran ke atas 191 ekor betina di Mexico sepanjang enam musim mendapati saiz purata mereka naik turun dari tahun ke tahun tanpa sebarang aliran penurunan yang sebenar.",
+      "key_points": [
+        "Populasi merosot daripada kemuncaknya pada 1947 kepada paras terendah pada 1985, kemudian pulih, tetapi terbantut selepas tumpahan minyak Deepwater Horizon",
+        "Saiz purata terkecil dicatatkan pada 2020 dan 2022, manakala yang terbesar pada 2018",
+        "Ujian statistik tidak menemui penurunan yang ketara dari 2018 hingga 2023",
+        "Coraknya kelihatan seperti perubahan biasa dari tahun ke tahun, bukan aliran yang semakin buruk"
+      ],
+      "why_it_matters": "Membezakan turun naik biasa daripada penurunan yang sebenar bermakna membezakan antara penggera palsu dengan ancaman yang terlepas pandang."
+    }
   },
   {
     "title": "Honu Count: how shell-etchings, participatory science, and a novel online survey are improving assessments of the Hawaiian Green sea turtle (Chelonia mydas) population.",
@@ -454,7 +747,18 @@
       "Etchings are temporary, lasting 6 to 12 months, and sealed with non-toxic paint",
       "Public sightings fill in where the turtles go between nesting seasons, which surveys at the nesting site cannot show"
     ],
-    "why_it_matters": "Volunteer reporting covers ground that funded fieldwork cannot reach, and this shows how to make that data scientifically usable."
+    "why_it_matters": "Volunteer reporting covers ground that funded fieldwork cannot reach, and this shows how to make that data scientifically usable.",
+    "ms": {
+      "title": "Honu Count: bagaimana ukiran pada tempurung, sains penyertaan, dan tinjauan dalam talian yang baharu menambah baik penilaian populasi penyu agar Hawaii (Chelonia mydas).",
+      "summary": "Penyu agar Hawaii diukir dengan pengecam sementara pada tempurungnya supaya penyelidik dapat mengecam setiap penyu. Sejak 2017, orang ramai telah melaporkan penampakan penyu bertanda ini, dan kajian ini menerangkan bagaimana data sukarelawan itu menambah baik anggaran populasi.",
+      "key_points": [
+        "Tapak pendaratan utama ialah sebuah atol kira-kira 1,000 km dari Kepulauan Hawaii yang didiami",
+        "Pemantauan rasmi di sana berjalan tanpa henti sejak 1973",
+        "Ukiran itu bersifat sementara, bertahan 6 hingga 12 bulan, dan dimeterai dengan cat tidak toksik",
+        "Penampakan oleh orang ramai melengkapkan maklumat tentang ke mana penyu pergi antara musim bertelur, yang tidak dapat ditunjukkan oleh tinjauan di tapak pendaratan"
+      ],
+      "why_it_matters": "Pelaporan oleh sukarelawan merangkumi kawasan yang tidak dapat dicapai oleh kerja lapangan yang dibiayai, dan ini menunjukkan cara menjadikan data itu boleh digunakan secara saintifik."
+    }
   },
   {
     "title": "Osteological differences in the humerus of loggerhead and green turtles.",
@@ -468,7 +772,18 @@
       "Twelve of fifteen measured segments differed significantly between the two species",
       "That scaling means a turtle's size can be estimated from the bone alone"
     ],
-    "why_it_matters": "Being able to identify species and body size from a single bone is useful when all that washes ashore is a partial carcass."
+    "why_it_matters": "Being able to identify species and body size from a single bone is useful when all that washes ashore is a partial carcass.",
+    "ms": {
+      "title": "Perbezaan osteologi pada tulang humerus penyu tempayan dan penyu agar.",
+      "summary": "Penyu berenang hampir sepenuhnya dengan sirip hadapan, jadi tulang lengan atas menanggung seluruh beban. Pengukuran tulang ini pada penyu tempayan dan penyu agar yang terdampar di perairan Korea mendapati kedua-dua spesies ini berbeza dalam kebanyakan dimensinya.",
+      "key_points": [
+        "Tulang diperoleh daripada penyu yang ditemui terdampar atau tertangkap secara tidak sengaja di hujung utara julat taburan mereka",
+        "Panjang dan lebar tulang lengan kedua-duanya meningkat secara konsisten mengikut panjang keseluruhan tempurung",
+        "Dua belas daripada lima belas segmen yang diukur berbeza secara signifikan antara kedua-dua spesies",
+        "Skala itu bermakna saiz seekor penyu boleh dianggarkan daripada tulang sahaja"
+      ],
+      "why_it_matters": "Keupayaan mengenal pasti spesies dan saiz badan daripada sebatang tulang amat berguna apabila yang terdampar di pantai hanyalah bangkai yang tidak lengkap."
+    }
   },
   {
     "title": "First Isolation of Yersinia enterocolitica From a Sea Turtle: A Case Report in Caretta caretta.",
@@ -482,7 +797,18 @@
       "Liver tissue showed inflammatory nodules with dead material at their centres",
       "The exact cause of death remains unconfirmed, though the bacterium is a plausible contributor"
     ],
-    "why_it_matters": "First records matter: a pathogen nobody is looking for in a species is a pathogen nobody will diagnose."
+    "why_it_matters": "First records matter: a pathogen nobody is looking for in a species is a pathogen nobody will diagnose.",
+    "ms": {
+      "title": "Pengasingan Pertama Yersinia enterocolitica daripada Seekor Penyu: Laporan Kes pada Caretta caretta.",
+      "summary": "Seekor penyu tempayan muda di sebuah pusat penyelamat di Itali didapati dijangkiti Yersinia enterocolitica, sejenis bakteria yang lebih dikenali kerana menyebabkan keracunan makanan pada manusia. Ini kali pertama bakteria tersebut berjaya diasingkan daripada mana-mana penyu.",
+      "key_points": [
+        "Penyu itu tiba dalam keadaan kurus kering dan dehidrasi dengan anemia yang teruk, lalu mati dalam beberapa hari",
+        "Bedah siasat mendapati kolon yang membengkak, lekatan dalaman dan kerosakan hati",
+        "Tisu hati menunjukkan nodul radang dengan bahan mati di bahagian tengahnya",
+        "Punca kematian yang tepat masih belum disahkan, walaupun bakteria itu mungkin menjadi salah satu penyumbang"
+      ],
+      "why_it_matters": "Rekod pertama itu penting: patogen yang tidak dicari pada sesuatu spesies ialah patogen yang tidak akan didiagnosis oleh sesiapa."
+    }
   },
   {
     "title": "Which turtle should I study? Uneven distribution of research effort across Testudines species.",
@@ -496,7 +822,18 @@
       "The imbalance tracks with taxonomy, geography, ecology and evolutionary relationships",
       "Results held up across two separate literature databases"
     ],
-    "why_it_matters": "Conservation decisions rest on published evidence, so species nobody studies are species nobody can argue to protect."
+    "why_it_matters": "Conservation decisions rest on published evidence, so species nobody studies are species nobody can argue to protect.",
+    "ms": {
+      "title": "Penyu mana yang patut saya kaji? Taburan usaha penyelidikan yang tidak seimbang merentas spesies Testudines.",
+      "summary": "Dua pertiga daripada spesies kura-kura terancam kepupusan, tetapi perhatian penyelidikan sangat tidak seimbang. Kajian ini mengira makalah yang diterbitkan bagi setiap spesies yang diketahui dan mendapati penyu agar sahaja mempunyai lebih banyak kajian berbanding gabungan separuh spesies kura-kura yang paling kurang dikaji.",
+      "key_points": [
+        "Penyu agar menyumbang 3,441 artikel",
+        "Kesemua 50 peratus spesies yang paling kurang dikaji hanya berjumlah 475 artikel secara keseluruhan",
+        "Ketidakseimbangan ini selari dengan taksonomi, geografi, ekologi dan hubungan evolusi",
+        "Keputusan kekal sama merentas dua pangkalan data literatur yang berasingan"
+      ],
+      "why_it_matters": "Keputusan pemuliharaan bergantung pada bukti yang diterbitkan, jadi spesies yang tiada siapa kaji ialah spesies yang tiada siapa dapat bela untuk dilindungi."
+    }
   },
   {
     "title": "Brevetoxicosis in loggerhead (Caretta caretta) and Kemp's ridley (Lepidochelys kempii) sea turtles: Plasma proteomics for Florida red tide biomarkers.",
@@ -510,7 +847,18 @@
       "Currently the only diagnostic is stranding during a bloom, which is circumstantial",
       "Several blood proteins differed measurably between exposed and healthy animals"
     ],
-    "why_it_matters": "Toxin exposure is often delayed by weeks as it works up the food chain, so a blood test would catch cases that timing alone would miss."
+    "why_it_matters": "Toxin exposure is often delayed by weeks as it works up the food chain, so a blood test would catch cases that timing alone would miss.",
+    "ms": {
+      "title": "Brevetoksikosis pada penyu tempayan (Caretta caretta) dan penyu lipas Kemp (Lepidochelys kempii): Proteomik plasma untuk penanda biologi air pasang merah Florida.",
+      "summary": "Air pasang merah Florida menghasilkan neurotoksin kuat yang menjadikan penyu sakit, tetapi tiada ujian diagnostik yang sesuai. Penyelidik membandingkan protein darah penyu yang diracuni dengan penyu yang sihat untuk mencari penanda yang dapat mengesahkan pendedahan.",
+      "key_points": [
+        "Penyu tempayan dan penyu lipas Kemp kedua-duanya dikaji",
+        "Penyu menyerap toksin dengan menyedut percikan air laut dan dengan memakan mangsa yang tercemar",
+        "Pada masa ini, satu-satunya diagnostik ialah penyu terdampar semasa air pasang merah, iaitu bukti tidak langsung",
+        "Beberapa protein darah menunjukkan perbezaan yang boleh diukur antara haiwan yang terdedah dengan haiwan yang sihat"
+      ],
+      "why_it_matters": "Pendedahan kepada toksin selalunya lewat beberapa minggu kerana toksin itu bergerak naik melalui rantai makanan, jadi ujian darah dapat mengesan kes yang terlepas jika hanya bergantung pada masa."
+    }
   },
   {
     "title": "Disorientation patterns of loggerhead sea turtle (Caretta caretta) hatchlings in Pinellas County, Florida, USA.",
@@ -524,7 +872,18 @@
       "Problem areas clustered in particular spots, and the clustering shifted from year to year",
       "Bright moonlight reduced disorientation, which supports artificial light as the cause"
     ],
-    "why_it_matters": "Pinpointing which stretches of beach are worst lets councils target lighting rules where they will actually help."
+    "why_it_matters": "Pinpointing which stretches of beach are worst lets councils target lighting rules where they will actually help.",
+    "ms": {
+      "title": "Corak kekeliruan arah anak penyu tempayan (Caretta caretta) di Pinellas County, Florida, AS.",
+      "summary": "Anak penyu mencari laut dengan mengikut isyarat cahaya, jadi pencahayaan buatan menyebabkan mereka tersasar ke arah yang salah. Data pendaratan penyu di Florida selama enam tahun menunjukkan lebih satu pertiga sarang menghasilkan anak penyu yang merangkak ke arah yang salah.",
+      "key_points": [
+        "Daripada 1,048 sarang yang menetas antara 2018 dan 2023, 377 menghasilkan anak penyu yang keliru arah",
+        "Sarang yang terletak lebih tinggi di pantai jauh lebih baik keadaannya berbanding sarang di bahagian tengah",
+        "Kawasan bermasalah berkumpul di lokasi tertentu, dan kelompok itu berubah dari tahun ke tahun",
+        "Cahaya bulan yang terang mengurangkan kekeliruan arah, sekali gus menyokong bahawa cahaya buatan adalah puncanya"
+      ],
+      "why_it_matters": "Mengenal pasti bahagian pantai yang paling teruk membolehkan majlis tempatan menyasarkan peraturan pencahayaan di tempat yang benar-benar memberi manfaat."
+    }
   },
   {
     "title": "Microplastics and sea turtle reproduction: A systematic review on nest contamination and developmental risks.",
@@ -538,7 +897,18 @@
       "Particles were found in nest sediment, eggs, yolks and embryonic tissue",
       "Studies spanned China, Malaysia, Mexico, Japan and the Mediterranean"
     ],
-    "why_it_matters": "Plastic reaching inside the egg means the exposure starts before the animal has even hatched."
+    "why_it_matters": "Plastic reaching inside the egg means the exposure starts before the animal has even hatched.",
+    "ms": {
+      "title": "Mikroplastik dan pembiakan penyu: Kajian sistematik tentang pencemaran sarang dan risiko perkembangan.",
+      "summary": "Kajian ini mengumpulkan setiap kajian yang dapat ditemui tentang mikroplastik dalam sarang penyu di seluruh dunia. Zarah plastik bukan sahaja berada di permukaan pasir, malah menembusi sehingga ke kedalaman tempat telur dierami dan ditemui di dalam telur serta embrio itu sendiri.",
+      "key_points": [
+        "Tahap pencemaran sangat berbeza mengikut tapak, dengan lebih 12,000 zarah bagi setiap kilogram pasir kering di Pulau Redang, Malaysia",
+        "Polietilena, polistirena dan PET paling banyak ditemui, kebanyakannya dalam bentuk gentian dan busa",
+        "Zarah ditemui dalam sedimen sarang, telur, kuning telur dan tisu embrio",
+        "Kajian merangkumi China, Malaysia, Mexico, Jepun dan Laut Mediterranean"
+      ],
+      "why_it_matters": "Plastik yang sampai ke dalam telur bermakna pendedahan bermula sebelum haiwan itu sempat menetas."
+    }
   },
   {
     "title": "Protocol optimization for microplastic analysis in sea turtles: Including the first blood digestion method.",
@@ -552,7 +922,18 @@
       "Blood from nesting females was paired with yolk from their own eggs to test mother-to-egg transfer",
       "Other tissues came from stranded turtles on the Brazilian northeast coast"
     ],
-    "why_it_matters": "Without a shared method, microplastic counts from different labs cannot be compared, and a blood test opens up sampling live animals."
+    "why_it_matters": "Without a shared method, microplastic counts from different labs cannot be compared, and a blood test opens up sampling live animals.",
+    "ms": {
+      "title": "Pengoptimuman protokol untuk analisis mikroplastik pada penyu: Termasuk kaedah pencernaan darah yang pertama.",
+      "summary": "Mengukur mikroplastik di dalam haiwan bermaksud melarutkan tisu tanpa melarutkan plastik. Kajian ini mencipta resipi dua langkah yang boleh dipercayai untuk tisu penyu dan, buat pertama kali, untuk darah.",
+      "key_points": [
+        "Kaedah ini merangkumi darah, kantung kuning telur, hati, buah pinggang, otot dan tisu pembiakan",
+        "Kaedah ini menggunakan pencernaan kalium hidroksida diikuti pengoksidaan hidrogen peroksida",
+        "Darah penyu betina yang mendarat untuk bertelur dipadankan dengan kuning telur daripada telur mereka sendiri untuk menguji pemindahan daripada induk kepada telur",
+        "Tisu lain datang daripada penyu terdampar di pantai timur laut Brazil"
+      ],
+      "why_it_matters": "Tanpa kaedah yang dikongsi, kiraan mikroplastik daripada makmal berbeza tidak dapat dibandingkan, dan ujian darah membuka jalan untuk pensampelan haiwan yang masih hidup."
+    }
   },
   {
     "title": "Plasma concentrations of terbinafine in Kemp's ridley sea turtles (Lepidochelys kempii) peak at 24 hours after a single oral dose.",
@@ -566,7 +947,18 @@
       "Blood levels peaked at 24 hours and the drug took about the same time to halve",
       "Blood samples were collected across five days after the dose"
     ],
-    "why_it_matters": "Dosing a reptile on numbers borrowed from mammals is guesswork, and fungal infections are a common killer in turtle rehabilitation."
+    "why_it_matters": "Dosing a reptile on numbers borrowed from mammals is guesswork, and fungal infections are a common killer in turtle rehabilitation.",
+    "ms": {
+      "title": "Kepekatan plasma terbinafin dalam penyu lipas Kemp (Lepidochelys kempii) memuncak pada 24 jam selepas satu dos oral.",
+      "summary": "Doktor haiwan yang merawat jangkitan kulat pada penyu tidak mempunyai data dos untuk ubat antikulat terbinafin. Pemberian satu dos kepada 15 ekor penyu lipas Kemp yang sedang menjalani pemulihan menunjukkan ubat itu mencapai kemuncak dalam darah selepas 24 jam penuh.",
+      "key_points": [
+        "Penyu tersebut ialah juvenil yang sedang pulih daripada kejutan sejuk di Massachusetts",
+        "Ubat itu disembunyikan dalam makanan pada kadar 20 mg bagi setiap kg berat badan",
+        "Paras darah memuncak pada 24 jam dan ubat itu mengambil masa yang hampir sama untuk menyusut separuh",
+        "Sampel darah diambil sepanjang lima hari selepas dos diberikan"
+      ],
+      "why_it_matters": "Memberi dos kepada reptilia berdasarkan angka yang dipinjam daripada mamalia hanyalah andaian, dan jangkitan kulat ialah pembunuh biasa dalam pemulihan penyu."
+    }
   },
   {
     "title": "Physics-informed multi-task learning framework for modelling microplastic impacts on sea turtle nest temperature and sex determination.",
@@ -580,7 +972,18 @@
       "It beat standard machine-learning approaches, with the lowest temperature error and perfect sex-ratio classification",
       "Building the physics in kept its predictions consistent with how sex determination actually works"
     ],
-    "why_it_matters": "A model that cannot violate the underlying biology is more trustworthy than one that merely fits the data well."
+    "why_it_matters": "A model that cannot violate the underlying biology is more trustworthy than one that merely fits the data well.",
+    "ms": {
+      "title": "Rangka kerja pembelajaran pelbagai tugas berasaskan fizik untuk memodelkan kesan mikroplastik terhadap suhu sarang penyu dan penentuan jantina.",
+      "summary": "Plastik dalam pasir pendaratan penyu mungkin mengubah tahap kepanasan sesebuah sarang, dan perkara ini penting kerana suhu menentukan jantina anak penyu. Pasukan ini membina model ramalan yang mematuhi fizik penentuan jantina yang sedia diketahui, lalu menggunakannya pada sarang penyu agar di Malaysia.",
+      "key_points": [
+        "Tiga tapak pendaratan di Terengganu dikaji, dengan plastik dikenal pasti mengikut warna, bentuk, saiz dan kedalaman",
+        "Model ini meramalkan suhu sarang dan nisbah jantina secara bersama, bukan secara berasingan",
+        "Model ini mengatasi pendekatan pembelajaran mesin piawai, dengan ralat suhu paling rendah dan pengelasan nisbah jantina yang sempurna",
+        "Dengan memasukkan fizik ke dalam model, ramalannya kekal selaras dengan cara penentuan jantina sebenarnya berfungsi"
+      ],
+      "why_it_matters": "Model yang tidak boleh melanggar biologi asasnya lebih dipercayai daripada model yang hanya sesuai dengan data."
+    }
   },
   {
     "title": "Pathology of green sea turtle (Chelonia mydas): Mortalities in Gladstone Harbour, Queensland, Australia, 2017-2020.",
@@ -594,7 +997,18 @@
       "Turtles examined were either found dead or euthanised because they could not be saved",
       "The work was part of a monitoring programme tied specifically to the port"
     ],
-    "why_it_matters": "When industry and a feeding ground occupy the same water, cause-of-death records are the evidence base for arguing about impact."
+    "why_it_matters": "When industry and a feeding ground occupy the same water, cause-of-death records are the evidence base for arguing about impact.",
+    "ms": {
+      "title": "Patologi penyu agar (Chelonia mydas): Kematian di Pelabuhan Gladstone, Queensland, Australia, 2017-2020.",
+      "summary": "Pelabuhan Gladstone di Queensland ialah kawasan makanan penting bagi penyu agar dan juga lokasi sebuah pelabuhan arang batu yang besar. Bedah siasat ke atas 22 ekor penyu yang terdampar selama empat tahun telah merekodkan apa sebenarnya yang membunuh penyu di sana.",
+      "key_points": [
+        "Pelabuhan ini menjadi habitat penyu agar juvenil, hampir dewasa dan dewasa sepanjang tahun",
+        "Perluasan pelabuhan selama seabad telah merosakkan padang rumpai laut dan hutan bakau serta meningkatkan pelayaran dan pencemaran",
+        "Penyu yang diperiksa ditemui sudah mati atau dieutanasia kerana tidak dapat diselamatkan",
+        "Kajian ini sebahagian daripada program pemantauan yang dikaitkan secara khusus dengan pelabuhan tersebut"
+      ],
+      "why_it_matters": "Apabila industri dan kawasan makanan penyu berkongsi perairan yang sama, rekod punca kematian menjadi asas bukti untuk membincangkan kesannya."
+    }
   },
   {
     "title": "Comparative Analysis of Nasal and Cloacal Bacterial Communities in Three Sea Turtle Species under Rescue Center Conditions.",
@@ -608,7 +1022,18 @@
       "Outdoor turtles developed a distinctly different nasal community from indoor ones",
       "Turtles with facial injuries carried their own recognisable bacterial signatures"
     ],
-    "why_it_matters": "If a husbandry choice as simple as indoors versus outdoors reshapes the microbiome, rehabilitation protocols are shaping turtle health in ways nobody was tracking."
+    "why_it_matters": "If a husbandry choice as simple as indoors versus outdoors reshapes the microbiome, rehabilitation protocols are shaping turtle health in ways nobody was tracking.",
+    "ms": {
+      "title": "Analisis Perbandingan Komuniti Bakteria Hidung dan Kloaka pada Tiga Spesies Penyu dalam Keadaan Pusat Penyelamat.",
+      "summary": "Penyu yang diselamatkan membawa komuniti bakteria di dalam hidung dan kloaka mereka yang belum pernah dikaji dengan betul oleh sesiapa. Penjujukan tiga spesies di sebuah stesen penyelamat di China mendapati komuniti bakteria hidung sangat peka terhadap cara penyu itu ditempatkan.",
+      "key_points": [
+        "Penyu agar, penyu karah dan penyu lipas semuanya disampel",
+        "Keadaan penempatan menjelaskan lebih separuh daripada variasi bakteria hidung penyu agar",
+        "Penyu di luar bangunan membentuk komuniti bakteria hidung yang jelas berbeza daripada penyu di dalam bangunan",
+        "Penyu yang mengalami kecederaan pada muka membawa tanda bakteria tersendiri yang mudah dikenali"
+      ],
+      "why_it_matters": "Jika pilihan penjagaan semudah di dalam atau di luar bangunan mampu mengubah mikrobiom, maka protokol pemulihan sedang membentuk kesihatan penyu dengan cara yang tiada siapa jejaki."
+    }
   },
   {
     "title": "Predation on sea turtles at sea: A multi-source synthesis and research perspectives.",
@@ -622,7 +1047,18 @@
       "Predators ranged across fish, crocodilians and mammals, but a handful of shark species dominate",
       "Predation rates varied significantly by turtle species, body size, region and over time"
     ],
-    "why_it_matters": "Using unconventional sources like social media images is how you measure something that is nearly impossible to witness directly."
+    "why_it_matters": "Using unconventional sources like social media images is how you measure something that is nearly impossible to witness directly.",
+    "ms": {
+      "title": "Pemangsaan penyu di laut: Sintesis pelbagai sumber dan perspektif penyelidikan.",
+      "summary": "Pemangsaan telur dan anak penyu di pantai telah banyak didokumenkan, tetapi apa yang memakan penyu di laut jauh lebih sukar diperhatikan. Sintesis ini menghimpunkan rekod lapangan, kajian terdahulu, kandungan perut pemangsa dan juga foto serta video dalam talian untuk membina gambaran global.",
+      "key_points": [
+        "Rekod meliputi kesemua tujuh spesies penyu dan 51 spesies pemangsa yang berbeza",
+        "Daripada 156,726 rekod penyu yang diperiksa, 3.3 peratus menunjukkan kecederaan akibat gigitan jerung",
+        "Pemangsa terdiri daripada ikan, buaya dan mamalia, tetapi segelintir spesies jerung mendominasi",
+        "Kadar pemangsaan berbeza dengan ketara mengikut spesies penyu, saiz badan, wilayah dan dari semasa ke semasa"
+      ],
+      "why_it_matters": "Penggunaan sumber luar biasa seperti imej media sosial ialah cara untuk mengukur sesuatu yang hampir mustahil disaksikan secara langsung."
+    }
   },
   {
     "title": "Hidden Markov models reveal ontogenetic plasticity in green and loggerhead sea turtles.",
@@ -636,7 +1072,18 @@
       "Nomads were smaller and rarely recaptured; residents stayed put; transients were larger and seasonal",
       "Size ranges for each behaviour overlapped, undermining rigid size-based stage labels"
     ],
-    "why_it_matters": "Managing turtles by size category misses animals that behave nothing like their size suggests they should."
+    "why_it_matters": "Managing turtles by size category misses animals that behave nothing like their size suggests they should.",
+    "ms": {
+      "title": "Model Markov tersembunyi dedahkan keplastikan ontogenetik pada penyu agar dan penyu tempayan.",
+      "summary": "Pemuliharaan penyu lazimnya mengelompokkan haiwan mengikut peringkat hidup berdasarkan saiz atau lokasi. Apabila model statistik yang mengutamakan tingkah laku digunakan pada rekod tangkapan di Florida selama 47 tahun, tiga jenis tingkah laku ditemui dan jenis-jenis ini langsung tidak sepadan dengan saiz secara kemas.",
+      "key_points": [
+        "Hampir 20,000 kejadian tangkapan penyu agar dan penyu tempayan dianalisis",
+        "Model itu mengenal pasti corak tingkah laku nomad, pemastautin dan transien",
+        "Penyu nomad lebih kecil dan jarang ditangkap semula; penyu pemastautin kekal di satu tempat; penyu transien lebih besar dan bermusim",
+        "Julat saiz bagi setiap tingkah laku bertindih, menjejaskan label peringkat berasaskan saiz yang tegar"
+      ],
+      "why_it_matters": "Mengurus penyu mengikut kategori saiz akan terlepas pandang haiwan yang tingkah lakunya langsung tidak seperti yang dijangkakan berdasarkan saiznya."
+    }
   },
   {
     "title": "Juveniles and where to find them: a basin-scale habitat model for the lost years of loggerhead sea turtles in the North Atlantic.",
@@ -650,7 +1097,18 @@
       "The final model was highly accurate and was used to map suitable habitat from 1998 to 2022",
       "Stranding records from France, the UK and Ireland were used as an independent check"
     ],
-    "why_it_matters": "Juveniles crossing the Atlantic run a gauntlet of fishing fleets, and you cannot reduce that overlap without knowing their route."
+    "why_it_matters": "Juveniles crossing the Atlantic run a gauntlet of fishing fleets, and you cannot reduce that overlap without knowing their route.",
+    "ms": {
+      "title": "Anak penyu muda dan di mana untuk menjumpai mereka: model habitat berskala lembangan bagi tahun-tahun hilang penyu tempayan di Atlantik Utara.",
+      "summary": "Penyu tempayan muda menghabiskan bertahun-tahun merentasi Lautan Atlantik yang terbuka dalam apa yang disebut penyelidik sebagai tahun-tahun hilang, dan hampir tiada sesiapa tahu ke mana mereka pergi. Gabungan jejak satelit daripada 124 penyu muda menghasilkan peta habitat pertama bagi keseluruhan lembangan lautan itu.",
+      "key_points": [
+        "Penyu telah ditag di sekitar Azores, Kepulauan Canary, Madeira dan Atlantik barat",
+        "Tujuh belas pemboleh ubah persekitaran diuji untuk mengetahui apa yang meramalkan ke mana penyu muda pergi",
+        "Model akhir itu sangat tepat dan digunakan untuk memetakan habitat yang sesuai dari 1998 hingga 2022",
+        "Rekod penyu terdampar dari Perancis, UK dan Ireland digunakan sebagai semakan bebas"
+      ],
+      "why_it_matters": "Penyu muda yang merentasi Atlantik terpaksa melalui laluan penuh armada penangkapan ikan, dan pertindihan itu tidak dapat dikurangkan tanpa mengetahui laluan mereka."
+    }
   },
   {
     "title": "Anatomic Interactive Atlas of the Loggerhead Sea Turtle (Caretta caretta) Coelomic Cavity.",
@@ -664,7 +1122,18 @@
       "The images are delivered through an interactive interface rather than as a flat reference",
       "The whole thing is open access"
     ],
-    "why_it_matters": "Turtle medicine is held back by a shortage of basic reference material, and a free atlas removes that barrier for any clinic."
+    "why_it_matters": "Turtle medicine is held back by a shortage of basic reference material, and a free atlas removes that barrier for any clinic.",
+    "ms": {
+      "title": "Atlas Interaktif Anatomi Rongga Selom Penyu Tempayan (Caretta caretta).",
+      "summary": "Doktor haiwan yang merawat penyu perlu tahu rupa organ dalaman yang sihat sebelum mereka dapat mengesan apa yang tidak kena. Pasukan ini membina atlas interaktif percuma bagi rongga badan penyu tempayan daripada pembedahan bedah siasat, imbasan CT dan MRI.",
+      "key_points": [
+        "Atlas ini menggabungkan enam imej rangka, enam belas foto pembedahan, empat belas imbasan MRI dan CT dalam beberapa format",
+        "Setiap struktur anatomi diberi kod warna dan dilabel secara manual",
+        "Imej-imej ini disampaikan melalui antara muka interaktif, bukan sebagai rujukan yang statik",
+        "Keseluruhannya boleh diakses secara terbuka"
+      ],
+      "why_it_matters": "Perubatan penyu terbantut akibat kekurangan bahan rujukan asas, dan atlas percuma ini menghapuskan halangan tersebut bagi mana-mana klinik."
+    }
   },
   {
     "title": "Artificial night lighting in the Mediterranean: Management priorities and constraints for sea turtle conservation.",
@@ -678,7 +1147,18 @@
       "Standardised monitoring of light pollution is essentially absent, mainly for lack of funding",
       "Top fixes: shielded downward-facing long-wavelength lighting, shaded corridors and nature-based solutions"
     ],
-    "why_it_matters": "Pooling expert judgement produces an actionable priority list far faster than waiting for monitoring programmes that nobody is funding."
+    "why_it_matters": "Pooling expert judgement produces an actionable priority list far faster than waiting for monitoring programmes that nobody is funding.",
+    "ms": {
+      "title": "Pencahayaan malam buatan di Laut Mediterranean: Keutamaan dan kekangan pengurusan untuk pemuliharaan penyu.",
+      "summary": "Cahaya buatan pada waktu malam mengganggu pendaratan penyu untuk bertelur, tetapi skalanya di sekitar Laut Mediterranean belum pernah diukur. Tinjauan terhadap 27 pakar di 16 negara menghasilkan senarai keutamaan tindakan yang boleh diambil, serta halangan yang menghalang sesiapa daripada melakukannya.",
+      "key_points": [
+        "Para pakar bersetuju bahawa anak penyu berada pada peringkat paling terdedah, terutamanya ketika mencari laut",
+        "Cahaya menyebabkan anak penyu hilang arah, meningkatkan risiko dimangsa dan mengurangkan bilangan anak penyu yang hidup",
+        "Pemantauan pencemaran cahaya yang piawai pada asasnya tiada, terutamanya kerana kekurangan dana",
+        "Penyelesaian utama: pencahayaan berpelindung yang menghadap ke bawah dengan panjang gelombang panjang, koridor teduh dan penyelesaian berasaskan alam semula jadi"
+      ],
+      "why_it_matters": "Menghimpunkan pertimbangan pakar menghasilkan senarai keutamaan yang boleh dilaksanakan jauh lebih pantas daripada menunggu program pemantauan yang tiada sesiapa mahu membiayainya."
+    }
   },
   {
     "title": "Metal Concentrations (Mg, Fe, Zn, Cu, Cd, Pb) in the Plasma and Cell Concentrates of Chelonia mydas and Lepidochelys olivacea from Costa Rica.",
@@ -692,7 +1172,18 @@
       "Green turtles carried more copper, iron and zinc; olive ridleys markedly more cadmium",
       "Separating plasma from cells matters, since testing whole blood would blur these differences"
     ],
-    "why_it_matters": "Historical baselines are what let anyone say whether pollution today is better or worse than before."
+    "why_it_matters": "Historical baselines are what let anyone say whether pollution today is better or worse than before.",
+    "ms": {
+      "title": "Kepekatan Logam (Mg, Fe, Zn, Cu, Cd, Pb) dalam Plasma dan Kepekatan Sel Chelonia mydas dan Lepidochelys olivacea dari Costa Rica.",
+      "summary": "Darah ialah cara yang menarik untuk memantau pencemaran pada penyu yang masih hidup, tetapi data asas masih sedikit. Kajian ini mengukur enam logam pada penyu agar dan penyu lipas dari kedua-dua pantai Costa Rica, lalu membandingkan keputusannya dengan kajian dalam tempoh dua dekad berikutnya.",
+      "key_points": [
+        "Sampel diambil dari 2003 hingga 2004 di pantai Caribbean dan Pasifik",
+        "Logam tidak diagihkan secara sekata: magnesium dan kuprum tertumpu dalam plasma, manakala besi dan zink dalam sel darah",
+        "Penyu agar membawa lebih banyak kuprum, besi dan zink; penyu lipas membawa kadmium yang jauh lebih tinggi",
+        "Memisahkan plasma daripada sel adalah penting, kerana menguji darah penuh akan mengaburkan perbezaan ini"
+      ],
+      "why_it_matters": "Data asas sejarah membolehkan sesiapa sahaja menilai sama ada pencemaran hari ini lebih baik atau lebih teruk berbanding dahulu."
+    }
   },
   {
     "title": "Warming and Change in Ocean Productivity Alter Phenology of an Expanding Loggerhead Population in Cabo Verde.",
@@ -706,7 +1197,18 @@
       "Gaps between nesting attempts shortened in warm spells, especially in larger females",
       "Falling ocean productivity at the feeding grounds reduced clutch size, clutch frequency and body size"
     ],
-    "why_it_matters": "Earlier nesting looks like successful adaptation until you notice the food supply is shrinking at the same time."
+    "why_it_matters": "Earlier nesting looks like successful adaptation until you notice the food supply is shrinking at the same time.",
+    "ms": {
+      "title": "Pemanasan dan Perubahan Produktiviti Lautan Mengubah Fenologi Populasi Penyu Tempayan yang Semakin Berkembang di Cabo Verde.",
+      "summary": "Pemantauan selama tujuh belas tahun terhadap salah satu populasi penyu tempayan terbesar di dunia di Cabo Verde menunjukkan bahawa pemanasan laut mengubah masa penyu bersarang dan mengurangkan jumlah yang dihasilkannya.",
+      "key_points": [
+        "Suhu laut yang lebih panas menyebabkan permulaan, kemuncak dan penghujung musim bersarang berlaku lebih awal",
+        "Penyu betina tiba dalam gelombang yang berbeza, yang bermaksud lebih ramai penyu masing-masing bertelur dalam lebih sedikit sarang daripada yang disangka",
+        "Jarak antara percubaan bersarang menjadi lebih pendek ketika cuaca panas, terutamanya pada penyu betina yang lebih besar",
+        "Produktiviti lautan yang menurun di kawasan makanan mengurangkan saiz sarang telur, kekerapan bertelur dan saiz badan"
+      ],
+      "why_it_matters": "Bersarang lebih awal kelihatan seperti penyesuaian yang berjaya, sehinggalah kita sedar bahawa bekalan makanan juga semakin berkurang pada masa yang sama."
+    }
   },
   {
     "title": "Divergence and conservation of satellite DNA in the loggerhead sea turtle (Caretta caretta): a comparative cytogenomic analysis.",
@@ -720,7 +1222,18 @@
       "Some chromosomes carry a single signature repeat; others hold complex mixtures",
       "Comparison with existing assemblies turned up inconsistencies worth resolving"
     ],
-    "why_it_matters": "Repetitive regions are where genome assemblies most often go wrong, so mapping them physically is a check on the digital version."
+    "why_it_matters": "Repetitive regions are where genome assemblies most often go wrong, so mapping them physically is a check on the digital version.",
+    "ms": {
+      "title": "Perbezaan dan pemuliharaan DNA satelit pada penyu tempayan (Caretta caretta): satu analisis sitogenomik perbandingan.",
+      "summary": "Sebahagian besar mana-mana genom terdiri daripada jujukan berulang yang sering diabaikan. Kajian ini menyenaraikan landskap jujukan berulang dalam genom penyu tempayan dan memetakannya pada setiap kromosom.",
+      "key_points": [
+        "Sekurang-kurangnya 18 famili jujukan berulang yang berbeza telah dikenal pasti",
+        "Kebanyakannya berkelompok berhampiran bahagian tengah kromosom",
+        "Ada kromosom yang membawa satu jujukan berulang tersendiri; yang lain pula menyimpan campuran yang rumit",
+        "Perbandingan dengan himpunan genom sedia ada menemukan percanggahan yang wajar diselesaikan"
+      ],
+      "why_it_matters": "Kawasan berulang ialah bahagian yang paling kerap tersilap dalam himpunan genom, jadi memetakannya secara fizikal dapat menjadi semakan terhadap versi digital."
+    }
   },
   {
     "title": "Reorganisation of the turtle blood fluke genera Hapalotrema and Learedius (Trematoda: Hapalotrematidae), with the proposal of two new genera, a new species, and comments on population structure.",
@@ -734,7 +1247,18 @@
       "It includes the first record of an adult turtle blood fluke from an olive ridley",
       "Genetic variation differed sharply between species, with several distinct populations along the Queensland coast"
     ],
-    "why_it_matters": "Parasites you cannot name consistently are parasites you cannot track, and these are among the most common that turtles carry."
+    "why_it_matters": "Parasites you cannot name consistently are parasites you cannot track, and these are among the most common that turtles carry.",
+    "ms": {
+      "title": "Penyusunan semula genus cacing pipih darah penyu Hapalotrema dan Learedius (Trematoda: Hapalotrematidae), dengan cadangan dua genus baharu, satu spesies baharu, dan ulasan tentang struktur populasi.",
+      "summary": "Cacing pipih darah ialah parasit yang paling kerap dilaporkan pada penyu laut, tetapi pengelasannya berselerak, dengan spesies daripada satu genus bercampur dalam genus lain pada pohon salasilah. Kajian ini menyusun semula kumpulan tersebut dan mencadangkan dua genus baharu serta satu spesies baharu.",
+      "key_points": [
+        "Parasit ini menjangkiti banyak organ tetapi paling kerap ditemui dalam jantung dan saluran darah utama",
+        "Morfologi dan DNA daripada beberapa gen digabungkan untuk meleraikan hubungan kekerabatan antara spesies",
+        "Ini termasuk rekod pertama cacing pipih darah penyu dewasa daripada seekor penyu lipas",
+        "Variasi genetik berbeza dengan ketara antara spesies, dengan beberapa populasi berbeza di sepanjang pesisir Queensland"
+      ],
+      "why_it_matters": "Parasit yang tidak dapat dinamakan secara konsisten ialah parasit yang tidak dapat dijejaki, dan cacing ini antara parasit paling lazim yang dibawa oleh penyu."
+    }
   },
   {
     "title": "Perivitelline Membrane-Bound Sperm as a Source of Paternal Genomic DNA to Inform Breeding Male Marine Turtle Genetics and Demographics.",
@@ -748,7 +1272,18 @@
       "The method correctly identified all but two of 67 fathers",
       "It needs only one egg per nest rather than sampling many hatchlings"
     ],
-    "why_it_matters": "Warming sand is producing ever more females, and you cannot monitor that risk without a way to count the breeding males."
+    "why_it_matters": "Warming sand is producing ever more females, and you cannot monitor that risk without a way to count the breeding males.",
+    "ms": {
+      "title": "Sperma Terikat Membran Perivitelin sebagai Sumber DNA Genom Bapa untuk Memaklumkan Genetik dan Demografi Penyu Jantan yang Membiak.",
+      "summary": "Tidak banyak yang diketahui tentang penyu jantan kerana mereka tidak pernah naik ke darat. Kajian ini menemui cara untuk menentukan genotip bapa daripada sperma yang terperangkap dalam membran di sekeliling kuning telur sebiji telur.",
+      "key_points": [
+        "Telur penyu tempayan dan penyu agar dari Melbourne Beach, Florida telah diuji",
+        "Keputusan disemak berdasarkan genotip lebih daripada 1,700 anak penyu sebenar",
+        "Kaedah ini mengenal pasti dengan betul semua bapa kecuali dua daripada 67 bapa",
+        "Ia hanya memerlukan satu telur bagi setiap sarang, bukannya pensampelan banyak anak penyu"
+      ],
+      "why_it_matters": "Pasir yang semakin panas menghasilkan lebih ramai betina, dan risiko itu tidak dapat dipantau tanpa cara untuk mengira penyu jantan yang membiak."
+    }
   },
   {
     "title": "Behavioral responses of captive-bred post-hatchling and juvenile sea turtles to different colors of single-use plastic film.",
@@ -762,7 +1297,18 @@
       "They preferred soft plastic bags over stiffer packaging",
       "Post-hatchlings showed no preference, probably because they have not learned to recognise prey yet"
     ],
-    "why_it_matters": "If turtles are selectively eating light-coloured soft plastic because it resembles jellyfish, that points at which products matter most to eliminate."
+    "why_it_matters": "If turtles are selectively eating light-coloured soft plastic because it resembles jellyfish, that points at which products matter most to eliminate.",
+    "ms": {
+      "title": "Tindak balas tingkah laku penyu karah hasil pembiakan tawanan peringkat pasca-anak penyu dan juvenil terhadap warna filem plastik sekali guna yang berbeza.",
+      "summary": "Penyu memakan plastik, tetapi plastik yang mana dan mengapa masih belum jelas. Apabila penyu karah hasil pembiakan tawanan diberi filem berwarna-warni, juvenil menunjukkan pilihan yang jelas manakala anak penyu yang sangat muda menggigit apa-apa sahaja.",
+      "key_points": [
+        "Lapan juvenil berusia empat tahun dan dua puluh tujuh pasca-anak penyu berusia sepuluh minggu diuji",
+        "Juvenil memilih barangan lutsinar, putih, hitam dan kuning tetapi tidak mengendahkan label botol berwarna biru",
+        "Mereka lebih suka beg plastik lembut berbanding bungkusan yang lebih keras",
+        "Pasca-anak penyu tidak menunjukkan pilihan, mungkin kerana mereka belum belajar mengecam mangsa"
+      ],
+      "why_it_matters": "Jika penyu memakan plastik lembut berwarna cerah secara terpilih kerana ia menyerupai obor-obor, ini menunjukkan produk mana yang paling penting untuk dihapuskan."
+    }
   },
   {
     "title": "Confirmation of Chelonid Alphaherpesvirus 5 (Scutavirus Chelonidalpha5) Associated with Fibropapillomatosis in Green and Kemp's Ridley Sea Turtles from Mississippi, USA.",
@@ -776,7 +1322,18 @@
       "All four animals stranded on the Mississippi coast",
       "The finding fills in a gap in the known distribution of the disease"
     ],
-    "why_it_matters": "Range extensions for a wildlife disease are early warnings, and they only get recorded if someone tests the strandings."
+    "why_it_matters": "Range extensions for a wildlife disease are early warnings, and they only get recorded if someone tests the strandings.",
+    "ms": {
+      "title": "Pengesahan Chelonid Alphaherpesvirus 5 (Scutavirus Chelonidalpha5) yang Dikaitkan dengan Fibropapillomatosis pada Penyu Agar dan Penyu Lipas Kemp dari Mississippi, AS.",
+      "summary": "Fibropapillomatosis, penyakit tumor pada penyu, telah disahkan bersama virus herpes yang berkaitan dengannya pada empat ekor penyu yang terdampar di pesisir pantai Mississippi. Penemuan ini memanjangkan julat penyakit tersebut yang telah didokumenkan di Teluk Mexico.",
+      "key_points": [
+        "Tiga ekor penyu agar dan seekor penyu lipas Kemp terlibat",
+        "Tumor dan virus itu disahkan melalui ujian makmal, bukan berdasarkan rupa semata-mata",
+        "Keempat-empat haiwan itu terdampar di pesisir pantai Mississippi",
+        "Penemuan ini mengisi kekosongan dalam taburan penyakit tersebut yang diketahui setakat ini"
+      ],
+      "why_it_matters": "Perluasan julat sesuatu penyakit hidupan liar ialah amaran awal, dan ia hanya akan direkodkan jika ada yang menguji penyu yang terdampar."
+    }
   },
   {
     "title": "Underwater hearing sensitivity of the Kemp's ridley sea turtle (Lepidochelys kempii).",
@@ -790,7 +1347,18 @@
       "Nothing registered at 1200 Hz or above, even at high volume",
       "Their most sensitive threshold averaged 100 decibels at 300 Hz"
     ],
-    "why_it_matters": "You cannot write noise limits to protect an animal until you know which frequencies it can actually hear."
+    "why_it_matters": "You cannot write noise limits to protect an animal until you know which frequencies it can actually hear.",
+    "ms": {
+      "title": "Kepekaan pendengaran bawah air penyu lipas Kemp (Lepidochelys kempii).",
+      "summary": "Perkapalan dan tenaga luar pesisir memenuhi perairan tempat penyu lipas Kemp hidup, tetapi tiada siapa tahu apa yang dapat didengarnya. Dengan menguji 13 ekor juvenil melalui pengukuran tindak balas otak terhadap bunyi nada di bawah air, julat pendengaran mereka dipetakan buat pertama kali.",
+      "key_points": [
+        "Mereka bertindak balas terhadap bunyi antara 50 dan 800 Hz, semuanya frekuensi rendah",
+        "Pendengaran paling tajam antara 200 dan 300 Hz dan merosot di atas 400 Hz",
+        "Tiada tindak balas pada 1200 Hz atau lebih tinggi, walaupun pada kelantangan tinggi",
+        "Ambang paling peka mereka secara purata ialah 100 desibel pada 300 Hz"
+      ],
+      "why_it_matters": "Anda tidak boleh menetapkan had bunyi bising untuk melindungi seekor haiwan selagi anda tidak tahu frekuensi mana yang sebenarnya dapat didengarnya."
+    }
   },
   {
     "title": "They're Out There, You Know: Sea Turtle Sightings and Strandings in Canadian Pacific Waters.",
@@ -804,7 +1372,18 @@
       "Nearly half of hard-shelled turtles were found dead or cold-stunned",
       "Leatherbacks can regulate their body temperature; hard-shelled species cannot, which explains the split"
     ],
-    "why_it_matters": "Records at the cold edge of a species range are exactly the records that will show whether warming seas are shifting that edge."
+    "why_it_matters": "Records at the cold edge of a species range are exactly the records that will show whether warming seas are shifting that edge.",
+    "ms": {
+      "title": "Mereka Memang Ada di Luar Sana: Penampakan dan Pendaratan Penyu Terdampar di Perairan Pasifik Kanada.",
+      "summary": "British Columbia jauh lebih sejuk daripada suhu yang biasanya boleh diterima oleh penyu, namun penyu tetap muncul di sana. Kajian ini menghimpunkan setiap rekod yang diketahui dari perairan Pasifik Kanada antara 1931 dengan 2024, termasuk 77 rekod yang belum pernah diterbitkan sebelum ini.",
+      "key_points": [
+        "Set data ini mengandungi 247 rekod merentasi empat spesies",
+        "Penyu belimbing paling kerap dilihat dan biasanya dilihat hidup serta sedang berenang",
+        "Hampir separuh daripada penyu bercangkerang keras ditemui mati atau terkejut sejuk",
+        "Penyu belimbing boleh mengawal suhu badannya; spesies bercangkerang keras tidak boleh, dan ini menjelaskan perbezaan tersebut"
+      ],
+      "why_it_matters": "Rekod di hujung sejuk julat sesuatu spesies ialah rekod yang akan menunjukkan sama ada lautan yang semakin panas sedang menganjakkan hujung julat itu."
+    }
   },
   {
     "title": "Biomarkers of foraging and reproduction in captive adult female hawksbill sea turtles (Eretmochelys imbricata).",
@@ -818,7 +1397,18 @@
       "Having year-round data shows which readings are normal and which are specific to nesting",
       "Hawksbills are listed as critically endangered, making baseline physiology valuable"
     ],
-    "why_it_matters": "Without off-season measurements, every nesting-season reading is uninterpretable because there is nothing to compare it against."
+    "why_it_matters": "Without off-season measurements, every nesting-season reading is uninterpretable because there is nothing to compare it against.",
+    "ms": {
+      "title": "Penanda biologi bagi pencarian makanan dan pembiakan pada penyu karah (Eretmochelys imbricata) betina dewasa dalam kurungan.",
+      "summary": "Penyu karah liar biasanya hanya boleh diambil sampelnya ketika sedang bertelur, jadi tiada siapa tahu bagaimana fisiologi normalnya di luar musim pembiakan. Kajian terhadap lima ekor penyu betina dalam kurungan di sebuah akuarium di Jepun selama setahun penuh telah mengisi kekosongan itu.",
+      "key_points": [
+        "Darah diuji untuk mengesan penanda pembakaran lemak dan hormon testosteron sepanjang semua musim",
+        "Kedua-dua penanda pembakaran lemak meningkat dengan ketara semasa organ pembiakan sedang berkembang",
+        "Data sepanjang tahun menunjukkan bacaan yang normal dan bacaan yang khusus untuk musim bertelur",
+        "Penyu karah disenaraikan sebagai terancam kritikal, justeru fisiologi asas amat berharga"
+      ],
+      "why_it_matters": "Tanpa ukuran di luar musim bertelur, setiap bacaan semasa musim bertelur tidak dapat ditafsirkan kerana tiada apa-apa untuk dijadikan perbandingan."
+    }
   },
   {
     "title": "Influence of Nest Microbiota on Hatching Success of Caretta Caretta on Lampedusa Island.",
@@ -832,7 +1422,18 @@
       "The successful nest separated statistically from the failures on community composition",
       "The balance between two major bacterial groups was distinctly different in the successful nest"
     ],
-    "why_it_matters": "If nest bacteria help decide whether eggs hatch, that is a factor hatchery managers could potentially influence."
+    "why_it_matters": "If nest bacteria help decide whether eggs hatch, that is a factor hatchery managers could potentially influence.",
+    "ms": {
+      "title": "Pengaruh Mikrobiota Sarang terhadap Kejayaan Penetasan Caretta caretta di Pulau Lampedusa.",
+      "summary": "Mengapakah sesetengah sarang penyu hampir semuanya menetas, manakala yang lain gagal sepenuhnya? Perbandingan bakteria dalam empat sarang penyu tempayan di Lampedusa mendapati satu-satunya sarang yang berjaya mempunyai komuniti bakteria yang jelas berbeza daripada tiga sarang yang gagal.",
+      "key_points": [
+        "Kejayaan penetasan berkisar antara 85.2 peratus dalam sarang yang berjaya sehingga serendah 0 peratus",
+        "Pasir, kulit telur dan membran dalam telur semuanya disampel dan dijujuk",
+        "Sarang yang berjaya terpisah secara statistik daripada sarang yang gagal dari segi komposisi komuniti",
+        "Keseimbangan antara dua kumpulan bakteria utama jelas berbeza dalam sarang yang berjaya"
+      ],
+      "why_it_matters": "Jika bakteria sarang membantu menentukan sama ada telur menetas atau tidak, itu merupakan faktor yang berpotensi dipengaruhi oleh pengurus pusat penetasan."
+    }
   },
   {
     "title": "Occurrence of Citrobacter spp.-Associated and Non-Associated Lesions in a Stranded Loggerhead Sea Turtle (Caretta caretta) from Italy.",
@@ -846,7 +1447,18 @@
       "They were screened for genes conferring resistance to major antibiotic families",
       "Their ability to form biofilm, which protects bacteria from treatment, was also measured"
     ],
-    "why_it_matters": "Turtles in human care can act as reservoirs for drug-resistant bacteria, which makes this a staff safety question as well as an animal health one."
+    "why_it_matters": "Turtles in human care can act as reservoirs for drug-resistant bacteria, which makes this a staff safety question as well as an animal health one.",
+    "ms": {
+      "title": "Kejadian Lesi Berkaitan dan Tidak Berkaitan dengan Citrobacter spp. pada Seekor Penyu Tempayan (Caretta caretta) yang Terdampar dari Itali.",
+      "summary": "Kulit penyu secara semula jadi membawa banyak bakteria, dan sebahagiannya menyebabkan penyakit yang membentuk ulser. Calitan pada seekor penyu tempayan di sebuah akuarium di Itali berjaya mengasingkan lima belas strain salah satu bakteria tersebut, lalu diuji setakat mana kerintangan strain itu terhadap ubat.",
+      "key_points": [
+        "Sembilan calitan diambil daripada lesi kulit, cangkerang, mulut dan kloaka",
+        "Strain diuji terhadap dua belas antimikrob merangkumi lapan kelas ubat",
+        "Strain disaring untuk mengesan gen yang memberi kerintangan terhadap keluarga antibiotik utama",
+        "Keupayaan strain membentuk biofilem, yang melindungi bakteria daripada rawatan, turut diukur"
+      ],
+      "why_it_matters": "Penyu yang dijaga manusia boleh menjadi takungan bakteria yang tahan ubat, jadi ini bukan sahaja soal kesihatan haiwan, malah soal keselamatan kakitangan."
+    }
   },
   {
     "title": "Between the Atolls: Sea Turtle Nesting in the Maldives from 2018 to 2024.",
@@ -860,7 +1472,18 @@
       "Nesting happens year-round but peaks June to September during the southwest monsoon",
       "Median hatching success was 90.9 percent over a median 59-day incubation"
     ],
-    "why_it_matters": "Flooding and illegal egg collection emerged as the main threats, which is actionable in a way that an unquantified problem is not."
+    "why_it_matters": "Flooding and illegal egg collection emerged as the main threats, which is actionable in a way that an unquantified problem is not.",
+    "ms": {
+      "title": "Antara Atol: Pendaratan Penyu untuk Bertelur di Maldives dari 2018 hingga 2024",
+      "summary": "Maldives tidak mempunyai rekod pendaratan penyu yang menyeluruh walaupun penyu amat penting kepada ekosistem lautnya. Gabungan pemantauan tersasar dengan laporan daripada saintis rakyat dan ahli biologi telah menghasilkan set data berbilang tahun yang pertama, meliputi 2018 hingga 2024.",
+      "key_points": [
+        "Sarang direkodkan di hampir setiap atol, dan sebahagian besarnya ialah sarang penyu agar iaitu sebanyak 1,086 sarang",
+        "Sarang penyu karah, penyu lipas dan sarang yang tidak dikenal pasti membentuk bahagian kecil yang selebihnya",
+        "Penyu bertelur sepanjang tahun tetapi kemuncaknya pada Jun hingga September semasa monsun barat daya",
+        "Median kejayaan penetasan ialah 90.9 peratus dengan median tempoh pengeraman selama 59 hari"
+      ],
+      "why_it_matters": "Banjir dan pengutipan telur secara haram muncul sebagai ancaman utama, dan ini boleh ditindaki berbanding masalah yang tidak dapat diukur."
+    }
   },
   {
     "title": "Genomic Differentiation and Diversity in Persian Gulf Hawksbill Turtles (Eretmochelys imbricata) Revealed by the First Whole-Genome Sequencing Study.",
@@ -874,7 +1497,18 @@
       "Genetic patterns point to historical population crashes rather than recent inbreeding",
       "Females returning to their own birth beach appears to drive the separation"
     ],
-    "why_it_matters": "Nearby islands holding genetically distinct turtles means each one needs its own conservation plan rather than a single regional approach."
+    "why_it_matters": "Nearby islands holding genetically distinct turtles means each one needs its own conservation plan rather than a single regional approach.",
+    "ms": {
+      "title": "Pembezaan dan Kepelbagaian Genomik dalam Penyu Karah (Eretmochelys imbricata) di Teluk Parsi Terbongkar Melalui Kajian Penjujukan Genom Keseluruhan Pertama.",
+      "summary": "Ini ialah kajian genom keseluruhan pertama terhadap penyu karah di Teluk Parsi. Penjujukan 17 ekor penyu dari empat buah pulau pendaratan di Iran mendapati populasi yang berbeza secara genetik, malah antara pulau yang berdekatan.",
+      "key_points": [
+        "Empat populasi berasingan muncul daripada data genetik",
+        "Satu pulau menunjukkan pengasingan jangka panjang manakala satu lagi menunjukkan percampuran dan kepelbagaian yang lebih tinggi",
+        "Corak genetik menunjukkan penyusutan populasi pada masa lalu dan bukannya pembiakan sedarah baru-baru ini",
+        "Betina yang kembali ke pantai kelahiran mereka sendiri seolah-olah menjadi punca pemisahan ini"
+      ],
+      "why_it_matters": "Pulau yang berdekatan tetapi mempunyai penyu yang berbeza secara genetik bermakna setiap satu memerlukan pelan pemuliharaan tersendiri dan bukannya satu pendekatan serantau yang tunggal."
+    }
   },
   {
     "title": "Major Histocompatibility Complex Immunogenetic Diversity Differs Substantially Across Sea Turtle Species and Genomic Regions.",
@@ -888,7 +1522,18 @@
       "Many versions are shared between species, meaning they predate the species splitting apart",
       "Evidence of ongoing natural selection suggests the variety is being actively maintained"
     ],
-    "why_it_matters": "A species with little immune variation is a species with little room to respond to a new disease, which matters given the tumour outbreaks turtles already face."
+    "why_it_matters": "A species with little immune variation is a species with little room to respond to a new disease, which matters given the tumour outbreaks turtles already face.",
+    "ms": {
+      "title": "Kepelbagaian Imunogenetik Kompleks Keserasian Histo Utama Berbeza Dengan Ketara Merentas Spesies Penyu dan Kawasan Genom.",
+      "summary": "Gen sistem imun biasanya sangat pelbagai, kerana kepelbagaian membantu sesuatu populasi bertahan daripada penyakit baharu. Penjujukan gen ini pada lebih 300 ekor penyu merentas empat spesies mendapati jumlah kepelbagaian berbeza dengan ketara antara spesies.",
+      "key_points": [
+        "Penyu tempayan, penyu agar, penyu belimbing dan penyu lipas Kemp dibandingkan",
+        "162 dan 308 versi yang berbeza dari segi fungsi ditemui dalam dua kelas gen yang dikaji",
+        "Banyak versi dikongsi antara spesies, bermakna versi itu wujud sebelum spesies tersebut berpecah",
+        "Bukti pemilihan semula jadi yang berterusan menunjukkan kepelbagaian itu sedang dikekalkan secara aktif"
+      ],
+      "why_it_matters": "Spesies yang kurang kepelbagaian imun ialah spesies yang kurang ruang untuk bertindak balas terhadap penyakit baharu, dan ini penting memandangkan wabak tumor yang sudah dihadapi oleh penyu."
+    }
   },
   {
     "title": "Molecular signatures and cellular responses underlying hypoxic adaptation in sea turtles.",
@@ -902,7 +1547,18 @@
       "Several regulatory sequences appear unique to the turtle lineage",
       "Loggerhead cells responded to low oxygen quite differently from lizard cells"
     ],
-    "why_it_matters": "Understanding how turtles tolerate oxygen deprivation is relevant to why some survive being caught in nets and others do not."
+    "why_it_matters": "Understanding how turtles tolerate oxygen deprivation is relevant to why some survive being caught in nets and others do not.",
+    "ms": {
+      "title": "Ciri molekul dan tindak balas sel yang mendasari penyesuaian terhadap hipoksia pada penyu.",
+      "summary": "Penyu mampu menahan nafas untuk selam yang sangat lama, dan prapenerbitan ini mencari asas genetiknya. Perbandingan gen tindak balas oksigen rendah merentasi reptilia mendapati salah satu gen tersebut berada di bawah tekanan evolusi yang aktif, khusus pada penyu.",
+      "key_points": [
+        "Tiga daripada empat gen yang dikaji sangat terpelihara dalam semua reptilia",
+        "Gen keempat menunjukkan tanda pemilihan positif khusus pada penyu dan kura-kura darat",
+        "Beberapa jujukan pengawalatur kelihatan unik kepada salasilah penyu",
+        "Sel penyu tempayan bertindak balas terhadap oksigen rendah dengan agak berbeza daripada sel cicak"
+      ],
+      "why_it_matters": "Memahami bagaimana penyu bertahan apabila kekurangan oksigen berkait rapat dengan sebab sesetengah penyu terselamat apabila terperangkap dalam pukat manakala yang lain tidak."
+    }
   },
   {
     "title": "Somatic Growth Rates of Juvenile Green Sea Turtles (Chelonia mydas) in the Fijian Archipelago.",
@@ -916,7 +1572,18 @@
       "Growth slowed as turtles got larger",
       "The Fijian figures line up with those from elsewhere in the Pacific"
     ],
-    "why_it_matters": "Site-to-site differences in growth suggest some feeding grounds are simply better habitat than others, which is a conservation priority signal."
+    "why_it_matters": "Site-to-site differences in growth suggest some feeding grounds are simply better habitat than others, which is a conservation priority signal.",
+    "ms": {
+      "title": "Kadar Pertumbuhan Somatik Penyu Agar Juvenil (Chelonia mydas) di Kepulauan Fiji.",
+      "summary": "Kelajuan penyu membesar memberitahu kita berapa lama masa yang diambil untuk mencapai usia membiak, dan ini menjadi asas kepada setiap unjuran populasi. Pengukuran ke atas 215 ekor penyu agar di tiga kawasan mencari makan di Fiji selama tujuh tahun menghasilkan kadar pertumbuhan pertama bagi rantau ini.",
+      "key_points": [
+        "Penyu membesar purata 1.6 cm panjang cangkerang setahun",
+        "Kadar pertumbuhan berbeza antara ketiga-tiga tapak, daripada 1.1 hingga 1.8 cm setahun",
+        "Pertumbuhan menjadi perlahan apabila penyu semakin besar",
+        "Angka bagi Fiji selari dengan angka dari tempat lain di Pasifik"
+      ],
+      "why_it_matters": "Perbezaan pertumbuhan antara tapak menunjukkan bahawa sesetengah kawasan mencari makan memang habitat yang lebih baik berbanding yang lain, dan ini merupakan isyarat keutamaan pemuliharaan."
+    }
   },
   {
     "title": "Hazardous seascapes for marine turtles in the Mediterranean sea.",
@@ -930,7 +1597,18 @@
       "The link to floating debris was much weaker and more diffuse",
       "The analysis allowed hazard levels to vary from place to place rather than assuming one pattern"
     ],
-    "why_it_matters": "Fishing traffic showing a far tighter link to mortality than litter tells managers which threat to spend their limited budget on."
+    "why_it_matters": "Fishing traffic showing a far tighter link to mortality than litter tells managers which threat to spend their limited budget on.",
+    "ms": {
+      "title": "Lautan berbahaya bagi penyu di Laut Mediterranean.",
+      "summary": "Bahagian manakah di Laut Mediterranean yang paling berbahaya bagi penyu? Dengan menjejak ke belakang dari tempat bangkai terdampar di pantai, para penyelidik membina semula lokasi kematian sebenar dan membandingkannya dengan lalu lintas penangkapan ikan serta sampah terapung.",
+      "key_points": [
+        "Data pendamparan selama lima tahun di sekitar Sicily dan Sardinia digunakan dalam model hanyutan",
+        "Lokasi kematian yang dibina semula bertindih kuat dengan laluan padat kapal penangkap ikan",
+        "Kaitan dengan serpihan terapung jauh lebih lemah dan lebih tersebar",
+        "Analisis ini membolehkan tahap bahaya berbeza dari satu tempat ke satu tempat dan bukannya mengandaikan satu corak sahaja"
+      ],
+      "why_it_matters": "Lalu lintas penangkapan ikan yang menunjukkan kaitan jauh lebih rapat dengan kematian berbanding sampah memberitahu pengurus ancaman mana yang patut diberi tumpuan dengan bajet mereka yang terhad."
+    }
   },
   {
     "title": "Green Sea Turtle Recruitment in the Eastern North Pacific: Patterns Identified Using Geochemical Signatures in Bones.",
@@ -944,7 +1622,18 @@
       "This reconstructed each turtle's movement and diet history retrospectively",
       "The method works on dead turtles, requiring no tracking equipment"
     ],
-    "why_it_matters": "Extracting a lifetime movement history from a bone means dead strandings become data rather than just losses."
+    "why_it_matters": "Extracting a lifetime movement history from a bone means dead strandings become data rather than just losses.",
+    "ms": {
+      "title": "Rekrutmen Penyu Agar di Pasifik Utara Timur: Corak Dikenal Pasti Menggunakan Tanda Geokimia dalam Tulang.",
+      "summary": "Penyu agar semakin kerap ditemui di perairan bandar Southern California sepanjang tiga dekad. Dengan membaca lapisan kimia dalam tulang lengan penyu, seperti gelang tahun pada pokok, para penyelidik dapat membina semula tempat setiap penyu mencari makan sepanjang hayatnya.",
+      "key_points": [
+        "Kimia lautan berbeza mengikut kawasan secara boleh diramal dan terkunci dalam tulang semasa tulang itu tumbuh",
+        "Lapisan pertumbuhan tulang dipadankan dengan anggaran umur dan saiz daripada tulang yang sama",
+        "Ini membina semula sejarah pergerakan dan pemakanan setiap penyu secara retrospektif",
+        "Kaedah ini berfungsi pada penyu yang telah mati dan tidak memerlukan peralatan penjejakan"
+      ],
+      "why_it_matters": "Dengan mengeluarkan sejarah pergerakan sepanjang hayat daripada sekeping tulang, penyu yang terdampar mati menjadi data dan bukan sekadar kehilangan."
+    }
   },
   {
     "title": "Blood analytes relevant to nutritional status and energy metabolism in three sea turtle species across nesting season.",
@@ -958,7 +1647,18 @@
       "Leatherbacks showed significant declines in four of the measures as the season progressed",
       "The study also tested how much delayed sample processing distorts results"
     ],
-    "why_it_matters": "Without reference ranges a vet cannot tell a sick nesting turtle from a normally exhausted one."
+    "why_it_matters": "Without reference ranges a vet cannot tell a sick nesting turtle from a normally exhausted one.",
+    "ms": {
+      "title": "Analit darah berkaitan status pemakanan dan metabolisme tenaga pada tiga spesies penyu sepanjang musim bertelur.",
+      "summary": "Bertelur sangat membebankan tubuh penyu, dan doktor haiwan perlu tahu bagaimana kimia darah yang normal semasa tempoh ini. Kajian ini menetapkan julat rujukan merentasi tiga hingga empat musim bertelur bagi tiga spesies.",
+      "key_points": [
+        "Penyu belimbing, penyu tempayan dan penyu agar semuanya disampel",
+        "Ukuran merangkumi isi padu sel darah, penanda pembakaran lemak, protein, glukosa dan laktat",
+        "Penyu belimbing menunjukkan penurunan ketara dalam empat daripada ukuran tersebut apabila musim berlanjutan",
+        "Kajian ini juga menguji sejauh mana kelewatan memproses sampel mengganggu keputusan"
+      ],
+      "why_it_matters": "Tanpa julat rujukan, doktor haiwan tidak dapat membezakan penyu bertelur yang sakit daripada penyu yang keletihan secara normal."
+    }
   },
   {
     "title": "Rediscovering nesting activities of Lepidochelys olivacea along the Dakshina Kannada Coast Karnataka West Coast of India.",
@@ -972,7 +1672,18 @@
       "Clutches held 71 to 135 eggs and incubated for about 49 days",
       "Nests closer to river mouths had better hatching success"
     ],
-    "why_it_matters": "A nesting population returning after 18 years is a conservation win, and documenting it is what secures protection for those beaches."
+    "why_it_matters": "A nesting population returning after 18 years is a conservation win, and documenting it is what secures protection for those beaches.",
+    "ms": {
+      "title": "Penemuan semula aktiviti pendaratan Lepidochelys olivacea di sepanjang Pantai Dakshina Kannada, Pantai Barat Karnataka, India.",
+      "summary": "Penyu lipas mendarat di pantai Dakshina Kannada, India, buat kali pertama dalam tempoh 18 tahun. Dua puluh satu sarang muncul di enam buah pantai dalam satu musim, termasuk di kawasan pantai komersial yang sibuk.",
+      "key_points": [
+        "Satu pantai berhampiran Mangalore menyumbang 62 peratus daripada semua sarang",
+        "Pendaratan berlaku pada semua fasa bulan, bercanggah dengan jangkaan bahawa penyu lebih gemar bulan penuh",
+        "Setiap sarang mengandungi 71 hingga 135 biji telur dan dierami selama kira-kira 49 hari",
+        "Sarang yang lebih dekat dengan muara sungai mempunyai kadar penetasan yang lebih baik"
+      ],
+      "why_it_matters": "Populasi penyu yang kembali bersarang selepas 18 tahun ialah satu kejayaan pemuliharaan, dan mendokumentasikannya membantu memastikan pantai-pantai tersebut dilindungi."
+    }
   },
   {
     "title": "Prevalence, etiology, and transmission of fibropapillomatosis in Olive Ridley turtles at a mass-nesting colony in the Mexican Pacific.",
@@ -986,7 +1697,18 @@
       "Marine leeches taken from both groups were screened as possible carriers",
       "Genetic variants of the virus were identified from both turtles and leeches"
     ],
-    "why_it_matters": "If leeches transmit the virus, that opens a route to interrupting the disease that treating turtles alone never could."
+    "why_it_matters": "If leeches transmit the virus, that opens a route to interrupting the disease that treating turtles alone never could.",
+    "ms": {
+      "title": "Kelaziman, punca dan penularan fibropapilomatosis pada penyu lipas di sebuah koloni pendaratan beramai-ramai di Pasifik Mexico.",
+      "summary": "Di salah satu pantai pendaratan beramai-ramai penyu terhebat di dunia di Oaxaca, Mexico, para penyelidik mengukur sejauh mana lazimnya penyakit tumor penyu ini dan menguji sama ada lintah parasit menyebarkannya.",
+      "key_points": [
+        "Kelaziman penyakit dalam kalangan penyu lipas betina yang mendarat adalah rendah, kira-kira 1.05 peratus",
+        "DNA virus dicari dalam tumor dan tisu sihat daripada penyu yang terjejas dan tidak terjejas",
+        "Lintah laut yang diambil daripada kedua-dua kumpulan disaring sebagai pembawa yang mungkin",
+        "Varian genetik virus dikenal pasti daripada penyu dan lintah"
+      ],
+      "why_it_matters": "Jika lintah menularkan virus itu, ia membuka jalan untuk menghentikan penyakit ini, sesuatu yang tidak akan dapat dicapai dengan merawat penyu sahaja."
+    }
   },
   {
     "title": "Performance Comparison of Argos and Iridium Tracking Technologies for Sea Turtle Movement Ecology Studies.",
@@ -1000,7 +1722,18 @@
       "The three types compared were older Doppler-based, GPS-enhanced, and newer GPS tags on a different satellite network",
       "Species and tag settings also affected performance, not just the technology"
     ],
-    "why_it_matters": "Tags are expensive and go on endangered animals, so choosing the wrong one wastes both money and a rare research opportunity."
+    "why_it_matters": "Tags are expensive and go on endangered animals, so choosing the wrong one wastes both money and a rare research opportunity.",
+    "ms": {
+      "title": "Perbandingan Prestasi Teknologi Penjejakan Argos dan Iridium untuk Kajian Ekologi Pergerakan Penyu.",
+      "summary": "Tag satelit untuk penyu terdapat dalam beberapa teknologi, dan para penyelidik perlu tahu yang mana satu benar-benar berprestasi terbaik. Perbandingan 116,074 kedudukan daripada 48 ekor penyu menunjukkan perbezaan yang jelas antara ketiga-tiga jenis tag tersebut.",
+      "key_points": [
+        "Lima spesies merentasi beberapa lembangan lautan disertakan",
+        "Tag dinilai berdasarkan bilangan hari data diterima, tempoh jurang data, dan bilangan kedudukan sehari",
+        "Tiga jenis yang dibandingkan ialah tag lama berasaskan Doppler, tag dipertingkat GPS, dan tag GPS yang lebih baharu pada rangkaian satelit yang berbeza",
+        "Spesies dan tetapan tag juga menjejaskan prestasi, bukan teknologi sahaja"
+      ],
+      "why_it_matters": "Tag mahal dan dipasang pada haiwan terancam, jadi tersalah pilih akan membazirkan wang dan peluang penyelidikan yang jarang diperoleh."
+    }
   },
   {
     "title": "Predation by Native Mediterranean Species on the Invasive Blue Crab: Experimental Evidence from the Common Octopus and the Loggerhead Sea Turtle.",
@@ -1028,7 +1761,18 @@
       "Disease severity showed no clear link to the turtle's body condition",
       "Recaptured turtles showed tumours both growing and shrinking over time"
     ],
-    "why_it_matters": "Tumours regressing on their own in some animals suggests environmental conditions influence the disease, not just the virus."
+    "why_it_matters": "Tumours regressing on their own in some animals suggests environmental conditions influence the disease, not just the virus.",
+    "ms": {
+      "title": "Dinamik fibropapillomatosis pada penyu agar Chelonia mydas dari Teluk Babitonga, selatan Brazil.",
+      "summary": "Teluk Babitonga di selatan Brazil ternyata menjadi tempat tumpuan penyakit tumor penyu. Pemantauan terhadap 171 ekor penyu agar juvenil selama lima tahun mendapati lebih separuh daripadanya dijangkiti, antara kadar tertinggi yang pernah direkodkan di negara itu.",
+      "key_points": [
+        "Kelaziman penyakit mencapai 53.2 peratus",
+        "Tumor tertumpu di sekitar sirip dan kawasan ketiak serta kebanyakannya bersaiz kecil",
+        "Tahap keterukan penyakit tidak menunjukkan kaitan yang jelas dengan keadaan badan penyu",
+        "Penyu yang ditangkap semula menunjukkan tumor yang membesar dan mengecil dari semasa ke semasa"
+      ],
+      "why_it_matters": "Tumor yang surut dengan sendirinya pada sesetengah haiwan menunjukkan keadaan persekitaran mempengaruhi penyakit ini, bukan virus semata-mata."
+    }
   },
   {
     "title": "Anthropogenic stones on a remote oceanic island: formation, transport, and burial in a sea turtle nesting beach.",
@@ -1042,7 +1786,18 @@
       "Fragments accumulate in the strandline at roughly 24 larger and 22 smaller pieces per square metre",
       "They are also found inside turtle nesting pits, buried to about 10 cm deep"
     ],
-    "why_it_matters": "Plastic turning into a rock-like material that then erodes into nests is a pollution pathway nobody was tracking a decade ago."
+    "why_it_matters": "Plastic turning into a rock-like material that then erodes into nests is a pollution pathway nobody was tracking a decade ago.",
+    "ms": {
+      "title": "Batu buatan manusia di sebuah pulau samudera yang terpencil: pembentukan, pengangkutan dan penimbusan di pantai pendaratan penyu.",
+      "summary": "Plastik boleh cair dan bercantum dengan batuan untuk membentuk sesuatu yang kini dipanggil ahli geologi plastistone. Pemantauan selama lima tahun di sebuah pantai pendaratan penyu agar yang terpencil di Atlantik Selatan menjejaki cara jisim ini pecah dan merebak.",
+      "key_points": [
+        "Satu mendapan plastistone yang asal mengecil 45 peratus antara 2019 dengan 2024 apabila terhakis",
+        "Serpihannya merebak ke enam pantai berbeza di pulau itu",
+        "Serpihan terkumpul di garis tepi pantai dengan kadar kira-kira 24 keping yang lebih besar dan 22 keping yang lebih kecil bagi setiap meter persegi",
+        "Serpihan itu juga ditemui di dalam lubang sarang penyu, tertimbus sedalam kira-kira 10 cm"
+      ],
+      "why_it_matters": "Plastik yang bertukar menjadi bahan seakan batu, lalu terhakis masuk ke dalam sarang, ialah laluan pencemaran yang tiada sesiapa pantau sedekad lalu."
+    }
   },
   {
     "title": "An application of finite element analysis predicts unique temperatures and fates for flatback sea turtle embryos.",
@@ -1056,7 +1811,18 @@
       "Predictions were checked against real measured nest temperatures",
       "Eggs in different positions experience meaningfully different conditions"
     ],
-    "why_it_matters": "If eggs in the same nest incubate at different temperatures, they may be destined for different sexes and different survival odds."
+    "why_it_matters": "If eggs in the same nest incubate at different temperatures, they may be destined for different sexes and different survival odds.",
+    "ms": {
+      "title": "Penggunaan analisis unsur terhingga meramalkan suhu dan nasib yang unik bagi embrio penyu mengkarung.",
+      "summary": "Suhu sarang biasanya diukur dengan satu alat perakam sahaja, sedangkan embrio itu sendiri menjana haba. Apabila perisian simulasi kejuruteraan digunakan pada sarang penyu mengkarung, suhu yang berbeza telah diramalkan bagi setiap biji telur.",
+      "key_points": [
+        "Lima sarang telah dimodelkan menggunakan saiz telur sesarang, kedalaman, ketumpatan pasir dan kelembapan",
+        "Setiap biji telur diberi output haba setiap jam yang tersendiri berdasarkan kadar metabolismenya",
+        "Ramalan telah disemak dengan suhu sarang sebenar yang diukur",
+        "Telur di kedudukan berbeza mengalami keadaan yang berbeza dengan ketara"
+      ],
+      "why_it_matters": "Jika telur dalam sarang yang sama dierami pada suhu yang berbeza, telur-telur itu mungkin ditakdirkan menjadi jantina yang berbeza dan mempunyai peluang hidup yang berbeza."
+    }
   },
   {
     "title": "Mycobacterium ulcerans ecovar infection in wild Kemp's ridley Lepidochelys kempii and loggerhead Caretta caretta sea turtles.",
@@ -1070,7 +1836,18 @@
       "The immune response failed to wall the bacteria off in the nervous system the way it normally would",
       "Genetic testing matched the strains across multiple sites in the genome"
     ],
-    "why_it_matters": "Healthy turtles clustered together falling ill points at an environmental source rather than isolated bad luck, which has population-level implications."
+    "why_it_matters": "Healthy turtles clustered together falling ill points at an environmental source rather than isolated bad luck, which has population-level implications.",
+    "ms": {
+      "title": "Jangkitan ekovar Mycobacterium ulcerans pada penyu lipas Kemp Lepidochelys kempii dan penyu tempayan Caretta caretta liar.",
+      "summary": "Enam ekor penyu liar didapati dijangkiti sejenis bakteria yang berkait rapat dengan bakteria penyebab ulser Buruli pada manusia, dan dalam kebanyakan kes, bakteria itu telah sampai ke otak. Empat daripada enam ekor itu ditemui berdekatan antara satu sama lain tanpa sebab jelas mengapa mereka mudah dijangkiti.",
+      "key_points": [
+        "Lima ekor penyu lipas Kemp dan seekor penyu tempayan terjejas",
+        "Kebanyakannya terdampar dengan masalah neurologi akibat radang otak dan saraf tunjang yang teruk",
+        "Tindak balas imun gagal mengepung bakteria itu dalam sistem saraf seperti yang biasanya berlaku",
+        "Ujian genetik memadankan strain tersebut merentasi pelbagai tapak dalam genom"
+      ],
+      "why_it_matters": "Penyu yang sihat tetapi jatuh sakit secara berkelompok menunjukkan puncanya daripada sumber persekitaran, bukannya nasib malang yang terpencil, dan ini memberi implikasi pada tahap populasi."
+    }
   },
   {
     "title": "Imaging-guided clinical approach to fishing line ingestion in a juvenile green sea turtle Chelonia mydas from southern Brazil.",
@@ -1084,7 +1861,18 @@
       "Blood tests showed anaemia, elevated white cells and raised urea from gut injury",
       "The turtle's body was already mounting a systemic response to the trauma"
     ],
-    "why_it_matters": "Pulling on a swallowed line without imaging first can tear the gut if a hook is anchored, so this is a procedural lesson as much as a case report."
+    "why_it_matters": "Pulling on a swallowed line without imaging first can tear the gut if a hook is anchored, so this is a procedural lesson as much as a case report.",
+    "ms": {
+      "title": "Pendekatan klinikal berpandukan pengimejan terhadap pengambilan tali pancing dalam seekor penyu agar muda Chelonia mydas dari selatan Brazil.",
+      "summary": "Seekor penyu agar muda ditemui semasa pemantauan perikanan di Brazil dengan tali pancing berjuntai dari mulutnya. Pengimejan menunjukkan dengan tepat sejauh mana tali itu menjalar sebelum sesiapa menariknya, dan inilah yang membolehkan pengeluarannya dilakukan dengan selamat.",
+      "key_points": [
+        "Sinar-X dan ultrasound menjejaki tali itu melalui mulut, kerongkong dan perut",
+        "Yang penting, tiada mata kail yang tersangkut, jadi tali itu dapat ditarik keluar dengan tangan",
+        "Ujian darah menunjukkan anemia, sel darah putih yang tinggi dan urea yang meningkat akibat kecederaan usus",
+        "Badan penyu itu sudah pun menghasilkan tindak balas sistemik terhadap trauma tersebut"
+      ],
+      "why_it_matters": "Menarik tali yang tertelan tanpa pengimejan terlebih dahulu boleh mengoyakkan usus jika mata kail tersangkut, jadi ini pengajaran tentang prosedur sama seperti laporan kes."
+    }
   },
   {
     "title": "Modelling the pipping to emergence interval and its influence on the thermosensitive period for sex determination in the green sea turtle Cheloniamydas.",
@@ -1098,7 +1886,18 @@
       "The gap can span several days, shifting estimates of when sex is actually determined",
       "Work focused on a green turtle population already under thermal stress in the northwest Indian Ocean"
     ],
-    "why_it_matters": "If the window when sex gets decided is being mis-timed, then climate predictions built on it are off too."
+    "why_it_matters": "If the window when sex gets decided is being mis-timed, then climate predictions built on it are off too.",
+    "ms": {
+      "title": "Memodelkan sela masa dari pemecahan telur hingga kemunculan dan pengaruhnya terhadap tempoh sensitif suhu bagi penentuan jantina pada penyu agar Cheloniamydas.",
+      "summary": "Anak penyu memecahkan telur beberapa hari sebelum mereka menggali jalan ke permukaan, dan jurang masa ini mengelirukan pengiraan suhu yang digunakan untuk meramalkan nisbah jantina. Kajian ini mengukur sela masa tersembunyi tersebut menggunakan penderia gerakan yang ditanam di dalam sarang.",
+      "key_points": [
+        "Kajian lapangan mengira tempoh pengeraman sehingga kemunculan; kajian makmal mengiranya sehingga penetasan, dan kedua-duanya tidak sama",
+        "Meter pecutan mengesan pergerakan penetasan di bawah pasir",
+        "Jurang ini boleh mencecah beberapa hari, lalu menganjakkan anggaran tentang bila jantina sebenarnya ditentukan",
+        "Kajian ini tertumpu pada populasi penyu agar yang sudah mengalami tekanan haba di barat laut Lautan Hindi"
+      ],
+      "why_it_matters": "Jika tempoh penentuan jantina tersilap masa, maka ramalan iklim yang dibina berdasarkannya juga tersasar."
+    }
   },
   {
     "title": "Disruption of the sea turtle magnetic map sense by a magnetic pulse.",
@@ -1112,7 +1911,18 @@
       "That separation matters, because previous experiments could not tell the two senses apart",
       "The disruption implicates magnetite-based receptors in the map sense specifically"
     ],
-    "why_it_matters": "Pinning down the physical mechanism behind turtle navigation is the step that makes it possible to ask how human magnetic interference might affect them."
+    "why_it_matters": "Pinning down the physical mechanism behind turtle navigation is the step that makes it possible to ask how human magnetic interference might affect them.",
+    "ms": {
+      "title": "Gangguan terhadap deria peta magnet penyu oleh denyutan magnet.",
+      "summary": "Penyu mengemudi menggunakan medan magnet Bumi, tetapi cara penyu merasainya tidak diketahui. Apabila penyu tempayan dikenakan denyutan magnet yang kuat dan singkat, keupayaan mereka untuk mengenal pasti kedudukan mereka terganggu, sekali gus menunjukkan hablur magnet yang kecil sebagai penderianya.",
+      "key_points": [
+        "Denyutan itu cukup kuat untuk membalikkan kutub magnet mineral magnetit",
+        "Satu ujian pelaziman digunakan yang memerlukan peta magnet penyu tetapi bukan kompas mereka",
+        "Pemisahan itu penting, kerana eksperimen terdahulu tidak dapat membezakan kedua-dua deria tersebut",
+        "Gangguan itu mengaitkan reseptor berasaskan magnetit dengan deria peta secara khusus"
+      ],
+      "why_it_matters": "Mengenal pasti mekanisme fizikal di sebalik navigasi penyu ialah langkah yang memungkinkan kita menyoal bagaimana gangguan magnet oleh manusia boleh menjejaskan penyu."
+    }
   },
   {
     "title": "A quantitative risk assessment framework for mortality due to macroplastic ingestion in seabirds, marine mammals, and sea turtles.",
@@ -1126,7 +1936,18 @@
       "Risk was modelled against both the number of pieces and their volume relative to body length",
       "Hard plastic, soft plastic, rubber and fishing debris were assessed separately"
     ],
-    "why_it_matters": "Turning plastic ingestion from an alarming statistic into a dose-response relationship is what lets regulators argue about specific thresholds."
+    "why_it_matters": "Turning plastic ingestion from an alarming statistic into a dose-response relationship is what lets regulators argue about specific thresholds.",
+    "ms": {
+      "title": "Rangka kerja penilaian risiko secara kuantitatif bagi kematian akibat pengambilan makroplastik pada burung laut, mamalia marin dan penyu.",
+      "summary": "Plastik telah ditemui dalam hampir 1,300 spesies marin, tetapi berapakah jumlah yang benar-benar membawa maut? Analisis terhadap lebih 10,000 bedah siasat menghasilkan anggaran kuantitatif pertama bagi dos maut untuk burung laut, mamalia marin dan penyu.",
+      "key_points": [
+        "47 peratus penyu yang diperiksa pernah memakan plastik, paling tinggi antara ketiga-tiga kumpulan",
+        "Burung laut berada pada 35 peratus dan mamalia marin 12 peratus",
+        "Risiko dimodelkan berdasarkan bilangan kepingan dan juga isi padunya berbanding panjang badan",
+        "Plastik keras, plastik lembut, getah dan sisa peralatan memancing dinilai secara berasingan"
+      ],
+      "why_it_matters": "Menukarkan pengambilan plastik daripada statistik yang membimbangkan kepada hubungan dos-tindak balas membolehkan pengawal selia berhujah tentang ambang tertentu."
+    }
   },
   {
     "title": "Cretaceous sea turtle soft tissues clarify ancestry of scale loss in chelonioids.",
@@ -1140,7 +1961,18 @@
       "Modern hard-shelled turtles therefore re-evolved their scaly flippers",
       "The same smooth-skin adaptation appeared independently in ichthyosaurs, plesiosaurs and marine crocodiles"
     ],
-    "why_it_matters": "Soft tissue almost never fossilises, so a 97-million-year-old skin impression can resolve a question bones cannot."
+    "why_it_matters": "Soft tissue almost never fossilises, so a 97-million-year-old skin impression can resolve a question bones cannot.",
+    "ms": {
+      "title": "Tisu lembut penyu zaman Kapur menjelaskan asal usul kehilangan sisik pada kelompok chelonioid.",
+      "summary": "Penyu belimbing mempunyai kulit licin manakala penyu laut lain bersisik, dan tiada siapa tahu yang mana satu muncul dahulu. Fosil berusia 97 juta tahun dari Lubnan, tisu lembut penyu yang paling tua pernah ditemui, menyelesaikan persoalan ini.",
+      "key_points": [
+        "Fosil ini menggabungkan kulit sirip tanpa sisik dengan cangkerang bersisik keras (berskut)",
+        "Kulit tanpa sisik rupa-rupanya ciri purba penyu, bukan rekaan baharu penyu belimbing",
+        "Penyu bercangkerang keras moden itu sebenarnya telah berevolusi semula sehingga siripnya bersisik",
+        "Penyesuaian kulit licin yang sama muncul secara berasingan pada ichthyosaur, plesiosaur dan buaya laut"
+      ],
+      "why_it_matters": "Tisu lembut hampir tidak pernah menjadi fosil, jadi cetakan kulit berusia 97 juta tahun dapat menjawab soalan yang tidak mampu dijawab oleh tulang."
+    }
   },
   {
     "title": "Anatomopathological Characterization of the Main Ocular Lesions in Green Turtles (Chelonia mydas) Along the Northern Coast of Bahia, Brazil.",
@@ -1154,7 +1986,18 @@
       "Most problems affected both eyes rather than one",
       "Other findings included corneal ulcers, perforations, scarring and stones in the salt glands"
     ],
-    "why_it_matters": "A blind turtle cannot feed or avoid boats, so eye disease at this rate is a survival issue and not a cosmetic one."
+    "why_it_matters": "A blind turtle cannot feed or avoid boats, so eye disease at this rate is a survival issue and not a cosmetic one.",
+    "ms": {
+      "title": "Pencirian Anatomopatologi Lesi Mata Utama pada Penyu Agar (Chelonia mydas) di Sepanjang Pantai Utara Bahia, Brazil.",
+      "summary": "Tiga puluh sembilan ekor penyu agar yang terdampar di Bahia, Brazil telah diperiksa mata dan kelenjar air matanya dengan teliti. Hampir tujuh daripada sepuluh sampel menunjukkan penyakit, selalunya tumor dan parasit.",
+      "key_points": [
+        "Daripada 158 sampel kelopak mata, mata dan kelenjar garam, 69.6 peratus mengalami penyakit",
+        "Fibropapillomatosis ialah penemuan paling kerap pada 58.9 peratus, diikuti cacing pepipih darah pada 46.8 peratus",
+        "Kebanyakan masalah menjejaskan kedua-dua belah mata, bukan sebelah sahaja",
+        "Penemuan lain termasuk ulser kornea, perforasi, parut dan batu dalam kelenjar garam"
+      ],
+      "why_it_matters": "Penyu yang buta tidak dapat mencari makanan atau mengelak bot, jadi penyakit mata pada kadar ini ialah isu kemandirian dan bukan soal kecantikan."
+    }
   },
   {
     "title": "Power analyses to inform clutch sampling design to determine the breeding sex ratio in populations with multiple paternity.",
@@ -1168,7 +2011,18 @@
       "Under-sampling means missing fathers and overestimating how female-biased a population is",
       "Guidance covers both single clutches and whole nesting seasons"
     ],
-    "why_it_matters": "Field budgets are finite, and this tells researchers the minimum sampling that still produces a defensible answer."
+    "why_it_matters": "Field budgets are finite, and this tells researchers the minimum sampling that still produces a defensible answer.",
+    "ms": {
+      "title": "Analisis kuasa untuk membantu reka bentuk persampelan telur bagi menentukan nisbah jantina pembiakan dalam populasi yang mempunyai pelbagai bapa.",
+      "summary": "Untuk mengetahui bilangan jantan yang membiak dalam sesebuah populasi, telur perlu digenotip, tetapi berapa banyak telur yang sebenarnya diperlukan? Kajian ini mengira usaha persampelan yang diperlukan supaya kita yakin bahawa setiap bapa telah ditemui.",
+      "key_points": [
+        "Jawapannya bergantung pada sama ada para bapa menyumbang sama rata atau seekor bapa mendominasi setiap sarang telur",
+        "Usaha boleh digunakan untuk lebih banyak telur bagi setiap sarang atau lebih banyak sarang bagi setiap musim, satu pertukaran yang nyata",
+        "Persampelan yang terlalu sedikit bermakna bapa terlepas pandang dan sejauh mana populasi condong kepada betina dianggar terlalu tinggi",
+        "Panduan ini meliputi sarang tunggal dan keseluruhan musim bersarang"
+      ],
+      "why_it_matters": "Bajet kerja lapangan adalah terhad, dan kajian ini memberitahu penyelidik persampelan minimum yang masih menghasilkan jawapan yang boleh dipertahankan."
+    }
   },
   {
     "title": "Metagenomic insights reveal the differences in the community composition and functional characteristics of the sea turtle microbiomes based on host species and tissue region.",
@@ -1182,7 +2036,18 @@
       "Two bacterial groups dominated across all sites and species",
       "Green turtles showed the most variation between body regions"
     ],
-    "why_it_matters": "A reference catalogue is infrastructure: every future study of turtle microbes can now compare against it instead of starting over."
+    "why_it_matters": "A reference catalogue is infrastructure: every future study of turtle microbes can now compare against it instead of starting over.",
+    "ms": {
+      "title": "Pandangan metagenomik mendedahkan perbezaan dalam komposisi komuniti dan ciri fungsi mikrobiom penyu berdasarkan spesies perumah dan kawasan tisu.",
+      "summary": "Kajian ini membina katalog gen komprehensif pertama untuk mikrob penyu, dengan menjujuk sampel mulut, hidung dan kloaka daripada tiga spesies. Bahagian badan tempat sampel diambil lebih penting daripada spesies asal sampel tersebut.",
+      "key_points": [
+        "Enam puluh tiga sampel menghasilkan kira-kira 706 gigabait data jujukan",
+        "Katalog yang terhasil mengandungi lebih 10.7 juta gen mikrob yang unik",
+        "Dua kumpulan bakteria mendominasi merentasi semua bahagian badan dan spesies",
+        "Penyu agar menunjukkan variasi paling banyak antara kawasan badan"
+      ],
+      "why_it_matters": "Katalog rujukan ialah prasarana: setiap kajian mikrob penyu pada masa depan kini boleh membuat perbandingan dengannya dan tidak perlu bermula dari awal."
+    }
   },
   {
     "title": "Recombinant expression and functional characterization of defensin-like peptide TEWP and its analogs in Pichia pastoris.",
@@ -1196,7 +2061,18 @@
       "All versions worked best against Listeria monocytogenes, a serious food-borne bacterium",
       "Simply increasing the protein's electrical charge did not improve its potency"
     ],
-    "why_it_matters": "Natural antimicrobials are a hunting ground for new antibiotics, and producing them in yeast means no turtles are needed to make them."
+    "why_it_matters": "Natural antimicrobials are a hunting ground for new antibiotics, and producing them in yeast means no turtles are needed to make them.",
+    "ms": {
+      "title": "Pengekspresan rekombinan dan pencirian fungsi peptida seakan-defensin TEWP serta analognya dalam Pichia pastoris.",
+      "summary": "Putih telur penyu mengandungi protein antimikrob semula jadi. Para penyelidik menghasilkannya dalam yis bersama tiga versi yang direka semula, kemudian menguji kesemua empat protein itu terhadap sembilan belas mikrob.",
+      "key_points": [
+        "Protein asal ini datang daripada telur penyu tempayan",
+        "Varian dihasilkan dengan menukar asid amino, membalikkan jujukan dan melekatkan tag kemasukan sel",
+        "Semua versi paling berkesan terhadap Listeria monocytogenes, sejenis bakteria bawaan makanan yang serius",
+        "Hanya meningkatkan cas elektrik protein itu tidak menambah baik keupayaannya"
+      ],
+      "why_it_matters": "Antimikrob semula jadi ialah sumber penting untuk mencari antibiotik baharu, dan penghasilannya dalam yis bermakna tiada penyu diperlukan untuk membuatnya."
+    }
   },
   {
     "title": "First Survey on Sea Turtles' Interactions in Mussel Farms in Italy.",
@@ -1210,7 +2086,18 @@
       "Its presence in turtle guts rose noticeably between 2018 and 2021",
       "National data on the scale of the conflict had never been gathered before"
     ],
-    "why_it_matters": "Conservation needs the fishing industry on side, so a conflict like this is better measured than ignored."
+    "why_it_matters": "Conservation needs the fishing industry on side, so a conflict like this is better measured than ignored.",
+    "ms": {
+      "title": "Tinjauan Pertama tentang Interaksi Penyu dengan Ladang Kupang di Itali.",
+      "summary": "Penyu tempayan telah belajar bahawa ladang kupang ialah sumber makanan yang mudah, dan ini menjadi masalah kepada para pengusaha ladang. Tinjauan terhadap pengusaha kupang di Itali, bersama bedah siasat ke atas penyu yang terdampar, mengesahkan bahawa penyu memang memakan kupang ternakan.",
+      "key_points": [
+        "Penampakan penyu memuncak pada musim panas di utara Laut Adriatik dan pada musim luruh di selatan, selari dengan suhu air",
+        "Kupang Mediterranean ialah moluska yang paling kerap ditemui dalam perut penyu",
+        "Kehadirannya dalam usus penyu meningkat dengan ketara antara 2018 dan 2021",
+        "Data peringkat kebangsaan tentang skala konflik ini belum pernah dikumpulkan sebelum ini"
+      ],
+      "why_it_matters": "Pemuliharaan memerlukan sokongan industri perikanan, jadi konflik seperti ini lebih baik diukur daripada diabaikan."
+    }
   },
   {
     "title": "Long-Term Incubation Duration Decline Indicates Climate-Change Driven Feminization of Three Sea Turtle Species in Florida, USA.",
@@ -1224,7 +2111,18 @@
       "Using incubation duration sidesteps the uncertainty in model-based sex ratio estimates",
       "Embryo death rates varied between regions as well"
     ],
-    "why_it_matters": "Feminisation had been predicted by models for years; this is the population-scale measurement showing it is actually happening."
+    "why_it_matters": "Feminisation had been predicted by models for years; this is the population-scale measurement showing it is actually happening.",
+    "ms": {
+      "title": "Penurunan Tempoh Pengeraman Jangka Panjang Menunjukkan Pemfeminan Tiga Spesies Penyu di Florida, AS Didorong oleh Perubahan Iklim.",
+      "summary": "Jantina penyu ditentukan oleh suhu sarang, dan sarang yang lebih panas menghasilkan lebih banyak betina. Dengan menggunakan masa pengeraman sebagai termometer merentasi lebih 110,000 sarang di Florida, kajian ini memberikan bukti berskala besar yang pertama bahawa tiga spesies penyu benar-benar menjadi semakin banyak betina.",
+      "key_points": [
+        "Data meliputi tempoh 2001 hingga 2022 dan merangkumi penyu tempayan, penyu agar dan penyu belimbing",
+        "Masa pengeraman menurun dengan ketara, yang menunjukkan suhu sarang semakin meningkat",
+        "Penggunaan tempoh pengeraman mengelakkan ketidakpastian dalam anggaran nisbah jantina berasaskan model",
+        "Kadar kematian embrio juga berbeza antara kawasan"
+      ],
+      "why_it_matters": "Pemfeminan telah diramalkan oleh model selama bertahun-tahun; ini ialah pengukuran pada skala populasi yang menunjukkan ia benar-benar sedang berlaku."
+    }
   },
   {
     "title": "Total mercury levels in Loggerhead and Green sea turtle hatched eggshells from nests along the southeastern Mediterranean coast.",
@@ -1238,7 +2136,18 @@
       "The gap likely reflects diet, since loggerheads eat higher up the food chain",
       "Shells were collected after hatching, so no eggs or turtles were harmed"
     ],
-    "why_it_matters": "Discarded eggshells turn out to be a free, harmless window into how contaminated the nesting females are."
+    "why_it_matters": "Discarded eggshells turn out to be a free, harmless window into how contaminated the nesting females are.",
+    "ms": {
+      "title": "Jumlah paras merkuri dalam kulit telur penyu tempayan dan penyu agar yang telah menetas daripada sarang di sepanjang pantai tenggara Laut Mediterranean.",
+      "summary": "Merkuri terkumpul dalam badan penyu sepanjang hayatnya dan dipindahkan ke dalam telurnya. Mengukur merkuri dalam kulit telur yang telah menetas dari pantai-pantai di Israel ialah cara untuk menganggar tahap pencemaran induk penyu tanpa mengganggu apa-apa.",
+      "key_points": [
+        "180 kulit telur penyu tempayan dan 40 kulit telur penyu agar dianalisis merentasi dua musim pendaratan",
+        "Kulit telur penyu tempayan mengandungi kira-kira enam kali ganda lebih banyak merkuri berbanding kulit telur penyu agar",
+        "Perbezaan ini mungkin disebabkan oleh makanan, kerana penyu tempayan makan pada tahap yang lebih tinggi dalam rantai makanan",
+        "Kulit telur dikutip selepas menetas, jadi tiada telur atau penyu yang dicederakan"
+      ],
+      "why_it_matters": "Kulit telur yang dibuang rupa-rupanya ialah tingkap yang percuma dan tidak berbahaya untuk melihat setakat mana pencemaran pada penyu betina yang mendarat untuk bertelur."
+    }
   },
   {
     "title": "Assessment of metal bioaccumulation and genotoxic damage on a protected nesting beach of Caretta Caretta after a mining dam rupture in Brazil.",
@@ -1252,7 +2161,18 @@
       "Biochemical stress responses were measured alongside the contamination",
       "Effects persisted across all three nesting seasons studied"
     ],
-    "why_it_matters": "Industrial disasters are usually assessed on adult wildlife, and this shows the damage reaches embryos years afterwards."
+    "why_it_matters": "Industrial disasters are usually assessed on adult wildlife, and this shows the damage reaches embryos years afterwards.",
+    "ms": {
+      "title": "Penilaian bioakumulasi logam dan kerosakan genotoksik di pantai pendaratan penyu yang dilindungi bagi Caretta caretta selepas empangan lombong pecah di Brazil.",
+      "summary": "Pada 2015, sebuah empangan lombong runtuh di Brazil dan membanjiri sistem sungai dengan sisa lombong yang sampai ke pantai pendaratan penyu tempayan. Ujian selama tiga musim ke atas telur dan anak penyu mendapati pengumpulan logam serta kerosakan genetik.",
+      "key_points": [
+        "Tiga belas jenis logam diukur dalam telur dan anak penyu",
+        "Anak penyu menunjukkan kerosakan genetik yang dikesan melalui ujian piawai kerosakan kromosom",
+        "Tindak balas tekanan biokimia diukur bersama pencemaran tersebut",
+        "Kesannya berterusan sepanjang ketiga-tiga musim pendaratan yang dikaji"
+      ],
+      "why_it_matters": "Bencana perindustrian biasanya dinilai pada hidupan liar dewasa, dan kajian ini menunjukkan kerosakan itu sampai kepada embrio bertahun-tahun kemudian."
+    }
   },
   {
     "title": "Robust maneuverability in flipper-based systems across complex terrains.",
@@ -1266,7 +2186,18 @@
       "Rigid and soft flipper designs were compared directly",
       "Roll, pitch, yaw and lift height were all measured for each gait"
     ],
-    "why_it_matters": "Working out which flipper strategies work on which surfaces explains why beach texture affects how many hatchlings reach the sea."
+    "why_it_matters": "Working out which flipper strategies work on which surfaces explains why beach texture affects how many hatchlings reach the sea.",
+    "ms": {
+      "title": "Kebolehgerakan teguh sistem berasaskan sirip merentasi rupa bumi yang kompleks.",
+      "summary": "Anak penyu perlu merentasi pantai yang penuh halangan dengan pantas, dan ini memerlukan kelincahan, bukan kelajuan. Pasukan ini membina sebuah robot yang digerakkan oleh sirip untuk menguji gabungan sirip yang manakah paling cekap membelok di permukaan yang berbeza.",
+      "key_points": [
+        "Lima corak sirip dibandingkan, daripada keempat-empat sirip hingga satu sirip sahaja",
+        "Permukaan yang diuji termasuk batu dalam empat saiz, span busa dan pasir kering",
+        "Reka bentuk sirip tegar dan lembut dibandingkan secara langsung",
+        "Gulingan, anggukan, pusingan dan ketinggian angkat semuanya diukur bagi setiap gaya gerak"
+      ],
+      "why_it_matters": "Mengetahui strategi sirip yang berkesan pada permukaan tertentu menjelaskan mengapa tekstur pantai mempengaruhi bilangan anak penyu yang sampai ke laut."
+    }
   },
   {
     "title": "Maternal Traits Are Associated With Hemolytic Capacity in Sea Turtle Hatchlings, Independently of Systemic Immune Stimuli.",
@@ -1280,7 +2211,18 @@
       "One hatchling per nest got an immune challenge and another a placebo",
       "The hatchlings' immune capacity tracked their mothers' rather than their incubation"
     ],
-    "why_it_matters": "If maternal health sets hatchling immunity, then protecting adult females protects two generations at once."
+    "why_it_matters": "If maternal health sets hatchling immunity, then protecting adult females protects two generations at once.",
+    "ms": {
+      "title": "Ciri Ibu Berkait dengan Keupayaan Hemolitik pada Anak Penyu, Tanpa Bergantung pada Rangsangan Imun Sistemik.",
+      "summary": "Sistem imun anak penyu terbentuk sebelum ia menetas, tetapi dibentuk oleh apa? Kajian ini mendapati satu ukuran imun utama diwarisi daripada ibu, bukan ditentukan oleh keadaan sarang.",
+      "key_points": [
+        "Ukuran darah dan badan diambil daripada penyu betina yang bertelur selama dua tahun",
+        "Setiap sarang telur dipindahkan ke sarang teduh yang serupa, sekali gus menghapuskan suhu sebagai pemboleh ubah",
+        "Seekor anak penyu daripada setiap sarang diberi cabaran imun dan seekor lagi diberi plasebo",
+        "Keupayaan imun anak penyu mengikut keupayaan ibu mereka, bukan pengeraman telur"
+      ],
+      "why_it_matters": "Jika kesihatan ibu menentukan imun anak penyu, maka melindungi penyu betina dewasa bermakna melindungi dua generasi sekali gus."
+    }
   },
   {
     "title": "Evaluating the ecological risks of marine litter and derelict fishing nets on Olive Ridley hatchlings: Insights from a globally renowned rookery along the east coast of India.",
@@ -1294,7 +2236,18 @@
       "Litter was classified by material, origin and whether it floats",
       "Some of the plastic had drifted in from other countries"
     ],
-    "why_it_matters": "Hatchlings have to cross these beaches to reach the sea, so litter density on a mass-nesting beach is a direct survival obstacle."
+    "why_it_matters": "Hatchlings have to cross these beaches to reach the sea, so litter density on a mass-nesting beach is a direct survival obstacle.",
+    "ms": {
+      "title": "Menilai risiko ekologi sampah laut dan pukat nelayan terbuang terhadap anak penyu lipas: Penemuan dari kawasan pendaratan penyu yang terkenal di seluruh dunia di pantai timur India.",
+      "summary": "Kawasan pendaratan penyu Rushikulya di India menjadi lokasi pendaratan beramai-ramai melibatkan beribu-ribu ekor penyu lipas. Tinjauan sampah di empat pantai pendaratan penyu berdekatan mendapati kesemuanya dinilai kotor hingga sangat kotor.",
+      "key_points": [
+        "1,103 item sampah telah dikatalogkan, lebih 85 peratus daripadanya plastik",
+        "Beberapa indeks standard kualiti pantai semuanya memberikan skor yang rendah",
+        "Sampah dikelaskan mengikut bahan, asal usul dan sama ada ia terapung",
+        "Sebahagian plastik itu telah hanyut dari negara lain"
+      ],
+      "why_it_matters": "Anak penyu perlu merentasi pantai ini untuk sampai ke laut, jadi kepadatan sampah di pantai pendaratan beramai-ramai menjadi halangan langsung kepada kelangsungan hidup mereka."
+    }
   },
   {
     "title": "Assessment of mercury (Hg) contamination in tropical areas of the Eastern Pacific and Southwestern Atlantic oceans using two species of sea turtles.",
@@ -1308,7 +2261,18 @@
       "The Pacific region sits on a geologically active belt that releases mercury naturally",
       "Sampling used shell scutes, which requires no harm to the animal"
     ],
-    "why_it_matters": "Separating natural mercury from industrial mercury matters, because only one of them can be regulated."
+    "why_it_matters": "Separating natural mercury from industrial mercury matters, because only one of them can be regulated.",
+    "ms": {
+      "title": "Penilaian pencemaran merkuri (Hg) di kawasan tropika Pasifik Timur dan Atlantik Barat Daya menggunakan dua spesies penyu.",
+      "summary": "Merkuri memasuki lautan daripada gunung berapi dan juga daripada industri. Perbandingan antara penyu di pantai Pasifik Panama dengan penyu di Brazil menguji sama ada geologi semula jadi itu dapat dilihat pada haiwan tersebut.",
+      "key_points": [
+        "Penyu lipas dan penyu karah kedua-duanya disampel",
+        "Penyu dari Pasifik Timur membawa merkuri yang jauh lebih banyak",
+        "Kawasan Pasifik terletak di atas jalur aktif secara geologi yang membebaskan merkuri secara semula jadi",
+        "Pensampelan menggunakan sisik karapas, yang tidak memerlukan sebarang kecederaan kepada haiwan itu"
+      ],
+      "why_it_matters": "Membezakan merkuri semula jadi daripada merkuri industri adalah penting, kerana hanya salah satu daripadanya boleh dikawal selia."
+    }
   },
   {
     "title": "Comparative glycomic analysis of hawk (Rupornis magnirostris), caiman (Caiman latirostris) and sea turtle (Caretta caretta) tear films.",
@@ -1322,7 +2286,18 @@
       "Roughly half the compounds in one group carried a particular chemical modification",
       "Comparing one bird against two reptiles isolates what is reptile-specific"
     ],
-    "why_it_matters": "A sea turtle's eye is bathed in salt water constantly, so what protects it is worth understanding on its own terms."
+    "why_it_matters": "A sea turtle's eye is bathed in salt water constantly, so what protects it is worth understanding on its own terms.",
+    "ms": {
+      "title": "Analisis glikomik perbandingan filem air mata helang (Rupornis magnirostris), kaiman (Caiman latirostris) dan penyu tempayan (Caretta caretta).",
+      "summary": "Air mata melindungi mata yang terdedah secara langsung kepada persekitaran, dan molekul gula dalam air mata memainkan banyak peranan dalam perlindungan itu. Kajian ini membandingkan kimia air mata seekor helang, seekor kaiman dan seekor penyu tempayan.",
+      "key_points": [
+        "Sampel diambil daripada 10 ekor helang, 70 ekor kaiman dan 10 ekor penyu tempayan, semuanya sihat",
+        "Ratusan sebatian gula yang berbeza telah dikatalogkan bagi setiap spesies",
+        "Kira-kira separuh sebatian dalam satu kumpulan membawa pengubahsuaian kimia tertentu",
+        "Membandingkan seekor burung dengan dua reptilia dapat mengenal pasti ciri yang khusus kepada reptilia"
+      ],
+      "why_it_matters": "Mata penyu sentiasa dibasahi air masin, jadi apa yang melindunginya wajar difahami menurut keadaannya sendiri."
+    }
   },
   {
     "title": "A novel cartilage type in the sclera of Chelonia mydas: First report.",
@@ -1336,7 +2311,18 @@
       "Eyes came from turtles that died naturally or despite treatment",
       "This is the first report of this cartilage type in any marine reptile"
     ],
-    "why_it_matters": "Finding an undescribed tissue in a well-studied animal is a reminder how much basic anatomy is still unmapped."
+    "why_it_matters": "Finding an undescribed tissue in a well-studied animal is a reminder how much basic anatomy is still unmapped.",
+    "ms": {
+      "title": "Jenis rawan baharu pada sklera Chelonia mydas: Laporan pertama.",
+      "summary": "Pemeriksaan terhadap 50 mata penyu agar menemukan sejenis rawan yang tidak pernah diperihalkan sebelum ini pada reptilia marin. Dinding mata penyu ini mempunyai dua lapisan rawan yang berbeza, bukannya satu.",
+      "key_points": [
+        "Rawan mukoid yang baru diperihalkan ini terletak di dalam rawan hialin yang sudah dikenali",
+        "Rawan ini mempunyai bekalan darah, sel yang sedikit, sel penghasil pigmen dan matriks protein yang tersendiri",
+        "Mata tersebut diperoleh daripada penyu yang mati secara semula jadi atau walaupun telah dirawat",
+        "Ini ialah laporan pertama jenis rawan ini pada mana-mana reptilia marin"
+      ],
+      "why_it_matters": "Penemuan tisu yang belum diperihalkan pada haiwan yang telah banyak dikaji mengingatkan kita bahawa banyak anatomi asas masih belum dipetakan."
+    }
   },
   {
     "title": "Toxicological assessment of hawksbill sea turtle eggs from the Arabian Gulf.",
@@ -1350,7 +2336,18 @@
       "DDT and its breakdown products were prominent despite decades of restrictions",
       "Only unhatched eggs were used, so no live eggs or turtles were harmed"
     ],
-    "why_it_matters": "Finding a long-banned pesticide in every clutch shows how long these chemicals persist after the ban."
+    "why_it_matters": "Finding a long-banned pesticide in every clutch shows how long these chemicals persist after the ban.",
+    "ms": {
+      "title": "Penilaian toksikologi telur penyu karah dari Teluk Arab.",
+      "summary": "Penyu karah ialah penghuni khusus terumbu karang, jadi telurnya boleh dijadikan petunjuk yang berguna tentang pencemaran terumbu. Ujian ke atas 28 sarang telur dari sebuah pulau di UAE mendapati sisa racun perosak dalam setiap satu daripadanya.",
+      "key_points": [
+        "Racun perosak organoklorin yang diharamkan dikesan dalam 100 peratus sarang telur",
+        "Kepekatannya kira-kira tiga kali ganda berbanding sebatian berkaitan petroleum",
+        "DDT dan hasil penguraiannya menonjol walaupun sekatan telah dikenakan selama beberapa dekad",
+        "Hanya telur yang tidak menetas digunakan, jadi tiada telur hidup atau penyu yang dicederakan"
+      ],
+      "why_it_matters": "Penemuan racun perosak yang telah lama diharamkan dalam setiap sarang telur menunjukkan betapa lamanya bahan kimia ini bertahan selepas pengharamannya."
+    }
   },
   {
     "title": "Effects of Feeding Graded Levels of Gelatin Content on Growth, Feed Utilization and Health Status in Head-Started Leatherback Sea Turtles (Dermochelys coriacea).",
@@ -1364,7 +2361,18 @@
       "No turtles died during the trial",
       "Digestion and health were assessed without harming the animals, using droppings and blood"
     ],
-    "why_it_matters": "Head-starting programmes raise hatchlings past their most vulnerable stage, and that only works if the diet is right."
+    "why_it_matters": "Head-starting programmes raise hatchlings past their most vulnerable stage, and that only works if the diet is right.",
+    "ms": {
+      "title": "Kesan Pemberian Gelatin pada Pelbagai Tahap Kandungan terhadap Pertumbuhan, Penggunaan Makanan dan Status Kesihatan Penyu Belimbing (Dermochelys coriacea) yang Dibela Awal.",
+      "summary": "Penyu belimbing terkenal sukar dikekalkan hidup dalam kurungan dan diberi makan diet tiruan berasaskan jeli. Ujian ini menguji tiga kepekatan gelatin untuk mengetahui yang mana menyokong pertumbuhan terbaik.",
+      "key_points": [
+        "Penyu juvenil diberi diet yang mengandungi 2, 4 atau 6 peratus gelatin selama lapan minggu",
+        "Kumpulan 4 dan 6 peratus membesar dengan jauh lebih baik dan menggunakan makanan dengan lebih cekap",
+        "Tiada penyu yang mati sepanjang ujian ini",
+        "Penghadaman dan kesihatan dinilai tanpa mencederakan haiwan, menggunakan najis dan darah"
+      ],
+      "why_it_matters": "Program pembelaan awal membesarkan anak penyu melepasi peringkat mereka yang paling terdedah, dan ini hanya berhasil jika dietnya betul."
+    }
   },
   {
     "title": "Nest exposure to marine flooding and impacts on green turtle (Chelonia mydas) embryos under rapid sea level rise: The role of beach geomorphology and hydrodynamics.",
@@ -1378,7 +2386,18 @@
       "A seismic crisis between 2018 and 2020 caused the island to subside, raising sea level locally",
       "Beach shape and wave behaviour were mapped alongside the nests"
     ],
-    "why_it_matters": "An island that already sank gives a preview of what sea level rise will do to nesting beaches elsewhere."
+    "why_it_matters": "An island that already sank gives a preview of what sea level rise will do to nesting beaches elsewhere.",
+    "ms": {
+      "title": "Pendedahan sarang kepada banjir laut dan kesannya terhadap embrio penyu agar (Chelonia mydas) di bawah kenaikan pantas paras laut: Peranan geomorfologi dan hidrodinamik pantai.",
+      "summary": "Laut yang kian meningkat bermakna lebih banyak sarang penyu dilanda banjir, tetapi apakah yang menentukan sarang mana yang dibanjiri? Pemantauan terhadap 30 sarang penyu agar di Mayotte, tempat gempa bumi menyebabkan pulau itu tenggelam, mendapati kedudukan sarang di pantai ialah faktor penentu.",
+      "key_points": [
+        "Kira-kira 30 peratus sarang yang dipantau dilanda banjir",
+        "Penderia tekanan dalam setiap sarang merekodkan banjir secara langsung dan bukan sekadar membuat andaian",
+        "Krisis seismik antara 2018 dengan 2020 menyebabkan pulau itu mendap, lalu menaikkan paras laut secara setempat",
+        "Bentuk pantai dan corak ombak dipetakan bersama-sama sarang tersebut"
+      ],
+      "why_it_matters": "Pulau yang sudah tenggelam memberi gambaran awal tentang kesan kenaikan paras laut terhadap pantai pendaratan penyu di tempat lain."
+    }
   },
   {
     "title": "Assessment of metal distribution patterns in loggerhead sea turtles: A comparative analysis based on sex and tissue type.",
@@ -1392,7 +2411,18 @@
       "Males and females showed significantly different accumulation patterns",
       "Samples came from strandings on Turkey's Mediterranean coast"
     ],
-    "why_it_matters": "If males and females accumulate contaminants differently, then studies sampling only nesting females are getting a partial picture."
+    "why_it_matters": "If males and females accumulate contaminants differently, then studies sampling only nesting females are getting a partial picture.",
+    "ms": {
+      "title": "Penilaian corak taburan logam pada penyu tempayan: Analisis perbandingan berdasarkan jantina dan jenis tisu.",
+      "summary": "Sembilan belas unsur diukur dalam enam tisu berbeza pada sepuluh ekor penyu tempayan yang terdampar, dengan bilangan jantan dan betina yang sama banyak. Jenis tisu dan jantina penyu sama-sama mengubah unsur yang terkumpul dan di mana ia terkumpul.",
+      "key_points": [
+        "Unsur surih penting tertumpu dalam hati, dengan besi paling tinggi secara keseluruhan",
+        "Unsur dikelompokkan sebagai penting, mungkin penting, atau berpotensi toksik",
+        "Jantan dan betina menunjukkan corak pengumpulan yang berbeza secara ketara",
+        "Sampel diambil daripada kes penyu terdampar di pantai Mediterranean Turkey"
+      ],
+      "why_it_matters": "Jika jantan dan betina mengumpul bahan cemar secara berbeza, maka kajian yang hanya mengambil sampel penyu betina yang mendarat untuk bertelur hanya mendapat gambaran yang tidak lengkap."
+    }
   },
   {
     "title": "The Incubation Environment Shapes the Inflammatory Response and Enables Expression of Maternal Effects on Sea Turtle Hatchling Body Size.",
@@ -1406,7 +2436,18 @@
       "Incubation conditions influenced both immune response and body size",
       "The mother's own body size and blood chemistry were measured too"
     ],
-    "why_it_matters": "Shading nests turns out to improve hatchling immune function as well as survival, which is a stronger argument for the practice than anyone had."
+    "why_it_matters": "Shading nests turns out to improve hatchling immune function as well as survival, which is a stronger argument for the practice than anyone had.",
+    "ms": {
+      "title": "Persekitaran Pengeraman Membentuk Tindak Balas Keradangan dan Membolehkan Kesan Ibu Terzahir pada Saiz Badan Anak Penyu.",
+      "summary": "Pusat penetasan memindahkan sarang telur penyu ke dalam sarang berteduh untuk meningkatkan kemandirian. Kajian ini menggunakan reka bentuk sarang terbahagi, iaitu adik-beradik dihantar ke sarang berteduh dan sarang tanpa teduhan, untuk melihat apa sebenarnya yang diubah oleh campur tangan itu.",
+      "key_points": [
+        "Anak penyu daripada sarang berteduh lebih berat, lebih panjang dan menunjukkan keradangan yang lebih ringan apabila dicabar",
+        "Membahagikan setiap sarang telur bermakna perbandingan dibuat antara adik-beradik yang sebenar",
+        "Keadaan pengeraman mempengaruhi tindak balas imun dan saiz badan",
+        "Saiz badan dan kimia darah ibu juga diukur"
+      ],
+      "why_it_matters": "Memberi teduhan pada sarang ternyata meningkatkan fungsi imun anak penyu serta kemandirian mereka, dan ini merupakan hujah yang lebih kukuh untuk amalan tersebut berbanding sebelum ini."
+    }
   },
   {
     "title": "Marine-Inspired Multimodal Sensor Fusion and Neuromorphic Processing for Autonomous Navigation in Unstructured Subaquatic Environments.",
@@ -1419,7 +2460,17 @@
       "It processes information using neuromorphic processors that mimic how animal brains work, using far less power than conventional computers",
       "It eliminates the need for GPS and works in dark, murky waters where normal navigation systems don't function"
     ],
-    "why_it_matters": "This technology could revolutionize deep-sea exploration, underwater environmental monitoring, and inspection of underwater infrastructure by allowing robots to navigate safely and efficiently in places where traditional systems fail."
+    "why_it_matters": "This technology could revolutionize deep-sea exploration, underwater environmental monitoring, and inspection of underwater infrastructure by allowing robots to navigate safely and efficiently in places where traditional systems fail.",
+    "ms": {
+      "title": "Gabungan Penderia Multimodal Berinspirasikan Hidupan Laut dan Pemprosesan Neuromorfik untuk Navigasi Autonomi dalam Persekitaran Subakuatik Tidak Berstruktur.",
+      "summary": "Para saintis telah mencipta sistem navigasi baharu untuk robot dalam air yang meniru cara haiwan laut seperti penyu, obor-obor dan sotong kurita mencari arah dalam persekitaran bawah air yang keruh dan rumit. Daripada menggunakan GPS dan pemprosesan komputer tradisional, mereka menggabungkan penderia khas yang diilhamkan oleh haiwan ini dengan cip komputer seakan otak yang memproses maklumat dengan sangat cekap dan pantas.",
+      "key_points": [
+        "Sistem ini menggunakan beberapa penderia yang bekerjasama (seperti sotong kurita yang menggabungkan deria sentuhan dan bau) dan bukannya bergantung pada penderia tunggal yang mudah gagal",
+        "Ia memproses maklumat menggunakan pemproses neuromorfik yang meniru cara otak haiwan berfungsi, dengan penggunaan kuasa yang jauh lebih rendah daripada komputer konvensional",
+        "Ia menghapuskan keperluan terhadap GPS dan berfungsi di perairan gelap dan keruh yang menyebabkan sistem navigasi biasa tidak dapat berfungsi"
+      ],
+      "why_it_matters": "Teknologi ini berpotensi merevolusikan penerokaan laut dalam, pemantauan alam sekitar bawah air dan pemeriksaan infrastruktur bawah air dengan membolehkan robot bernavigasi dengan selamat dan cekap di tempat yang sistem tradisional gagal berfungsi."
+    }
   },
   {
     "title": "Dynamic intrusion detection for internet of drones using glowworm swarm optimization.",
@@ -1432,7 +2483,17 @@
       "It compares itself against similar bio-inspired methods and shows it's better at catching real attacks while producing fewer false alarms and using less computing time",
       "The approach is designed to adapt and work well even as drone networks grow larger and attacks become more complex and varied"
     ],
-    "why_it_matters": "As drone networks become more common in real-world applications, this technology helps protect them from cyber attacks while working efficiently on the limited computing power that drones have available."
+    "why_it_matters": "As drone networks become more common in real-world applications, this technology helps protect them from cyber attacks while working efficiently on the limited computing power that drones have available.",
+    "ms": {
+      "title": "Pengesanan pencerobohan dinamik untuk internet dron menggunakan pengoptimuman kawanan kelip-kelip.",
+      "summary": "Kertas kajian ini membentangkan sistem keselamatan baharu untuk rangkaian dron yang boleh mengesan secara automatik apabila seseorang cuba menggodam rangkaian tersebut. Sistem ini menggunakan algoritma yang diilhamkan oleh cara kelip-kelip berkomunikasi dan berkawan untuk mengenal pasti tanda-tanda amaran serangan yang paling penting dengan pantas, kemudian menggunakan tanda-tanda itu untuk menangkap pencerobohan secara masa nyata sambil menggunakan kuasa pengkomputeran yang minimum.",
+      "key_points": [
+        "Sistem ini menggunakan algoritma yang diilhamkan oleh alam semula jadi (berdasarkan tingkah laku kelip-kelip) untuk memilih secara automatik tanda amaran yang paling penting bagi mengesan serangan, sekali gus mengurangkan pemprosesan data yang tidak perlu",
+        "Sistem ini dibandingkan dengan kaedah bioinspirasi yang serupa dan terbukti lebih baik dalam menangkap serangan sebenar, menghasilkan lebih sedikit penggera palsu dan menggunakan masa pengkomputeran yang lebih singkat",
+        "Pendekatan ini direka untuk menyesuaikan diri dan berfungsi dengan baik walaupun rangkaian dron menjadi semakin besar dan serangan menjadi lebih rumit serta pelbagai"
+      ],
+      "why_it_matters": "Apabila rangkaian dron menjadi semakin lazim dalam kegunaan dunia sebenar, teknologi ini membantu melindunginya daripada serangan siber sambil berfungsi dengan cekap pada kuasa pengkomputeran terhad yang dimiliki oleh dron."
+    }
   },
   {
     "title": "Machine learning-based MPPT integration with quadratic double-extended DC-DC converter for grid-connected PV-powered BLDC electric vehicles.",
@@ -1445,7 +2506,17 @@
       "An artificial intelligence system inspired by sea turtle hunting behavior learns to constantly find and extract the maximum available power from the solar panels",
       "The system is flexible and can switch between three power sources (solar panels, electrical grid, and battery) and charge the battery when solar power is abundant"
     ],
-    "why_it_matters": "As electric vehicles become more common to reduce pollution, using solar power more efficiently could extend driving range and reduce charging costs while contributing to cleaner energy production."
+    "why_it_matters": "As electric vehicles become more common to reduce pollution, using solar power more efficiently could extend driving range and reduce charging costs while contributing to cleaner energy production.",
+    "ms": {
+      "title": "Integrasi MPPT berasaskan pembelajaran mesin dengan penukar DC-DC kuadratik dwi-lanjutan untuk kenderaan elektrik BLDC berkuasa PV yang disambungkan ke grid.",
+      "summary": "Kertas kajian ini menerangkan satu sistem elektrik baharu yang direka untuk menjana kuasa kenderaan elektrik dengan menggunakan tenaga suria dengan lebih cekap. Sistem ini menggunakan penukar khas dan algoritma kecerdasan buatan untuk menangkap kuasa maksimum daripada panel suria dan menyalurkannya kepada motor kenderaan, di samping membolehkan kenderaan menggunakan kuasa daripada grid atau bateri apabila perlu.",
+      "key_points": [
+        "Panel suria menghasilkan elektrik DC, tetapi voltannya sering terlalu rendah, jadi penukar 'Quadratic Double Extended' yang baharu menaikkannya ke tahap yang boleh digunakan dengan tekanan elektrik yang lebih rendah",
+        "Sistem kecerdasan buatan yang diilhamkan oleh tingkah laku penyu memburu mangsa belajar untuk sentiasa mencari dan mengeluarkan kuasa maksimum yang ada daripada panel suria",
+        "Sistem ini fleksibel dan boleh bertukar antara tiga sumber kuasa (panel suria, grid elektrik dan bateri) serta mengecas bateri apabila kuasa suria banyak"
+      ],
+      "why_it_matters": "Apabila kenderaan elektrik semakin menjadi biasa untuk mengurangkan pencemaran, penggunaan kuasa suria dengan lebih cekap boleh memanjangkan jarak pemanduan dan mengurangkan kos pengecasan sambil menyumbang kepada penghasilan tenaga yang lebih bersih."
+    }
   },
   {
     "title": "Correction: Metagenomic insights reveal the differences in the community composition and functional characteristics of the sea turtle microbiomes based on host species and tissue region.",
@@ -1459,7 +2530,18 @@
       "These microbial differences affect important body functions and health",
       "The original research paper needed corrections to its findings or data"
     ],
-    "why_it_matters": "Understanding sea turtle microbiomes helps scientists protect these endangered animals by revealing how their health depends on beneficial microorganisms."
+    "why_it_matters": "Understanding sea turtle microbiomes helps scientists protect these endangered animals by revealing how their health depends on beneficial microorganisms.",
+    "ms": {
+      "title": "Pembetulan: Pandangan metagenomik mendedahkan perbezaan dalam komposisi komuniti dan ciri fungsian mikrobiom penyu berdasarkan spesies perumah dan kawasan tisu.",
+      "summary": "Ini ialah notis pembetulan bagi sebuah kajian saintifik tentang mikroorganisma kecil (bakteria dan mikrob lain) yang hidup di permukaan dan di dalam badan penyu. Kajian asal itu mendapati bahawa spesies penyu yang berbeza dan bahagian badan yang berbeza mempunyai komuniti mikroorganisma yang berbeza, dan hal ini mempengaruhi cara badan penyu berfungsi.",
+      "key_points": [
+        "Penyu mempunyai mikrobiom yang berbeza bergantung pada spesies mereka",
+        "Bahagian badan penyu yang berlainan mempunyai komuniti mikrob yang berbeza",
+        "Perbezaan mikrob ini mempengaruhi fungsi badan yang penting dan kesihatan",
+        "Kertas kajian asal itu memerlukan pembetulan pada dapatan atau datanya"
+      ],
+      "why_it_matters": "Memahami mikrobiom penyu membantu saintis melindungi haiwan terancam ini dengan menunjukkan bagaimana kesihatan mereka bergantung pada mikroorganisma yang bermanfaat."
+    }
   },
   {
     "title": "Entamoeba invadens infection contributes to juvenile mortality in captive sea turtles.",
@@ -1472,7 +2554,17 @@
       "Genetic sequencing confirmed this is the same parasite species found in other reptiles, not a new variant",
       "Secondary bacterial and fungal infections occur after the parasite damages the intestinal barrier, creating a domino effect of illness"
     ],
-    "why_it_matters": "Since sea turtles are endangered and diseases are a major threat to juvenile survival, identifying this parasite and understanding how it kills sea turtles is crucial for developing better care practices in captivity and protecting wild populations."
+    "why_it_matters": "Since sea turtles are endangered and diseases are a major threat to juvenile survival, identifying this parasite and understanding how it kills sea turtles is crucial for developing better care practices in captivity and protecting wild populations.",
+    "ms": {
+      "title": "Jangkitan Entamoeba invadens menyumbang kepada kematian penyu muda dalam kurungan.",
+      "summary": "Penyelidik mendapati bahawa parasit yang dipanggil Entamoeba invadens membunuh penyu muda dalam kurungan dengan merosakkan usus, hati dan paru-paru mereka. Mereka mengenal pasti parasit ini menggunakan ujian genetik pada tisu penyu yang mati dan mendapati bahawa apabila parasit itu merosakkan usus, bakteria dan kulat lain menyerang serta memburukkan lagi jangkitan tersebut. Ini kali pertama parasit tertentu ini dikaitkan secara muktamad dengan penyakit maut pada penyu.",
+      "key_points": [
+        "Parasit E. invadens menyebabkan kerosakan teruk pada organ penyu, terutamanya usus, hati dan paru-paru",
+        "Penjujukan genetik mengesahkan bahawa ini ialah spesies parasit yang sama seperti yang ditemui pada reptilia lain, bukan varian baharu",
+        "Jangkitan sekunder bakteria dan kulat berlaku selepas parasit itu merosakkan lapisan pelindung usus, lalu mewujudkan kesan domino penyakit"
+      ],
+      "why_it_matters": "Memandangkan penyu terancam dan penyakit merupakan ancaman utama kepada kemandirian penyu muda, mengenal pasti parasit ini dan memahami cara ia membunuh penyu adalah penting untuk membangunkan amalan penjagaan yang lebih baik dalam kurungan serta melindungi populasi liar."
+    }
   },
   {
     "title": "Interspecific Gene Flow and Potential Hybrid Breakdown in South Atlantic Sea Turtles.",
@@ -1485,7 +2577,17 @@
       "Most hybrids cannot produce viable offspring, and when they do breed, it's usually with their parent species rather than other hybrids, suggesting biological incompatibility between different turtle species",
       "Even over millions of years of evolution, sea turtles have maintained genetic separation with very little successful gene mixing between species, indicating strong reproductive barriers exist"
     ],
-    "why_it_matters": "Understanding how different species can coexist and occasionally interbreed without losing their distinct identities helps us protect sea turtle populations from genetic problems and reveals how evolution maintains species boundaries."
+    "why_it_matters": "Understanding how different species can coexist and occasionally interbreed without losing their distinct identities helps us protect sea turtle populations from genetic problems and reveals how evolution maintains species boundaries.",
+    "ms": {
+      "title": "Aliran Gen Antara Spesies dan Potensi Kegagalan Hibrid pada Penyu di Atlantik Selatan.",
+      "summary": "Para penyelidik mengkaji penyu di Brazil dan mendapati bahawa spesies penyu yang berbeza boleh mengawan dan menghasilkan hibrid, tetapi hibrid ini jarang menghasilkan anak yang sihat atau berjaya menurunkan gen kepada generasi akan datang. Ini menunjukkan bahawa walaupun spesies ini mempunyai hubungan kekerabatan yang jauh, alam semula jadi mempunyai halangan terbina dalam yang menghalang mereka daripada benar-benar bergabung menjadi satu populasi.",
+      "key_points": [
+        "Empat spesies penyu yang berbeza yang hidup di perairan Brazil yang sama kadangkala mengawan dan menghasilkan hibrid generasi pertama, tetapi hibrid ini sukar membiak dengan berjaya",
+        "Kebanyakan hibrid tidak dapat menghasilkan anak yang berdaya hidup, dan apabila mereka membiak, ia biasanya dengan spesies induk mereka dan bukannya dengan hibrid lain, sekali gus mencadangkan ketidakserasian biologi antara spesies penyu yang berbeza",
+        "Walaupun selepas berjuta-juta tahun evolusi, penyu kekal terpisah secara genetik dengan percampuran gen yang berjaya antara spesies sangat sedikit, menunjukkan wujudnya halangan pembiakan yang kuat"
+      ],
+      "why_it_matters": "Memahami bagaimana spesies yang berbeza boleh hidup bersama dan sesekali mengawan silang tanpa kehilangan identiti tersendiri membantu kita melindungi populasi penyu daripada masalah genetik dan menyingkap bagaimana evolusi mengekalkan sempadan antara spesies."
+    }
   },
   {
     "title": "Phylogeography of the Olive Ridley Sea Turtle (Lepidochelys olivacea): Standardized Global Haplotype Nomenclature and Updated Mitochondrial Lineage Distributions in the Eastern Pacific.",
@@ -1498,7 +2600,17 @@
       "Three main genetic groups of olive ridley turtles were confirmed: one in the Atlantic Ocean, one in the Eastern Pacific, and one in the Indo-West Pacific region",
       "Using longer DNA sequences revealed more genetic diversity than shorter sequences, suggesting scientists should use the longer method for better accuracy in the future"
     ],
-    "why_it_matters": "This genetic roadmap helps conservationists protect olive ridley sea turtles more effectively by understanding which populations are distinct and need separate management strategies, especially for populations that declined severely over the last century."
+    "why_it_matters": "This genetic roadmap helps conservationists protect olive ridley sea turtles more effectively by understanding which populations are distinct and need separate management strategies, especially for populations that declined severely over the last century.",
+    "ms": {
+      "title": "Filogeografi Penyu Lipas (Lepidochelys olivacea): Tatanama Haplotaip Global yang Diseragamkan dan Taburan Salasilah Mitokondria Terkini di Pasifik Timur.",
+      "summary": "Para saintis mengkaji DNA penyu lipas (spesies penyu yang paling biasa) dari seluruh dunia untuk memahami salasilah keluarga mereka dan di mana populasi yang berbeza hidup. Mereka mencipta sistem penamaan piawai untuk varian genetik dan mendapati populasi penyu lipas di kawasan Atlantik, Pasifik Timur dan Indo-Pasifik Barat berbeza secara genetik, walaupun sesetengahnya mungkin berkongsi nenek moyang purba yang sama.",
+      "key_points": [
+        "Kajian ini menganalisis lebih 1,200 sampel DNA penyu dan mencipta sistem penamaan piawai supaya saintis di seluruh dunia dapat membandingkan hasil kajian dengan konsisten",
+        "Tiga kumpulan genetik utama penyu lipas telah disahkan: satu di Lautan Atlantik, satu di Pasifik Timur dan satu di kawasan Indo-Pasifik Barat",
+        "Penggunaan jujukan DNA yang lebih panjang mendedahkan kepelbagaian genetik yang lebih banyak berbanding jujukan yang lebih pendek, sekali gus mencadangkan bahawa saintis patut menggunakan kaedah yang lebih panjang untuk ketepatan yang lebih baik pada masa hadapan"
+      ],
+      "why_it_matters": "Peta jalan genetik ini membantu pemuliharaan penyu lipas dengan lebih berkesan melalui pemahaman tentang populasi yang berbeza dan memerlukan strategi pengurusan yang berasingan, terutamanya bagi populasi yang merosot teruk sepanjang abad yang lalu."
+    }
   },
   {
     "title": "Sea Turtle Nesting Beach Fidelity Revealed by Satellite Tracking.",
@@ -1511,7 +2623,17 @@
       "Turtles nesting on mainland beaches were more likely to use multiple sites than those on island beaches, partly because mainland surveys only cover small areas while the turtles might travel much farther",
       "Population estimates were significantly undercounted by about 50% when researchers only monitored one beach, since they missed turtles nesting elsewhere"
     ],
-    "why_it_matters": "Accurately counting sea turtles and understanding their nesting habits is crucial for effective conservation, especially as climate change threatens beach habitats and ocean conditions."
+    "why_it_matters": "Accurately counting sea turtles and understanding their nesting habits is crucial for effective conservation, especially as climate change threatens beach habitats and ocean conditions.",
+    "ms": {
+      "title": "Kesetiaan Penyu terhadap Pantai Pendaratan Didedahkan Melalui Penjejakan Satelit.",
+      "summary": "Para saintis menjejak penyu karah menggunakan satelit untuk memahami tempat penyu ini bertelur, lalu mendapati bahawa kira-kira separuh daripadanya setia pada satu pantai manakala separuh lagi bertelur di beberapa pantai merentasi pulau yang berbeza. Penemuan ini penting kerana pemantauan pantai secara tradisional terlepas banyak kejadian bertelur, sekali gus menyukarkan usaha mengira populasi penyu dengan tepat dan melindunginya.",
+      "key_points": [
+        "Separuh daripada penyu karah yang dijejak setia pada satu pantai pendaratan penyu, manakala separuh lagi bertelur di 2-4 pantai yang berbeza, sekali gus menunjukkan strategi campuran dalam populasi yang sama",
+        "Penyu yang bertelur di pantai tanah besar lebih cenderung menggunakan pelbagai tapak berbanding penyu di pantai pulau, sebahagiannya kerana tinjauan di tanah besar hanya meliputi kawasan kecil sedangkan penyu mungkin mengembara jauh lebih jauh",
+        "Anggaran populasi dikira terlalu rendah dengan ketara, iaitu kira-kira 50%, apabila penyelidik hanya memantau satu pantai, kerana mereka terlepas penyu yang bertelur di tempat lain"
+      ],
+      "why_it_matters": "Mengira bilangan penyu dengan tepat dan memahami tabiat bertelurnya amat penting untuk pemuliharaan yang berkesan, lebih-lebih lagi apabila perubahan iklim mengancam habitat pantai dan keadaan lautan."
+    }
   },
   {
     "title": "Feeding Practices, Body Condition, and Estimated Energy Provision in Rescued Loggerhead Sea Turtles (Caretta caretta) at a Mediterranean Rehabilitation Center: A Three-Year Retrospective Study.",
@@ -1524,7 +2646,17 @@
       "Turtles that ate a variety of foods showed better weight gain than those eating just one type of food",
       "Thawed squid was the turtles' preferred food and was easiest for caregivers to provide"
     ],
-    "why_it_matters": "Since loggerhead sea turtles are frequently rescued in the Mediterranean due to human-caused injuries and illnesses, having clear feeding guidelines helps rehabilitation centers keep these endangered animals healthy and improve their chances of surviving after release."
+    "why_it_matters": "Since loggerhead sea turtles are frequently rescued in the Mediterranean due to human-caused injuries and illnesses, having clear feeding guidelines helps rehabilitation centers keep these endangered animals healthy and improve their chances of surviving after release.",
+    "ms": {
+      "title": "Amalan Pemakanan, Keadaan Badan dan Anggaran Pemberian Tenaga pada Penyu Tempayan (Caretta caretta) yang Diselamatkan di Sebuah Pusat Pemulihan di Laut Mediterranean: Kajian Retrospektif Tiga Tahun.",
+      "summary": "Para penyelidik mengkaji cara terbaik untuk memberi makan penyu tempayan yang diselamatkan di sebuah pusat pemulihan di Laut Mediterranean selama tiga tahun. Mereka mendapati bahawa penyu makan dalam jumlah yang sesuai berdasarkan berat badan masing-masing, dengan sotong menjadi makanan yang paling diterima, dan kebanyakan penyu (90%) berjaya dilepaskan semula ke laut.",
+      "key_points": [
+        "Kajian ini menghasilkan garis panduan tentang jumlah tenaga (kalori) yang diperlukan oleh penyu tempayan setiap hari berdasarkan berat badan mereka, iaitu antara 11-22 kcal setiap kilogram bergantung pada jenis diet",
+        "Penyu yang makan pelbagai jenis makanan menunjukkan pertambahan berat badan yang lebih baik berbanding penyu yang hanya makan satu jenis makanan",
+        "Sotong yang telah dinyahbeku ialah makanan pilihan penyu dan paling mudah disediakan oleh penjaga"
+      ],
+      "why_it_matters": "Memandangkan penyu tempayan kerap diselamatkan di Laut Mediterranean akibat kecederaan dan penyakit yang disebabkan oleh manusia, garis panduan pemakanan yang jelas membantu pusat pemulihan memastikan haiwan terancam ini sihat dan meningkatkan peluang mereka untuk terus hidup selepas dilepaskan."
+    }
   },
   {
     "title": "Cardiac responses to underwater sound playback in juvenile green and loggerhead sea turtles: an exploratory biologging study.",
@@ -1537,7 +2669,17 @@
       "The heart rate changes persisted even when researchers accounted for the turtles moving around or diving deeper, meaning the response was directly to the sound itself",
       "This study demonstrates that biologging devices (tiny heart monitors attached to animals) can measure how marine creatures physically respond to environmental noise"
     ],
-    "why_it_matters": "Understanding how sea turtles' bodies respond to human-made underwater noise like ship engines is crucial for protecting these endangered animals as ocean noise pollution increases."
+    "why_it_matters": "Understanding how sea turtles' bodies respond to human-made underwater noise like ship engines is crucial for protecting these endangered animals as ocean noise pollution increases.",
+    "ms": {
+      "title": "Respons jantung terhadap main balik bunyi dalam air pada penyu agar dan penyu tempayan juvana: kajian biolog data penerokaan.",
+      "summary": "Penyelidik memasang alat pemantau jantung pada penyu muda dan memainkan bunyi dalam air untuk melihat bagaimana jantung mereka bertindak balas. Mereka mendapati jantung penyu agar berdegup lebih perlahan apabila terdedah kepada bunyi bot, manakala jantung penyu tempayan berdegup lebih laju, sekali gus menunjukkan bahawa kedua-dua spesies bertindak balas secara berbeza terhadap bunyi dalam air.",
+      "key_points": [
+        "Penyu agar dan penyu tempayan menunjukkan respons jantung yang bertentangan terhadap bunyi dalam air yang sama, menandakan kepekaan khusus mengikut spesies",
+        "Perubahan kadar denyutan jantung itu berterusan walaupun penyelidik mengambil kira pergerakan penyu atau penyelaman yang lebih dalam, bermakna respons tersebut berpunca terus daripada bunyi itu sendiri",
+        "Kajian ini menunjukkan bahawa alat biolog data (pemantau jantung kecil yang dipasang pada haiwan) boleh mengukur bagaimana hidupan laut bertindak balas secara fizikal terhadap bunyi persekitaran"
+      ],
+      "why_it_matters": "Memahami bagaimana tubuh penyu bertindak balas terhadap bunyi buatan manusia dalam air seperti enjin kapal adalah penting untuk melindungi haiwan terancam ini apabila pencemaran bunyi di lautan semakin meningkat."
+    }
   },
   {
     "title": "In situ hybridization analysis of the expression of class I and II odorant receptors in the olfactory organ of the African spurred tortoise (Centrochelys sulcata).",
@@ -1563,7 +2705,17 @@
       "The bacteria found belonged to common environmental groups like Enterobacteriaceae and Vibrio species",
       "All Vibrio bacteria tested had a gene called toxR, but lacked other genes (tdh and trh) that typically cause disease in animals"
     ],
-    "why_it_matters": "Understanding what bacteria live in sea turtle nests helps researchers protect endangered sea turtle populations by identifying potential health risks to eggs and improving hatchery practices in Indonesia."
+    "why_it_matters": "Understanding what bacteria live in sea turtle nests helps researchers protect endangered sea turtle populations by identifying potential health risks to eggs and improving hatchery practices in Indonesia.",
+    "ms": {
+      "title": "Pengenalpastian Molekul Bakteria Boleh Kultur dan Gen Berkaitan Virulens Vibrio yang Dikaitkan dengan Kulit Telur Penyu dan Mendapan Sarang di Pangandaran, Indonesia.",
+      "summary": "Saintis mengkaji bakteria yang hidup pada kulit telur penyu dan dalam tanah sarang di sebuah pantai di Indonesia untuk memahami bagaimana mikrob ini mungkin menjejaskan kesihatan telur dan kejayaan penetasan. Mereka menemui pelbagai jenis bakteria, termasuk beberapa bakteria Vibrio yang mungkin berbahaya, dengan kulit telur mempunyai lebih banyak bakteria daripada sampel tanah.",
+      "key_points": [
+        "Telur penyu agar mempunyai bakteria paling banyak pada kulitnya (2,358 CFU/mL), manakala telur penyu lipas mempunyai lebih sedikit, dan mendapan tempat penetasan mempunyai paling sedikit",
+        "Bakteria yang ditemui tergolong dalam kumpulan persekitaran biasa seperti Enterobacteriaceae dan spesies Vibrio",
+        "Semua bakteria Vibrio yang diuji mempunyai gen bernama toxR, tetapi tidak mempunyai gen lain (tdh dan trh) yang lazimnya menyebabkan penyakit pada haiwan"
+      ],
+      "why_it_matters": "Memahami bakteria yang hidup dalam sarang penyu membantu penyelidik melindungi populasi penyu yang terancam dengan mengenal pasti potensi risiko kesihatan kepada telur dan memperbaik amalan tempat penetasan di Indonesia."
+    }
   },
   {
     "title": "Mycobiota composition and diversity on the skin of the leatherback sea turtle (Dermochelys coriacea).",
@@ -1576,7 +2728,17 @@
       "Different body locations have different fungal communities, suggesting location matters for which fungi can survive",
       "Understanding the normal fungal community may help identify when fungi become harmful and cause disease"
     ],
-    "why_it_matters": "Since leatherback sea turtles are endangered and young turtles are dying from fungal infections, knowing what fungi should normally be present could help scientists prevent or treat these diseases and improve turtle survival rates."
+    "why_it_matters": "Since leatherback sea turtles are endangered and young turtles are dying from fungal infections, knowing what fungi should normally be present could help scientists prevent or treat these diseases and improve turtle survival rates.",
+    "ms": {
+      "title": "Komposisi dan kepelbagaian mikobiota pada kulit penyu belimbing (Dermochelys coriacea).",
+      "summary": "Para saintis mengkaji kulat yang hidup pada kulit penyu belimbing pada peringkat hidup yang berbeza untuk memahami apa yang normal dan apa yang mungkin menyebabkan penyakit. Mereka mendapati bahawa jenis dan jumlah kulat berubah dengan ketara apabila penyu membesar daripada telur kepada dewasa, dan juga berbeza bergantung pada bahagian badan yang diperiksa. Maklumat ini boleh membantu menjelaskan mengapa penyu belimbing muda mudah dijangkiti jangkitan kulat yang berbahaya.",
+      "key_points": [
+        "Kulat pada kulit penyu belimbing berbeza dengan ketara antara betina yang mendarat untuk bertelur, anak penyu yang baru menetas, dan anak penyu berusia 3-4 minggu",
+        "Lokasi badan yang berbeza mempunyai komuniti kulat yang berbeza, menunjukkan bahawa lokasi penting dalam menentukan kulat yang dapat bertahan hidup",
+        "Memahami komuniti kulat yang normal mungkin membantu mengenal pasti bila kulat menjadi berbahaya dan menyebabkan penyakit"
+      ],
+      "why_it_matters": "Memandangkan penyu belimbing terancam dan penyu muda mati akibat jangkitan kulat, mengetahui kulat yang biasanya terdapat pada kulitnya boleh membantu para saintis mencegah atau merawat penyakit ini dan meningkatkan kadar kemandirian penyu."
+    }
   },
   {
     "title": "Species Identification of Sea Turtles in Thailand Using DNA Barcoding Coupled With High-Resolution Melting (Bar-HRM) Analysis.",
@@ -1589,6 +2751,16 @@
       "Two specific DNA markers (TurtleDloop2 and TurtleCytb2(R1) primers) could perfectly distinguish between all five sea turtle species with 100% accuracy in blind testing",
       "The technique requires only tiny amounts of DNA (as little as 0.001 nanograms) and could work on damaged or degraded specimens"
     ],
-    "why_it_matters": "Accurately identifying sea turtle species is crucial for conservation efforts and protecting endangered populations, and this method provides researchers with a reliable tool that works faster and on more specimen types than traditional identification methods."
+    "why_it_matters": "Accurately identifying sea turtle species is crucial for conservation efforts and protecting endangered populations, and this method provides researchers with a reliable tool that works faster and on more specimen types than traditional identification methods.",
+    "ms": {
+      "title": "Pengecaman Spesies Penyu di Thailand Menggunakan Kod Bar DNA Digabungkan dengan Analisis Peleburan Resolusi Tinggi (Bar-HRM).",
+      "summary": "Saintis membangunkan kaedah yang pantas dan tepat untuk mengenal pasti spesies penyu sesuatu spesimen dengan menganalisis DNA-nya, dan bukannya bergantung pada ciri fizikal yang mungkin tidak jelas jika spesimen itu rosak atau tidak lengkap. Mereka menguji kaedah ini pada lima spesies penyu yang terdapat di Thailand dan mencapai ketepatan pengecaman yang sempurna.",
+      "key_points": [
+        "Kaedah ini menggabungkan kod bar DNA dengan analisis peleburan resolusi tinggi, yang mengesan perbezaan kecil dalam cara DNA terurai apabila dipanaskan",
+        "Dua penanda DNA khusus (primer TurtleDloop2 dan TurtleCytb2(R1)) dapat membezakan kesemua lima spesies penyu dengan sempurna, iaitu dengan ketepatan 100% dalam ujian buta",
+        "Teknik ini hanya memerlukan jumlah DNA yang sangat kecil (serendah 0.001 nanogram) dan boleh digunakan pada spesimen yang rosak atau terurai"
+      ],
+      "why_it_matters": "Mengenal pasti spesies penyu dengan tepat adalah penting untuk usaha pemuliharaan dan perlindungan populasi yang terancam, dan kaedah ini memberi penyelidik alat yang boleh dipercayai, lebih pantas dan sesuai digunakan pada lebih banyak jenis spesimen berbanding kaedah pengecaman tradisional."
+    }
   }
 ]
