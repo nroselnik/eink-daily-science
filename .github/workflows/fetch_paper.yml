@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "0 8 1 * *"      # 8am UTC on the 1st of each month
   workflow_dispatch:          # allow manual trigger
+    inputs:
+      fetch:
+        description: "Fetch new papers from PubMed"
+        type: boolean
+        default: true
+      translate_limit:
+        description: "Translate at most this many papers to Malay (0 = all missing)"
+        type: number
+        default: 0
 
 jobs:
   fetch-and-commit:
@@ -21,17 +30,26 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install anthropic requests
+        run: pip install --upgrade anthropic pydantic requests
 
       - name: Run fetch script
+        if: github.event_name != 'workflow_dispatch' || inputs.fetch
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/fetch_and_summarize.py
 
+      # Runs even if the fetch found nothing new, so the Malay backfill still happens.
+      - name: Translate to Bahasa Melayu
+        if: success() || failure()
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/translate.py --limit ${{ inputs.translate_limit || 0 }}
+
       - name: Commit updated archive
+        if: success() || failure()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/archive.json data/summary.json
-          git diff --cached --quiet || git commit -m "chore: add paper $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "chore: update papers $(date -u +%Y-%m-%d)"
           git push
