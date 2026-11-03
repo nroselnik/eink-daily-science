@@ -10,7 +10,17 @@
       "Turtles feeding in the Gulf of Mexico carried more toxin than those foraging in the Atlantic",
       "Higher toxin in hatchling livers was linked to lower nest emergence success"
     ],
-    "why_it_matters": "Red-tide blooms may quietly harm sea turtle health and reproduction, piling another stressor onto already endangered populations."
+    "why_it_matters": "Red-tide blooms may quietly harm sea turtle health and reproduction, piling another stressor onto already endangered populations.",
+    "ms": {
+      "title": "Pendedahan brevetoksin, analit darah dan kejayaan pembiakan penyu tempayan yang mendarat untuk bertelur serta anak-anaknya, barat daya Florida.",
+      "summary": "Selepas ledakan alga pasang merah yang besar di Florida, para saintis mengukur toksin alga 'brevetoksin' pada penyu tempayan yang mendarat untuk bertelur dan telur mereka. Induk menyalurkan toksin itu kepada telur dan anak penyu mereka, dan sarang yang membawa lebih banyak toksin mempunyai lebih sedikit anak penyu yang berjaya keluar.",
+      "key_points": [
+        "Toksin daripada pasang merah 2017-2019 dikesan pada penyu tempayan yang bertelur, telur mereka yang belum menetas, dan anak penyu yang mati",
+        "Penyu yang mencari makan di Teluk Mexico membawa lebih banyak toksin berbanding penyu yang mencari makan di Atlantik",
+        "Toksin yang lebih tinggi dalam hati anak penyu dikaitkan dengan kejayaan keluar sarang yang lebih rendah"
+      ],
+      "why_it_matters": "Ledakan pasang merah mungkin secara senyap menjejaskan kesihatan dan pembiakan penyu, menambah satu lagi tekanan kepada populasi yang sudah terancam."
+    }
   },
   {
     "title": "Presuming pathways of sea turtles using stable isotopes from shells of epibiont barnacles.",
@@ -23,7 +33,17 @@
       "The method reconstructed migration paths for loggerhead and hawksbill turtles found near Jeju Island, Korea",
       "It can reveal journeys where electronic satellite tags are impractical or unavailable"
     ],
-    "why_it_matters": "A cheap, tag-free way to reconstruct sea turtle migrations helps target conservation in hard-to-monitor ocean regions."
+    "why_it_matters": "A cheap, tag-free way to reconstruct sea turtle migrations helps target conservation in hard-to-monitor ocean regions.",
+    "ms": {
+      "title": "Meneka laluan penyu menggunakan isotop stabil daripada cengkerang teritip epibion.",
+      "summary": "Dengan tidak menggunakan penanda elektronik, penyelidik membaca kimia cengkerang teritip yang tumbuh pada penyu yang terdampar untuk menyusun semula tempat yang pernah dilalui penyu tersebut. 'Tanda' oksigen dan karbon pada teritip itu menjejaki laluan melalui Selat Taiwan, Filipina dan Kepulauan Ryukyu menuju ke Korea.",
+      "key_points": [
+        "Tanda kimia yang terkunci dalam cengkerang teritip berfungsi sebagai catatan perjalanan semula jadi bagi penyu perumahnya",
+        "Kaedah ini menyusun semula laluan penghijrahan penyu tempayan dan penyu karah yang ditemui berhampiran Pulau Jeju, Korea",
+        "Kaedah ini dapat mendedahkan perjalanan yang sukar atau mustahil dijejaki dengan penanda satelit elektronik"
+      ],
+      "why_it_matters": "Cara yang murah dan tanpa penanda untuk menyusun semula penghijrahan penyu membantu memfokuskan usaha pemuliharaan di kawasan lautan yang sukar dipantau."
+    }
   },
   {
     "title": "Simulating 135 years of post-hatchling sea turtle dispersal in a dynamic North Atlantic Ocean.",
@@ -36,7 +56,17 @@
       "68% drifted east past 60 degrees W, most ending up near the Azores",
       "Drift was lowest around 1896-1900 and highest a century later, tracking climate shifts"
     ],
-    "why_it_matters": "Linking ocean climate to where hatchlings drift helps predict how warming seas will reshape sea turtle populations."
+    "why_it_matters": "Linking ocean climate to where hatchlings drift helps predict how warming seas will reshape sea turtle populations.",
+    "ms": {
+      "title": "Simulasi 135 tahun penyebaran penyu selepas menetas di Lautan Atlantik Utara yang dinamik.",
+      "summary": "Menggunakan model peredaran lautan, para penyelidik mensimulasikan bagaimana anak penyu tempayan dari Pantai Timur A.S. hanyut merentasi Atlantik selama 135 tahun. Kebanyakannya hanyut ke arah Azores, dan jumlah hanyutan ke timur meningkat sepanjang seratus tahun lalu seiring dengan laut yang semakin panas dan arus yang semakin kuat.",
+      "key_points": [
+        "Enam juta anak penyu maya dijejaki melalui 135 tahun arus Atlantik simulasi",
+        "68% hanyut ke timur melepasi 60 darjah B, dan kebanyakannya berakhir berhampiran Azores",
+        "Hanyutan paling rendah sekitar 1896-1900 dan paling tinggi seabad kemudian, selari dengan perubahan iklim"
+      ],
+      "why_it_matters": "Mengaitkan iklim lautan dengan lokasi hanyutan anak penyu membantu meramalkan bagaimana laut yang semakin panas akan mengubah populasi penyu."
+    }
   },
   {
     "title": "Tracking rehabilitated sea turtles in the Indian Ocean using satellite telemetry: behaviour, ecology, and conservation.",
